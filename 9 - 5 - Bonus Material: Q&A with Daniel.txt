@@ -1,0 +1,533 @@
+[BLANK_AUDIO]
+Hi everybody, welcome to the week eight
+bonus
+materials for Professor Akhil Amar's
+Constituinal Law Coursera Class.
+I'm Daniel one of your TF's and I'm going
+to pick up
+where we left off last week with the
+online q and a session.
+By answering some of the questions that we
+didn't
+have the chance to address in the online
+forum.
+So I wanted to start off with a question
+that James Rasts asked.
+And that was about tears of scrutiny, and
+he said, you know I've heard that
+the Supreme court often will use different
+tears of scrutiny for different types of
+cases.
+What's that about?
+Could you explain that?
+so, first I have to give a little hat
+tip to Alec, who originally responded to
+this question.
+because he gave a very good answer that
+actually
+pretty thoroughly laid out what this
+scrutiny language means.
+But, I just wanted to talk a little about
+it and to help clarify things further.
+So, as Alec suggested, the tiers of
+scrutiny are generally involved in equal
+protection cases.
+So, cases arising under the Fourteenth
+Amendment.
+So if we remember from some of our earlier
+lectures,
+the 14th Amendment or Section One of the
+14th Amendment says
+among other things, that no state shall
+de-, shall deny to
+any person within its jurisdiction the
+equal protection of the laws.
+So That's pretty vague language.
+Question what does it really mean?
+An obvious answer would be something like
+well everybody has to be treated equally.
+We can't have laws that discriminate
+right?
+But obviously that's not quite
+satisfactory because every law
+discriminates or at least most do in way
+or another.
+If I pass a law that says cocaine is
+illegal.
+Which indeed is a law that we've passed.
+That makes it discrimination between
+people who use
+cocaine and people who don't use cocaine,
+right.
+People who want to use cocaine are
+adversely
+affected by this law, in some cases very
+significantly.
+They might face long prison terms.
+And people who don't want to use cocaine
+are fine.
+Alright, so really we, what we say when we
+say no states can deprive equal
+protection of the laws, we mean certain
+types
+of discrimination, certain types of
+classifications aren't alright.
+And the Supreme Court has spent a lot of
+time trying to figure
+out, trying to explain what types of
+classifications are alright and what types
+aren't.
+And so the basic framework they've come up
+with is a three tiered system of scrutiny.
+And so the lowest level is what's called
+the, the rational base of scrutiny.
+And that's, the, amount of scrutiny that's
+applied to kind of most every day
+legislation.
+For example, you know economic regulation
+that said you
+need to be, this is actually a thing in
+this
+case, you need to be a particular type of
+license
+optician in order to sell particular types
+of eyeglasses, right.
+That a law like that would.
+Be subject to rational basis scrutiny,
+which
+means in order to survive a challenge, it,
+the government only needs to show that
+it's rationally related to some legitimate
+government interest.
+And the court has generally interpreted
+that standard very loosely.
+So as long as the government can come
+forward and
+say there was a reason, basically, that we
+passed this law.
+We weren't just completely making it up.
+The law will be upheld.
+Now, on the other end of the spectrum is
+what's called strict scrutiny.
+And the court tends to apply this when
+laws
+differentiate in ways that, that are
+called suspect classifications.
+And the most notable example of this is
+race, classifications based on race.
+But But other other categories have been
+thrown in there too.
+the, the, doctrine originally emerged from
+a case called Korematsu v.
+The United States, which is an infamous
+moment in Supreme Court
+history when the Supreme Court actually
+said that Japanese internment were
+constitutional.
+But at least while they were doing that
+they said that.
+You know, a racial classification, like
+say putting only Japanese people in
+these prison camps, basically, needs to
+be narrowly tailored to a compelling
+interest.
+So, as opposed to rational basis, where we
+just said, just give us a
+reason and we're good to go, here It can't
+be any reason, it has
+to be a compelling government interest,
+and you can't just show that this law
+forwards that interest, you have to show
+that it's narrowly tailored to that
+interest, right?
+So, there couldn't have been less
+restrictive means
+that you could of used to forward the
+interest.
+And then in between strict scrutiny and
+rational
+basis there's something that the court has
+called.
+Intermediate scrutiny.
+In which case something has to be
+substantially related to a important
+Government interest.
+So, as you can see that language is
+sort of, kind of, trying to chart a
+middle course between rational basis on
+the
+one hand, strict scrutiny on the other.
+But, notable instance where this has
+been applied is some gender discrimination
+cases.
+But but this is a very complicated topic,
+as my kind of high-level explanation
+probably already suggests.
+So, I encourage you to go read up on on
+this.
+There's tons of material out there in the
+secondary
+literature, but thanks, James, for
+bringing the issue up.
+So the next issue that I wanted to
+talk about is related to rights in the
+Constitution.
+And this is a question that Rob and noone
+will actually ask, which is, you hear
+a lot of talk about the idea on the one
+hand, that rights are sort of.
+People have rights because they're people,
+right?
+They have human rights, natural rights.
+And then the other, some people sort of
+talk about rights
+as if they were kind of conferred by a
+government or positive rights.
+You have these rights because we've chosen
+to give them to you.
+And you know, Rob was little critical of
+the
+idea of natural rights and he has, I mean.
+Are, was the creation of the Bill of
+Rights and the US Constitution
+sort of responsible for leading to the way
+that we think about rights today.
+And I'd say yes and no.
+I think it's important to consider the
+extent to
+which the constitution and the way it
+talks about rights.
+Actually it does or doesn't reflect.This
+idea
+that everyone just has rights because
+they're people.
+Because, you know they're human.
+In particular, I'd like to use this chance
+to bring
+up the work of one of Professors Ahmad
+colleagues actually.
+Another famously constitutional law
+scholar here
+at Yale called Bruce Ackerman, and Bruce
+Ackerman is written a famous series of
+books actually called We the People.
+And in the first of his books first volume
+of the We The People series.
+He talks a little about 3 different ways
+that you
+could think about your kind of rights visa
+vi in government.
+So on one hand you have democratic monism.
+So that's sort of the weakest conception
+of what rights are.
+In a democratic monis vision of the world.
+The popular majorities can basically do
+what they want.
+If we pass a law that gets 51% of the
+vote.
+That's the law and if you don't like it.
+If it, you know, makes you do something
+that you
+think the Government shouldn't be able to
+make you do.
+Tough luck.
+You know, bring it to the ballot box.
+Try to win the next election.
+And then the other side of the spectrum.
+Might be a what he calls a rights
+foundationalist approach.
+And this is sort of a kind of natural
+rights human rights [INAUDIBLE].
+There are certain rights that are so
+fundamental
+that the government can never intrude on
+them.
+But the political community no matter how
+many people that
+we should do x if x intrudes on these
+rights.
+Doesn't matter.
+Still can't do it.
+And then he suggests a intermediate view,
+called a dualist view.
+Right.
+Where maybe we take certain rights and we
+think that they're important enough that
+we want
+to enshrine them and make them very, very
+hard for the political community to
+intrude on.
+But maybe not impossible.
+And so.
+Bruce Ackerman says that you can look
+around the world and you
+can see different types of constitutional
+systems that follow these different
+models.
+So if you want an example of democratic
+monism, you'd
+go to the United Kingdom, that in Britain
+you actually.
+You know?
+The.
+Britain.
+Britain is famous for having a long
+history of rights.
+But those are really rights against the
+King.
+You don't actually have rights against
+Parliament.
+If Parliament, which is the embodiment of
+The
+people, their elected representatives
+decides to pass a law.
+And you think it intrudes on your rights.
+You're out of luck.
+There's no higher law against which
+Parliament has helped.
+On the flip side, if you want an example
+of foundational rights constitution.
+Bruce Ackerman say's the German
+Constitution.
+And the German Constitution actually says,
+you
+know there are certain Provisions, that
+basic law.
+Certain, certain rights that are so
+fundamental that we
+can never go back and re, take away those
+rights.
+Doesn't matter how many people agree, we
+can't, you know, amend
+our Constitution or do anything to change
+these sort of fundamental precepts.
+But then the American Constitution
+according to Ackerman, and I
+think this is a compelling view, Is a
+democratic dualist constitution.
+It's somewhere in between, right?
+It lays out certain rights, certainly, in
+the Bill of Rights.
+But they're not exempt from amendment.
+If we were to change our mind later, we
+could change,
+we could, we could repeal portions of the
+Bill of Rights.
+We could, we could debate what rights do
+people really have and what rights they
+don't.
+But we can't just do it through normal
+politics.
+51% of the country can't Take away, you
+know,
+your fourth amendment rights against
+unreasonable searches and seizures.
+But, if we use the article 5 process, we
+actually could.
+So, I'd say that the United States
+Constitution
+is in fact a sort of dualist constitution.
+It isn't necessarily espousing exactly the
+kind of natural rights or
+human rights that you, Rob, that you were
+a little concerned about.
+But it's interesting to think about.
+The way that these different theories of
+rights play
+out in the American constitution and in
+other constitutions.
+So then I wanted to bring up another
+question from Eduardo Felix de Crus,
+That was a question about what's, what's
+Professor Marrs reading of the ninth
+amendment.
+Remember the right, the ninth amendment
+says, well
+just because something isn't really
+mentioned in the constitution,
+that doesn't mean that that should be
+construed
+to deny the existence of any other rights
+elsewhere.
+And, what it rightly asks, so what's
+Professor Marr's view of that.
+And if there are other rights out there,
+where do they come from?
+How do we find them?
+So I just wanted to read a little
+passage that, from Professor Mars' book"
+America's Unwritten Constitution".
+This starts on page 102.
+He says," Although the ninth amendment
+offers little detailed guidance about how
+to find un-enumerated rights, it does give
+us one powerful textural clue..."
+Proudly echoing the Preamble, the
+Amendment
+speaks of unenumerated rights of the
+people.
+Proper enumerated rights should be popular
+rights.
+Rights that the American people, and not
+merely a few judges following their
+own subjective sensibilities, have in some
+way or another endorsed, embraced,
+enacted, embodied.
+So, that may not seem entirely concrete, I
+mean he doesn't say so
+it's A, B, C, and D, but he does kind of
+give you a
+sort of methodology for how to think about
+whether a right is really a
+right of the American people, whether we
+have somehow embodied it in our culture.
+And in fact, a lot of this book is
+about different ways of finding What those
+unenumerated rights are.
+And a this relates actually a little to a
+question a few other people asked on the
+discussion forum.
+Which is are there judicial opinion that
+Professor Marr disagrees with.
+Situations where the court has found
+rights
+that Professor Marr thinks you just can't
+find.
+And I think the answers yes and the
+methodology's laying out there
+sort of, sort of explains how you might
+find one if those instances.
+For example when the Court tried to, or
+sorry, has put forth something called the
+Exclusionary Rule.
+That evidence that you find through an
+unreasonable
+search under the Fourth Amendment isn't
+admissable in court.
+Professor Maher thinks that actually, that
+right can't be found.
+Not just in the text but also in the
+kind of, surrounding History ethos of the
+American people.
+So you know, you, you can, I think that he
+discusses actually
+in great length exactly what kind, what
+kind of sources you can use.
+What you can consult to really figure out
+whether something makes the cut.
+And then the final question that I wanted
+to
+bring up, and this actually comes from
+James Rasts again.
+So congratulations James, that you got two
+in here.
+and, and, I just want to bring it
+up because I think it's, interesting,
+little point.
+And actually it is related to some
+litigation going on right now.
+What he said is, you know.
+If corporations are people, why can't they
+be drafted for the military?
+I think this is an interesting question
+because, you
+now share this phrase tossed about all the
+time.
+Well corporations are people.
+Mitt Romney famously said this when he was
+campaigning for president.
+A couple years back and you say,
+corporations are people, my friend.
+And and people often associate this with
+the recent
+Supreme Court opinion, Citizens United
+versus Federal Elections Commission.
+Which held that corporations had certain
+free speech rights
+that couldn't be impinged on under the
+first amendment.
+But I think it's important to clarify that
+the court has never held as a broad
+matter.
+If corporations are people, in all
+circumstances.
+Clearly it's a bit of a contextual
+inquiry.
+And I think part of what reveals that, is
+that there are these circumstances
+in which it would feel like it is absurd
+to talk about corporations as people.
+For example, corporations can't vote.
+Or corporations can't run for president.
+Or, and this is the example James pointed
+out, corporations can't be drafted.
+I mean, it, it's unclear what that would
+even really
+mean to say, send a corporation to fight
+in the war.
+Like, Coca-Cola, can Coca-Cola go to
+Afghanistan to, to fight?
+so, so, it's clearly a contextual inquiry.
+And as I said, these types of questions,
+so what kind of circumstances are
+corporations Like
+people and what kind of circumstances are
+they
+not are actually very relevant for a
+contemporary litigation.
+There's a case you may have heard of, or
+actually a couple of cases.
+Ha, one, Hobby Lobby, and another
+Constelga, which are related.
+And this is about the,
+mandate under the new health insurance law
+that
+employers, provide health insurance that
+offers contraceptive coverage.
+And certain employers have said, well, you
+know, that violates our religious believes
+because we, we, we think con,
+contraception is immoral under our
+religious tenets.
+We don't want to provide our employees
+with health insurance that covers that.
+And the claim that they're asserting is
+actually.
+Not entirely under the Constitution, it's
+under a, a statute called the Religious
+Freedom Restoration Act, the RFRA, but we
+don't have to get into the details.
+The reason I bring this up is because an
+interesting question
+in this case is can a corporation have a
+religion, because these
+are not individuals who say I can't
+provide health insurance for
+someone, they're corporations that say we
+can't provide health insurance for
+someone.
+And it seems a little funny to say, well,
+the corporations religious free exercise,
+the corporations religious beliefs
+are somehow being infringed upon forcing
+it to provide
+contraception coverage in its health
+insurance to its employees.
+But we're going to have to see how the
+court ultimately rules about this.
+But if there, whether a corporation can
+have a religion under what kind of
+circumstances.
+If this is a circumstance like a
+corporation being drafted where it just
+doesn't
+make sense to think of it the way that we
+think of a natural person.
+So thanks a lot for all your great
+questions.
+Of course I didn't even come close to
+addressing all of the good ones that
+got put up there, but I look forward to
+hearing more from you in the future.
+Thanks a lot.
+

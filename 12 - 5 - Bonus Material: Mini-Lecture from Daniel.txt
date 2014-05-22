@@ -1,0 +1,538 @@
+[BLANK_AUDIO]
+Hi.
+Welcome to another week of bonus materials
+for Professor Akhil Amar's Constitutional
+Law Coursera class.
+I'm Daniel, one of your TFS.
+Today I wanted to discuss a current event
+that brings
+up a lot of the issues that we've been
+discussing.
+In the course of Professor Amar's
+lectures,
+and some of the other bonus materials.
+That's the recent Supreme Court case of
+McCutcheon V FEC which is
+a constitutional law case that's been
+getting a lot of press recently.
+The Supreme Court handed down its opinion
+in the case just a couple weeks ago.
+And what the case was about was the
+constitutionality of campaign
+contribution limits established under the
+federal election campaign act of 1971.
+So, that act is one of the kind of
+primary bastions of campaign finance
+regulation in the United States.
+And it sets out a couple of things.
+It both says how much you can contribute
+to any individual campaign or any
+individual candidate.
+Then it also puts in place aggregate
+limits.
+That say how much you can one person can
+spend in an, across
+all candidates, across all donations they
+want to make in a given election cycle.
+Currently limit that is around $120,000,
+depending on exactly how you slice it.
+so, this challenge was brought by a man
+named
+Shaun McCutcheon, hence the name
+McCutcheon of the FEC.
+In which the, and he, he said, you know,
+these limits were restricting my ability
+to engage in
+political speech, because I made the
+maximum number of
+contributions, and I still wanted to
+donate more candidates.
+I wanted to express myself, using money,
+in more
+ways, and the government was not letting
+me do that.
+That's a violation of my First Amendment
+rights.
+So this is a case that arises under the
+first amendment,
+which is something we've talked about
+pretty extensively in this course.
+And just to remind you, the first
+amendment says, the Congress shall make
+no law respecting an establishment of
+religion
+or prohibiting the free exercise there of.
+That's the religion part, it's not as
+relevant but,
+then it says, or abridging the freedom of
+speech.
+So,
+as you can see, that text doesn't
+necessarily give
+us that much to go off of on its own.
+It's pretty vague.
+It says abridging the freedom of speech.
+What does that mean?
+Surely it doesn't mean that Congress can
+make no laws concerning speech of any
+kind.
+We have plenty of laws outlawing things
+like libel, right?
+Or outlawing things like sharing secrets
+of the United States government.
+There are clearly cases where the
+government can restrict speech.
+The question is where and why.
+And one big issue that comes up under the
+First Amendment is to what extent can the
+government regulate.
+People's participation in elections, which
+often, in the
+present world, takes the form of
+contributing money.
+So when the court is trying to figure out,
+well, what restrictions
+are permissible, what restrictions aren't
+permissible,
+under vague texts like the first
+amendment.
+Often they look at precedents, look at
+what the court has done before.
+And we've talked a lot about reasoning
+from precedent and the role that past
+cases
+play in some of our lectures addressing
+the things brought up in Professor Mars's
+book.
+America's Unwritten Constitution.
+So this case presents a great example of
+how that works, because it largely dealt
+with
+a framework set up in a, famous Supreme
+Court case from 1976 called Buckley vs
+Ohio.
+And in Buckley V Valeo, the Court made a
+distinction, which has endured
+to this day, between expenditures on the
+one hand, and contributions on the other.
+So what the Court said was, you can't, it,
+it, it, it's, you have to have very
+compelling reasons if you want to
+regulate, expenditures that a
+campaign makes, so what a campaign
+actually spends But
+you have a little bit more leeway under
+the first amendment to regulate people
+contributions, so if
+people want to give money to campaigns
+There's more
+leeway to restrict that, especially if you
+are trying
+to restrict actual corruption or the
+appearance of corruption.
+We don't want to make it look like people
+can buy politicians.
+We kind quid pro quo arrangement where I
+donate
+to your campaign and in return for your
+behavior later.
+so, in the aftermath of Buckley V Valeo
+that kind of campaign finance, regime that
+we've developed,
+as I mentioned earlier, has both
+restrictions on
+the contributions you can make to any
+individual campaign.
+And then also restrictions on how many
+contributions you can make total, across
+multiple campaigns.
+so, here in this case someone brought a
+challenge, [INAUDIBLE] brought a challenge
+to the aggregate limits.
+And the Court was looking at its past
+precedents, looking at Buckley V Valeo,
+looking at a
+lot of other doctrine that's developed
+since then, including
+Citizens United which I'll get to in a
+second.
+And asking whether this limit on aggregate
+expenditures is
+actually permissible in light of all the
+precedents we have.
+And so so what kind of reasoning do they
+engage in?
+To do this inquiry.
+So they start from the premise that there
+are very
+serious First Amendment interests that are
+implicated in this case, and
+that's because contributing money is, at
+least in some sense, an
+exercise of the individual's right to
+participate in the electoral process.
+That's the court's reasoning, you know,
+that the way
+that you make your voice heard in the
+modern political
+process often is by contributing money to
+a campaign
+you say Look, this is an issue I care
+about.
+This is a politician I care about.
+And so I'm going to make my voice heard by
+giving money
+to that cause, by making that politician
+more likely to get elected.
+So as a result, if the government is
+going to
+restrict this kind of fundamental First
+Amendment, right, First
+Amendment interest, according to the
+Court's reasoning, it needs
+a, it needs a very compelling reason to do
+so.
+And the means that it uses in order to, to
+forward that reason
+have to be kind of narrowly tailored to
+the interest that it's serving.
+So the core here says we agree that the
+government does have an interest;
+but it's a pretty narrow interest in
+preventing quid pro quo corruption, which
+is
+basically bribery or close to it Where you
+actually make a contribution with the
+explicit expectation that a politician is
+going to
+act the way you want in the future.
+and, what the Court said is, you know,
+aggregate campaign spending limits aren't
+really closely tailored to this rule at
+all, because
+They don't prevent, an individual from
+giving so much money to
+any individual candidate that that
+candidate
+would feel beholden to the donor.
+That's what base, campaign limits are for,
+right?
+That's what the limits that say, you can
+only
+donate X amount of dollars to a particular
+candidate do.
+And so, as a result these, these, these
+limits on how many different
+candidates you can donate to, how many
+money you can give across the board.
+Don't really forward this clear, this
+interest in preventing quid pro quo
+corruption.
+That's the court's reasoning, and, they
+say that, you
+know, the, the fear that, well, maybe if
+there were
+no aggregate limits people could donate to
+multiple entities that
+would then in turn donate that money to an
+individual.
+They say, this, this, the court said this
+is too speculative.
+That's not really something we're too
+concerned about.
+And the Court also says we're not
+concerned, we don't recognize a
+compelling government interest in reducing
+the amount of money in politics, or
+in, kind of, reducing the appearance of a
+culture in which money drives politics,
+The, the, the courts recognize interests
+here are, are much narrower.
+They're about actual kind of quid pro quo
+corruption.
+so, as a result of all that, what the
+court says is, these aggregate campaign
+spending limits don't, aren't closely
+tailored to the interests we recognize.
+They are, as a result, an
+unconstitutional restriction on
+individuals' political speech rights.
+So they struck down those limits.
+A lot of people are either, some people
+are
+happy about it, some people are very
+concerned about it.
+But I want to now that we kind of laid out
+what happened, just talk about a couple
+interesting implications of it.
+So, so, one question, and, and I think a
+couple people actually brought this
+up in some of the discussion forums, is
+how does this relate to Citizens United?
+So Citizens United V FEC it's a case from
+a few years ago.
+That, was also about campaign finance,
+that also struck down,
+campaign finance laws restricting the kind
+of expenditures that corporations actually
+engage in.
+And it also generated a ton of press.
+So how do those two key, how does
+this case, McKutcheon, relate to that
+case, Citizens United.
+so, at a high level, you could first say
+they're not exactly about the same thing.
+Citizens United was about the the
+political speech rights of corporations
+and kind of what types of expenditures
+corporations could engage in.
+This case McCuthen is about the aggregate
+contribution limits.
+Remember I mentioned earlier that there's
+a distinction between expenditures and
+contributions.
+So Citizens United is really an
+expenditure case, this is really a
+contribution
+case So, so it's not exactly the same, the
+same type of situation.
+But they are clearly, thematically linked
+and also practically linked.
+So first thematically they are both part
+of a
+trend over the past last almost decade at
+this point.
+In which the Court has engaged in very
+rigorous
+review of campaign finance laws frequently
+striking them down.
+There have been actually been six
+campaign finance opinions related to First
+Amendment
+challenges to the campaign finance law,
+since
+Justice Alito and Roberts joined the
+Court.
+And all of them have upheld the First
+Amendment claim, so, you know,
+that's bad for campaign finance law, if
+you're a fan of campaign finance law.
+And all of them, except for one of the
+five-four decisions, so
+there's certainly at least a particular
+block of this core that's very interested.
+And asserting first amendment rights for
+political speech and
+scaling back campaign finance reforms and
+restrictions as a result.
+And this is the latest substantiation of
+that, Citizens United was another example
+both cases had, the, the same lineup in
+terms of justices.
+Voting for them.
+So so then, I think both cases also, if
+you're going to talk about thematic links
+reflect a kind of
+narrow view of what corruption means of
+what the government's interest
+in regulating campaign expenditures or
+contributions actually are.
+And this is what I mentioned earlier.
+They kind of narrow quid pro quo
+corruption.
+The kind of most clear sort of be-latent
+forms of corruption, where
+I just give you money in return for some
+sort of promise.
+And are less concerned with the idea that.
+There's a kind of collective interest that
+we
+all have in having a political process
+that
+feels fair, or that feels responsive to
+the
+interests of everyday people rather than
+the rich.
+The, the court has generally been
+dismissive of kind of
+of that sort of larger, systemic interest
+and more
+concerned with the individual rights of
+people who want
+to have their opinions heard in the
+political process.
+So, the first amendment is really about
+protecting those individual rights.
+And that led to the Citizens United result
+that led to the result here.
+Excited different ways.
+Another link, and this one's practical,
+rather than
+kind of thematic, is that, so, Citizens
+United established
+that corporations share many of the
+political speech rights
+of people, so presumably, if individuals
+are not limited.
+By aggregate's spending limits, either are
+corporations.
+So this means that corporations, if they
+want to contribute to political campaigns
+will
+still be subject to certain limits on
+how much they can contribute to any
+individual.
+But not limits on how much they can donate
+in aggregate.
+So theoretically McCutchen does open the
+door, not just for wealthy individuals.
+But also wealthy corporations to donate
+massive sums of
+money across many different candidates
+within the same election cycle.
+And understandably, a lot of people are
+potentially concerned about this.
+They say look, you know, this He's only
+going
+to add to the perception that money
+dominates politics.
+That politics is for special interests of
+the rich, it's not for ordinary people.
+But on the flip side there are others that
+say this is what the first
+amendment is about, the first amendment is
+about
+individuals rights to participate in the
+political process.
+It may not always be popular, but
+sometimes you
+know, justice Robertson, uses McCutchin
+and he knows this.
+Sometimes First Amendment requires you to
+defend
+unpopular speech, whether it's the right
+of
+Nazi's to march, or it's the right of
+people to protest at military funerals.
+And in this case the simple that maybe
+it's unpopular for wealthy individuals to
+donate lots of money to Political
+campaigns
+and advance causes that they care about.
+That doesn't mean that we can stop them,
+it doesn't mean we can silence them.
+That's what the First Amendment's about.
+So, you know, I mean, both both sides of
+the spectrum
+have a lot to say about this side of the
+issue.
+One other kind of larger point he brings
+up
+is this issue of judicial activism verses
+judicial restraint.
+Which are terms you may have heard thrown
+about
+at one point or another Often you hear the
+claim
+that at least from the conservative side
+of the spectrum,
+that liberals and liberal justices will
+engage in judicial activism.
+Will try and, go beyond say, the the text
+of the statute or consti, the Consitution
+in order to kind of pronounce broad right
+or engage in sort of legislating from the
+bench, that's a phrase
+you sometimes hear, but I think as this
+case shows Judicial restraint.
+And no party or no political ideology has
+a monopoly on judicial restraint.
+In fact, if you look at the opinions in
+Citizens United, you see the, you know,
+Justice Breyer's dissent.
+You know, Justice Breyer is often
+characterized as a liberal justice, making
+some of these same judicial activism
+charges that you often hear from
+conservatives.
+Saying, well, look, the real thing,
+judicial restraint here
+means letting the political branches pass
+the laws they want.
+Where you have here a conservative
+majority engaging in judicial activism by
+imposing
+their view of the political process, the
+First Amendment, on, on the political
+branches.
+So I think the case is a
+nice illustration that who's exhibiting
+traditional restraint and
+who isn't often depends on where you're
+sitting
+hard to reliably say in an objective way.
+so, what comes next?
+As many people have noted, this could be a
+prelude.
+It likely is to even more challenges to
+campaign finance laws.
+the, this time, it was about aggregate
+campaign spending limits, but maybe next
+time, it'll
+be about the base limits themselves, about
+the limits on how much you can donate.
+To any individual campaign, and maybe
+Buckley V Valeo's distinction between
+expenditures and contributions is just
+going to be thrown out the window.
+And we're going to move to a regime where
+it's
+very difficult to regulate any aspect of
+political spending.
+Another possibility, though, and this is
+something else people have suggested, is.
+Maybe, as a result, we have a
+Constitutional Amendment, and this
+is something that Amar talks about in a
+number of places.
+And then we've brought up in a lot of
+lectures in this course.
+The Constitution isn't fixed.
+If we decide that some outcome that
+follows from the
+constitutional text isn't something that
+we want, isn't something that we
+want to be part of our political
+community, like, say, An
+inability to, regulate campaign
+contributions
+and expenditures, can change the
+Constitution.
+And perhaps if people are outraged about
+what some of
+the Court's holdings on, the First
+Amendment entail for the
+political process, this would be an
+opportunity to think about
+how we want the Constitution to look in
+the future.
+So I encourage you if you're curious to
+read
+more about this case, to check it out on
+the
+internet, because there are literally
+thousands of different opinions
+you can find addressing all different
+aspects of this case.
+so, really just scratched the surface
+here, but
+I hope this gave a chance to think about
+how some of the issues that we're
+discussing in
+this course play out in a real world
+context.
+So, thanks a lot, and look forward to
+seeing you soon.
+[MUSIC].
+[BLANK_AUDIO]
+

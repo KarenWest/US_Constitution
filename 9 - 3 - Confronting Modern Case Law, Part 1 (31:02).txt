@@ -1,0 +1,976 @@
+[BLANK_AUDIO]
+Welcome back!
+We've been talking about various tools and
+techniques for going
+beyond the written Constitution while
+remaining faithful to it.
+We've talked about the idea of reading the
+Constitution,
+not clause by clause, but as a whole and
+seeing
+larger principles in it, like separation
+of powers, checks and
+balances, the rule of law, limited
+government, federalism, the idea
+that no man should be a judge in his own
+case.
+So that's one technique.
+We've talked about the technique of, of
+paying
+attention to the particular historical
+processes by which the
+Constitution was in fact enacted and later
+amended,
+and how those processes gave rise to
+certain principles.
+Like a broad principle of free speech and
+majority rule, at the founding, a broad
+principle
+of republican governments during the
+reconstruction.
+We've talked about how careful
+constitutional interpreters should pay
+attention to the lived experiences of
+ordinary Americans, who
+in the process of living their lives,
+embody all
+sorts of unenumerated rights that are
+worthy of constitutional protection.
+Because the text says that there may
+indeed be unwritten, unenumerated rights.
+It doesn't quite tell us how to find
+them, but says that they shouldn't be
+disregarded, disparaged.
+and, and one way to, to find them is to
+pay attention
+to how ordinary people live their lives,
+and embody them, a lived constitution.
+In the course of examining those tools and
+techniques,
+we've made passing reference to case law,
+to judicial opinions.
+But we haven't
+focused on judicial opinions front and
+center.
+And we're going to do that in today's
+lecture and the next one.
+Because of course case law, judicial
+opinions, form one very important
+prism through which we read the, the, the
+written Constitution.
+they, we are going beyond and outside the
+written Constitution when we look at the
+cases.
+The cases,
+strictly speaking, aren't the words of the
+terse text of the document, this, this
+handy-dandy pocket copy.
+They, they're outside of it, the,
+the, these cases, but, but, in principle
+they aim to, to clarify and illuminate it.
+And the $64,000 question is, do they
+clarify and illuminate,
+or do they in fact distort these iconic
+and important cases?
+We're going to pay particular attention to
+the cases of the Warren Court.
+You've heard about the Warren Court.
+And we're going to talk about it in this
+lecture and the next one.
+I just, and, by the way, this is Earl
+Warren.
+He's the person who gives his name to the
+Warren Court.
+We're going to talk more about him at the
+end of the next lecture.
+But just to anticipate he's the Chief
+Justice of the United States from
+1953 to 1969.
+His tenure on the, on the court as its
+Chief Justice begins with a series of
+deliberations and
+decision in the landmark segregation case
+of Brown vs
+Board of Education, which we're going to
+talk about.
+And it proceeds through the 1950s, and the
+1960s with
+particularly significant cases extending
+the reach of the Bill of Rights,
+applying the Bill of Rights against the
+states,
+and very broadly construing the Bill of
+Rights.
+And also revolutionizing a judicially
+protected right to vote in America.
+So these are among the things that the
+Warren Court did.
+It's customary, to refer to the Supreme
+Court
+with reference to the name of its chief
+justice.
+We talked about the Marshall Court, when
+John Marshall
+was chief justice.
+Today, we are living under the Roberts
+Court, John Roberts is chief justice.
+But by acclamation, I think Earl Warren
+Stands up there
+in the pantheon along with John Marshall,
+very early in the
+nation's experience, as, the two of them,
+are the, really, the,
+the two most notable and significant chief
+justices in American history.
+And the question we're going to ask is,
+did the Warren Court revolution,
+because that's what both his friends and
+his critics, how they described this era,
+did the Warren Court revolution really do
+justice to the terse text?
+Did it actually, was it faithful to the
+text?
+Critics said no.
+Defenders said sometimes.
+Well, sometimes they said no.
+But they said, well, who cares about the
+text?
+I'm going to offer a different account in
+which actually the Warren Court
+decisions will be measured against the
+terse text.
+And in fact the Warren Court decisions
+hold
+up pretty well, not perfectly, but pretty
+well.
+We're going to focus on 6 areas in
+particular that
+really I think define the legacy of the
+Warren Court.
+Today we'll talk about the segregation
+decisions of Brown versus Board
+of Education and its companion case,
+Bowling against Sharpe, which involved
+segregation
+in D.C. schools.
+Not state schools like Topeka, Kansas but,
+but federal schools.
+So we'll tell you about the segregation
+decisions.
+We'll talk about the decision by the
+Supreme Court to apply the
+Bill of Rights, to incorporate it, that's
+the phrase, against the states.
+'Because the Bill of Rights originally was
+designed to protect against the federal
+government.
+But in the Warren Court virtually all its
+provisions came to apply against
+state and local governments.
+And we'll also talk about freedom of
+expression, in particular the landmark
+Warren Court decision of, involving the
+State of Alabama, a
+case called New York Times versus
+Sullivan, involving censorship in Alabama
+and the Supreme Court's vigorous defense
+of a free expression, robust, uninhibited,
+wide open free expression.
+That's what we're going to talk about
+today.
+segregation, applying the Bill of Rights
+against the states, and free expression.
+In our companion lecture, the next
+lecture, I'll finish
+the story of the Warren Court um; by
+talking about,
+its landmark decisions involving prayer
+and the public schools, the religion
+clauses of the Constitution, involving the
+so-called exclusionary
+rule, allowing criminal defendants to go
+free if the
+evidence against them was acquired in a
+constitutionally improper fashion.
+I'm actually going to be very critical of
+the exclusionary rule and the more
+important expansion
+of it in a famous landmark case called
+Mapp versus Ohio, extending the
+exclusionary rule against states.
+And so I'm going to be critical of that
+one, then largely supportive of the other
+Warren Court decisions.
+And we'll also talk
+in the next session about the Warren
+Court's revolutionary case law
+on the right to vote, affirming an idea of
+one person,
+one vote ending malapportionment, and also
+enforcing a very vigorous right
+to vote in general against people who were
+being denied that right.
+So that's the Warren Court legacy.
+And at the end, I'll try to put the pieces
+together and think about the Warren Court
+as a whole.
+Let's start with Brown
+versus Board of Education, which is really
+where Earl Warren starts.
+He joins the court in 1953, and the
+Brown case was already under consideration
+by the Court.
+And the Court had decided to hear a new
+set of oral arguments.
+And then its Chief Justice died and Warren
+comes on board.
+He's appointed by President Dwight
+Eisenhower.
+He's a Republican, he had run for the Vice
+Presidency of the United States,
+actually, alongside Thomas Dewey.
+If Dewey had defeated Truman in 1948, Earl
+Warren would've been Vice President of the
+United States.
+Former governor and attorney general of
+California, kind of a, a progressive
+Republican.
+Most of the Court is Democrat appointed
+because FDR
+has put a lot of people on the Court.
+And that's the Court that gives you Brown
+versus the Board of Education and the
+companion case,
+Bolling against Sharpe, in May of 1954,
+mid May 1954,
+one of the most iconic, momentous moments
+in American judicial history.
+The segregation cases are announced.
+Earl Warren writes for a unanimous court,
+saying segregation must end.
+Jim Crow is unconstitutional, at least in
+education.
+This in the sphere of education,
+separate is inherently unequal.
+The government is not permitted to say,
+black kids
+over here, white kids over there, in
+different schools.
+That's what the Brown case said.
+States couldn't do that, nor localities
+like Topeka,
+Kansas, cities, nor could the federal
+government do that.
+And the question is, where did that come
+from?
+And my answer is, it comes from the
+Constitution.
+This is case law faithful
+to the Constitution.
+The Constitution even at the founding,
+said no titles of nobility.
+Neither the federal or the state
+government can have titles of nobility.
+Now what are titles of nobility?
+They're, in effect, saying some people are
+born
+lords, and other people are born serfs, or
+commoners.
+And there was a clause in the original
+Constitution
+saying states can't have titles of
+nobility, Article 1,
+Section, 10, another clause saying the
+federal government
+can't have titles of nobility, Article 1,
+Section 9.
+If you take that at face value, I think
+the Jim Crow system, a system of massive
+apartheid in, in America really did create
+kind
+of a system of light-skinned lords and
+dark-skinned serfs.
+Government trying to, to separate, to
+create
+different classes, castes of, of Americans
+based on
+whether they were born light-skinned or
+dark-skinned,
+that kind of hereditary,
+intergenerationally entrenched hierarchy.
+So even before the Civil War came along,
+you could have read the Constitution to
+say government
+shouldn't be in the business of, of
+separating
+out and creating castes and hereditary
+classes of citizenship.
+Now alas, that reading didn't prevail in
+the antebellum period.
+And basically, it's because slavery
+overshadowed everything.
+Because the constitution was pro-slavery
+as well, in ways that we've talked about.
+Now, strictly speaking, you could have
+said, oh well, slavery is different.
+We're talking here about the status of
+free blacks.
+And free blacks are different from slaves
+and they
+should benefit from the anti title of
+nobility principle.
+But because slavery overhang-, overhung
+everything that
+reading didn't prevail.
+In-, Instead, basically the, the, the
+realists, the, the the the non-
+idealistic hard headed interpretation of
+the Constitution was, actually it doesn't
+quite mean what it seems to say on race
+because we
+all understand that the, the system is
+designed to prop up slavery.
+And racial hierarchy is part of the slave
+system.
+Okay, if that's the honest defense of
+slavery, I mean of of
+of, legal inequality and it's blunt, it's
+honest, but if that's the defense,
+that world ended with the Civil War and
+the Amendments that came afterwards.
+The 13th Amendment abolishes slavery
+everywhere, immediately, automatically
+without compensation.
+It says slavery and involuntary servitude
+can't exist in America.
+And race discrimination is kind of a
+relic, a badge of slavery.
+But put the Thirteenth Amendment to one
+side.
+The key amendment, the easy obvious
+amendment supporting Brown is the
+Fourteenth Amendment.
+And the Fourteenth Amendment says two
+things.
+It says no state shall deny people equal,
+any person equal protection of the laws.
+And also says it, states, no state shall
+abridge
+the privileges or immunities of citizens
+of the United States.
+And one of those privileges might be a
+privilege of racial equality.
+So, it says no state
+can deny equal protection.
+And segregation is unequal.
+And it says that states can't abridge the
+privileges or immunities of citizens.
+And racial equality is such a privilege.
+You might say okay, maybe that's Brown.
+But what about Bolling against Sharpe?
+That's DC.
+Professor, you're saying no state shall
+But the first sentence of
+the Fourteenth Amendment, even before we
+get to the no state shall,
+doesn't say anything about states.
+It reads much more sweepingly and here's
+what it says.
+It says, the first sentence of the
+Fourteenth Amendment, adopted
+after the Civil War, all persons born or
+naturalized in the
+United States and subject to the
+jurisdiction thereof are citizens
+of the United States and of the state
+wherein they reside.
+Everyone born in the United States
+is a citizen.
+No ifs, ands, or buts.
+They're citizens of the United States.
+And what it means to be a citizen is to,
+and it doesn't say, no state shall.
+They are citizens of the United States and
+of the state.
+This, this is a principle, this
+citizenship principle applies against
+both sets of government and is a principle
+of equal citizenship.
+It means we are born equal here in
+America.
+It's a textualization of the Declaration
+of Independence
+idea as interpreted by Lincoln in the
+Gettysburg Address,
+that we're all created equal, we're all
+born equal.
+Equal birth status.
+Some of us, we're not born lords and
+serfs.
+So, a reaffirmation of that, original
+revolutionary idea, that, that,
+that basically was compromised when it
+came to race and slavery.
+But now, it's reaffirming it in the
+context of race.
+We're all born equally.
+We're not born lords and servants.
+We're born equally, whether we're born
+black or white.
+This is very much about the race issue
+after the Civil War.
+We're born equally, in fact, whether we're
+born male or female, or Jew or gentile.
+I would say gay or straight, we're born
+equal.
+That's the idea.
+That applies against state governments and
+the federal government.
+It's an easy and obvious argument for the
+results in both Brown and Bolling, because
+race segregation
+simply wasn't equal.
+Counter-arguments.
+Oh, but the framers of the Fourteenth
+Amendment really didn't mean that.
+They actually believed in segregation.
+And in fact the framers of the Fourteenth
+Amendment allowed segregation, racial
+segregation in the capital galleries.
+That's an historical argument of a certain
+sort.
+Let's take it seriously.
+We're going beyond the written
+Constitution,
+going, history is outside of the text
+but let's take seriously what the history
+actually shows,
+Because I think actually it shows that
+Brown is right.
+First, a lot of the people who gave you
+the Fourteenth amendment though,
+though they would call themselves, the
+radical Republicans, they were re, racial
+integrationists.
+They believed actually in full racial
+equality.
+Now, they weren't all, they weren't the
+only folks around.
+But they were the, the, heart and soul of
+the Republican party.
+Let me tell you about two of' them.
+Thaddeus Stevens.
+Some of you may have seen the movie
+Lincoln, and you
+know a little bit about Thaddeus Stevens
+played by Tommy Lee Jones.
+He is the political leader of the
+Republicans in the House.
+He dies within a month of the Fourteenth
+Amendment's adoption, and here's
+actually, and he's buried in an integrated
+graveyard in In Pennsylvania.
+Here's his tombstone.
+I repose in this quiet and secluded spot,
+not from any natural preference
+for solitude but finding other cemetaries
+limited as to race by charter rules.
+I've chosen this, that I might illustrate
+in my
+death the principles which I advocated
+through a long life.
+Equality of man before his creator.
+He believes in integration.
+He forms, at his death,
+an interracial orphanage.
+Charles Sumner, an ally of Thaddeus
+Stevens.
+He's in the Senate, Thaddeus Stevens was
+in the House.
+He's also in the movie Lincoln and plays
+an important role.
+A great senator from Massachusetts.
+He points out that the floor of the Senate
+itself is
+actually integrated, that a black senator
+from Mississippi is allowed to
+sit right alongside whites.
+And he says America should look like that.
+Here's what he says.
+We have had in this chamber a colored
+senator from Mississippi.
+According to segregationist ideology, we
+should have set him apart by himself.
+He should not have sat with his brother
+Senators.
+But see Summer thinks he should have sat
+with brother senators, a
+vision of fraternity even, and not just
+equality and, and liberty, but fraternity.
+A colored man is equal
+here in this chamber.
+I say he should be equal in rights
+everywhere.
+Now, that's what the leading Republican
+crusader said.
+Not everyone was on board.
+There was segregation, at, when the, when
+the Fourteenth Amendment was adopted.
+But, let's figure out what the arguments
+were
+for segregation and whether they actually
+undercut Brown.
+The main argument was, actually
+segregation
+is equal.
+Yes blacks can only be over here, but
+whites actually can, have to
+be it in their own separate spaces, in
+their own railroad cars or schools.
+So simple question.
+Because in theory what, what they're
+saying,
+what, in theory separate could be equal.
+And if it were equal, it would satisfy the
+Constitution.
+So, simple question.
+Is separate really equal?
+Sometimes it can be.
+When it comes to, for example, sex
+separation.
+And we have separate gyms, and separate
+gym classes, and public school
+sports teams, and locker rooms, and
+bathrooms for boys and girls.
+And we say well, but this isn't about
+propping one gender up, and pushing the
+other down.
+It's not some, you know, hierarchical
+thing.
+It's just equal.
+The girls prefer it, the boys prefer it.
+It's equal.
+And it both blacks and whites preferred
+segregation, it might be equal.
+But that's not what, so separate can be
+equal.
+But that's just, realistically, that
+wasn't what
+Jim Crow in the 1950s was about.
+It was an imposition by whites on blacks
+to create a system of racial hierarchy and
+oppression.
+So the basic argument
+that, that was made in the 1860s, is
+separate could be equal, and it might.
+Simple question is, was it in 1954?
+Answer, no, it wasn't.
+Blacks understood that the social meaning
+of, of Jim Crow was kind of
+apartheid and racial hierarchy system,
+saying
+whites on top, blacks on the bottom.
+Blacks in the back of the bus, whites in
+the front of the bus.
+A second and related thing that was
+sometimes said about
+segregation was, oh, the Fourteenth
+Amendment doesn't apply to social rights.
+But here, and, and, and I think that, that
+idea might have several meanings.
+One, as long as the races are treated
+symmetrically, everything's okay.
+No.
+If they're treated symmetrically, it might
+be okay, it might not be.
+We simply have to ask, is it equal?
+If it's equal it's okay, if it's not equal
+it's not okay.
+So, so, so, formal symmetry is not
+automatically
+unconstitutional, but it's not
+automatically constitutional either.
+We have to ask ask the equality question.
+Second idea that they might says, look
+the Fourteenth Amendment applies to the
+government action.
+It doesn't apply of its own force to
+private spheres, to shopping malls, or
+restaurants, or theaters.
+Fine.
+Government might be able to regulate those
+domains in the name of equal citizenship.
+Congress might be able to pass laws.
+But yeah,
+the just on, of their own force, the
+Fourteenth Amendment is basically aimed
+at, at government.
+But government is doing the segregating in
+Brown
+versus Board of Education, before the
+Plessey versus Ferguson.
+It was government that was saying, blacks
+over here, whites over there.
+Government they were saying, two people
+who wanted to get together, couldn't
+socialize if they wanted, if one was
+white, and one was black.
+They couldn't go to the same school or sit
+in the same railroad car.
+So, so this was
+government action at issue.
+And so, so I say, and then
+some people say oh, well the Fourteenth
+Amendment only applies to states.
+It doesn't apply to
+so the federal government.
+But the first sentence of the Fourteenth
+Amendment applies to the federal
+government as well.
+As do the titles of nobility clauses by
+the way.
+They apply federal government as well as
+the states.
+And this was the creation of a racial
+hierarchy, a kind of lords and serfs
+system.
+So I think Brown is not just right but
+plainly right.
+It's a case, and it does justice to the
+written Constitution.
+So when we read the written Constitution
+through
+the prism of these cases, we actually the
+text is actually clarified and not
+obscured.
+Applying the Bill of Rights against the
+states.
+That's a huge Warren Court project.
+The original Bill of Rights actually
+applied only against the federal
+government.
+The First Amendment begins with the words,
+Congress
+shall make no law of a certain sort.
+Ends with the Tenth Amendment that's all
+about states' rights.
+The Warren Court applied most
+of the principles of the Bill of Rights to
+the states.
+Freedom of speech, and freedom of press,
+freedom exercise of religion, all sorts
+of criminal procedure, provisions,
+counsel, compulsory process,
+double jeopardy, jury trial, and so on.
+And it did so because of the Fourteenth
+Amendment.
+And the key words of the Fourteenth
+Amendment, let
+me repeat them to you, we talked about
+this before,
+no state shall make or enforce any law
+which shall
+abridge the privileges or immunities of
+citizens of the United States.
+Now, what are those privileges,
+immunities, fundamental things?
+Where do we find evidence that something's
+fundamental?
+Well, if it's listed in the Bill of
+Rights, and the Constitution, that's
+evidence that it's fundamental.
+So because it's in the First Amendment,
+it's, you
+know, free speech and, and free exercise
+and, and the,
+the, the right to assembly, those things
+are fundamental.
+And and that's the basic textual argument
+for
+applying the Bill of Rights against the
+states.
+And that's the argument made by Hugo
+Black, who is
+also on the court, the Warren Court, with
+Earl Warren.
+And there is historical evidence to
+support that.
+The framers
+of the Fourteenth Amendment said again and
+again that one of their
+core purposes was to apply the Bill of
+Rights against the states.
+The man who actually drafted that language
+is a Congressman named John, John Bingham.
+This is actually a book I wrote called The
+Bill of Rights.
+And actually, the endpaper of that book,
+Honorable John A Bingham of Ohio, this is
+a pamphlet he published in the House of
+Representatives, February 28, 1866.
+And here's the title of the pamphlet, or
+the subtitle, in
+support of the proposed Amendment to
+enforce the Bill of Rights.
+So they said, actually, they were about
+applying the Bill of Rights against the
+states.
+And and that's what the plain meaning of
+the words say.
+Those are fundamental rights and
+privileges.
+Counter argument.
+Well, professor, why didn't they say Bill
+of
+Rights then if they meant Bill of Rights?
+Because actually, that would have been
+more ambiguous.
+Because what
+does Bill of Rights mean?
+First, 8 amendments, first 9, 10.
+The Constitution doesn't use that phrase,
+Bill of Rights.
+So the text, actually, would have been
+more ambiguous.
+Whereas people, at the time, in the 1860s,
+referred to what
+we call the Bill of Rights, as privileges
+and immunities of citizens.
+So, that was actually a more careful
+formulation, a more legally precise one.
+Oh and also, do they mean, they didn't
+just mean only the Bill of Rights.
+They wanted more than the Bill of Rights.
+Other fundamental rights.
+Habeas corpus is not listed in the first 8
+Amendments, but
+it is a fundamental privilege, a right, a
+freedom, an immunity.
+Things that aren't listed in the
+Constitution but
+are fundamental, they wanted states to
+basically respect.
+Proof beyond a reasonable doubt a right of
+a person
+to, to present evidence of his innocence,
+all sorts of unenumerated
+rights that we talked about, they wanted
+to protect.
+Today that would include privacy.
+Privacy sounds a little bit like the word
+privilege.
+So they wanted more than the Bill of
+Rights, and less.
+Because the Tenth Amendment arguably is
+part of
+the Bill of Rights, is the states rights
+provision.
+But how do you apply a states right
+provision against states?
+If the Second Amendments is about state
+militias being
+counterbalanced against a federal army,
+that's a state right
+of sorts.
+Does that right apply against the states?
+so, so more than the Bill of Rights, but
+maybe arguably less.
+Because and, and, maybe it's actually even
+a little more
+complicated than that, because the, let's
+take the Second Amendment.
+Maybe it has a states' rights, militia
+component, but also an individual right
+component, and
+the right of a person to have a gun in the
+home for self protection.
+Well, if it has both of those components,
+the individual right sensibly
+applies against the states, but maybe not
+the states' rights idea.
+And the word, if they just said, no state
+shall abridge the
+Bill of Rights, you, judges wouldn't quite
+be able to deal with that.
+It would be trying to shove square pegs
+into round holes,
+because the Second Amendment is both
+states' rights and individual rights.
+And how do you apply that completely
+against the states?
+But the language
+that they chose is brilliant.
+It says, states can't abridge the
+privileges and immunities of citizens.
+So, we look at the Second Amendment.
+We say, well some of it's states' rights,
+so that's not really relevant.
+But to the extent it's also about an
+individual right, a privilege or immunity
+of citizens, that right we apply against,
+the state, the individual right.
+So, so in fact, the framers of the
+Fourteenth Amendment
+chose very careful language to make clear
+their, their core purpose of applying the
+Bill of Rights against the states.
+and, the Warren Court vindicated, that.
+One other argument, professor.
+If they meant to apply the Bill of Rights
+against the states, and they
+did so using the language of privileges
+and immunities of citizens, why then did
+they
+say due process right after that?
+Because due process in, is in the Fifth
+Amendment.
+It's already a privilege or immunity of
+citizens.
+So, why say it again in a separate due
+process law?
+And they asked John Bingham, the author
+of, of the Fourteenth Amendment
+section, when just that question in
+Congress, when, when this amendment was
+pending.
+And he said, listen.
+We believe in protecting aliens,
+non citizens as well as citizens.
+Privileges and immunities protects only
+citizens,
+but we think aliens have certain rights.
+And they have rights to fair courtroom
+procedures.
+So we have rights of citizens, and we also
+have some additional rights of persons
+that we are specifying.
+Because remember, Bingham says, the Dred
+Scott Decision case had said
+basically that only citizens have rights,
+and we don't believe that.
+We think actually people who aren't
+citizens have rights.
+If Dred Scott had
+said only citizens have rights, and blacks
+can't be
+citizens, we would think that those are
+both wrong.
+Blacks can be citizens.
+That's the first sentence.
+Everyone born in America is a citizen,
+born an equal citizen.
+Black or white, male or female, Jew or
+gentile, So Dred Scott's wrong on that.
+Blacks can be citizens and indeed are.
+Dred Scott said only citizens have rights.
+No, we think actually aliens have rights,
+too.
+So, two big
+things we've defended already.
+The Brown versus Board of Education
+segregation decisions, and the
+decisions to apply the Bill of Rights
+against the states.
+Another important landmark decision of the
+Warren Court, a case called New York Times
+versus Sullivan, protected a very broad
+freedom of speech against
+Alabama, which had tried to shut down
+opposition newspapers.
+Actually, there was a, a protest led by
+civil rights marchers in, in the South.
+And the New York Times covered the
+protest.
+And it was an ad run in the
+New York Times criticizing Alabama for its
+repressive policies.
+And Alabama tried to basically, in effect,
+shut down the New
+York Times and shut down coverage of the
+Civil Rights movement.
+And the Court said, not so fast, you can't
+do that, fundamental free speech.
+We've talked about how free speech is a
+part of the
+Constitution as a whole, even before, you
+know, when we read
+the Constitution as a document, that it
+was part of the
+process by which we the people in fact
+ordained the Constitution.
+That it's part of the lived experience of
+ordinary Americans.
+How the framers of the Fourteenth
+Amendment
+very much were trying to open up free
+speech, because the South had basically
+shut down
+free speech, the antebellum South in the
+1850s.
+And now they where trying to do it again
+in the 1950s and 60s.
+And the court said no.
+And doing so affirmed the basic precepts
+of the Constitution,
+which really that's the core of it, is
+free speech.
+Critics said, oh, First Amendment, free
+speech, that
+only means the government can't license
+the press.
+But once the press publishes stuff, you
+can have at them.
+Maybe that's what free to press meant at
+the founding,
+according to Blackstone, but free speech
+meant something altogether more broad.
+Freedom of speech comes from the idea
+freedom
+of speech and debate in parliament, free
+political discourse.
+And in England, only members of
+parliament have that, because parliament
+is sovereign.
+But in America everyone has that, everyone
+has the freedom
+to express political opinions because we
+the people are sovereign.
+So in fact, New York Times versus Sullivan
+vindicated the deep principles of free
+expression in American,
+principles that are in the text and the
+words free speech, and no state shall
+abridge these.
+Remember, see how the Fourteenth Amendment
+is born from the First.
+No law shall make, abridge, those are in
+the First Amendment and the Fourteenth.
+Now states can't do those.
+Just like Congress can't
+abridge free speech, neither can states.
+So the Warren Court is affirming the text
+of the Constitution, the First and
+the Fourteenth Amendment, and unwritten
+constitutional principles of free
+expression that are, that are evident when
+we read the document as
+a whole, when we pay attention to how it
+was actually adopted.
+We need to pay attention to the core
+purposes of the Fourteenth Amendment.
+So, so far the Warren Court
+is 3 for 3.
+Right on segregation, right on
+incorporation, applying the Bill
+of Rights against the states, and right on
+free expression.
+In the next lecture we are going to
+consider
+3 more areas: religion, criminal
+procedure, and voting rights.
+And there I think his track records will
+be 2 out of 3.
+And 2 out of 3 ain't bad.
+Stay tuned.
+[MUSIC]
+

@@ -1,0 +1,746 @@
+Welcome back.
+In this part of the course, we're
+transitioning from America's
+written constitution, which we've been
+studying in extensive detail in the
+first series of lectures to America's
+unwritten constitution which will be
+the focus of the lectures for the
+remainder of the course.
+And by an unwritten constitution, I don't
+mean to suggest something that will
+undermine the
+written constitution but something that
+will go
+beyond the written constitution, beneath
+it, behind it.
+But ultimately will be faithful to the
+project of written constitutionalism.
+That's the trick of how we might go beyond
+the literal words
+of the document in order to make deepest
+sense of the document.
+Remember that the document doesn't tell us
+how it should
+be interpreted.
+It doesn't give a, a comprehensive set of,
+of instructions, of rules of
+interpretation, rules of construction.
+And you might think, okay, well that just
+means we're supposed to just read
+it as if it's just plain English, under
+the, the rules of reading English.
+But can that be so?
+Remember, I left you with a question at
+the end of the last lecture.
+The question is who presides at the vice
+president's
+impeachment trial if the vice president is
+impeached?
+Now, if we read the Constitution sort of
+literally,
+just by the rules of English, here's what
+we find.
+In Article One, Section Three, we have the
+sentence the
+Senate shall have the sole power to try
+all impeachments.
+So the Senate is going to be the body that
+tries impeachments, okay?
+Now the question is who presides over
+that trial, because the Senate's going to
+be the,
+the body that tries all
+impeachments including the Vice
+President's impeachment.
+Who presides over it?
+Here's what the text says; again Article
+One, Section Three, the vice
+president of the United States shall be
+the president of the Senate.
+So he's the presiding officer.
+So if you just read the words literally by
+the rules
+of English, the vice president would
+preside at his own impeachment trial.
+Can that be right?
+Is that what the Constitution
+really means, properly interpreted,
+properly construed?
+Now it turns out there are a couple of
+additional clauses that we have to take
+into account.
+And indeed one of the biggest ideas of
+this chapter,
+this first chapter in America's Unwritten
+Constitution, is that we
+have to read the Constitution as a whole
+and there
+are often more than one provisions to pay
+attention to.
+So there are a couple of other provisions
+that might be relevant to us.
+One provision says that when the vice
+president is
+absent from the the, the Senate, the
+Senate
+can, needs to be presided over by a Senate
+president pro tem, pro tempore.
+Okay, but that doesn't help us so much,
+because
+in this impeachment trial, arguably the,
+the vice president
+is there.
+He's the defendant.
+He's in the dock.
+He, he shows up and says, I'm present, I'd
+like to preside, please.
+So Senate president pro tem, because it's,
+that person
+gets to preside only when I'm absent, and
+I'm here.
+Well there is one other provision that,
+that, might be in the neighborhood.
+Here it is.
+These are all from Article One Section
+Three.
+They are all kind of right next to each
+other,
+pretty much, in the Constitution.
+When the president of the United States is
+tried
+in an impeachment court, the chief justice
+shall preside.
+And indeed this picture, which we're
+going to talk about
+at the end of, of this series of lectures
+end of the next lecture is a picture a
+picture, a, a picture of, the first
+presidential impeachment trial.
+The impeachment trial of President Andrew
+Johnson.
+And the presiding officer is indeed, the
+Chief Justice of the United States, Salmon
+P.
+Chase.
+I'm going to tell you a little bit about
+that picture, at the end, as I always do.
+That's what this is But, does that help
+us very much in our vice presidential
+impeachment scenario?
+Not at all, because it doesn't say when
+the
+vice president is tried the chief justice
+shall preside,
+but only when the president is tried, does
+the chief justice preside over this
+impeachment trial.
+So the rules, just, if we look at them by,
+by kind of the standard English,
+say the Senate tries all impeachments, the
+vice
+president is the presiding officer of the
+Senate.
+There are two and only two textually
+specified, explicit exceptions.
+When the vice president is absent, the
+Senate president pro tem presides and
+for presidential impeachments, the chief
+justice presides.
+So, just by the rules of English, it looks
+as if the vice
+president presides at his own impeachment
+trial if we read the thing literally.
+And my friends I'm going to argue, I do
+argue in the book there's a
+lot more detail of course in the book, I'm
+going to try and summarize it today.
+That that can't be right.
+And we begin
+in trying to tell you that that can't be
+right with just a basic intuition.
+This is absurd that a man could be could
+preside over his
+own trial, that a man could be judge in
+his own case.
+And you might say, well so what if it's
+absurd, it says what it says.
+Well it says what it says in a legal
+culture.
+And that legal culture, actually, before
+the Constitution
+was adopted had certain background rules
+of interpretation,
+of construction.
+And these background rules aren't exactly
+the same
+as just the ordinary rules of the English
+language.
+They're legal rules, canons they're
+sometimes called.
+C-A-N-O-N-S, canons of interpretation,
+canons of construction.
+The most the
+best selling book in the entire American
+Revolutionary
+period other than the bible was a book by
+a man named Blackstone.
+He was an English lawyer, British lawyer.
+And he wrote a four volume treatise
+on basically of the rules of, commentaries
+on English law.
+And many of these English laws and customs
+and practices actually carried over to the
+colonies.
+And, he begins his book talking about on
+law on general,
+and tells us about some rules of
+interpretation.
+And he says, ordinarily, judges are
+supposed to
+pay attention to the words of the statute
+books.
+And even if the judge doesn't like what
+the statute says, the law is the law.
+And if the legislature clearly envisioned
+a
+certain application, even if the judge
+doesn't
+like it, the judge has to follow the law
+as laid down by the legislature.
+That's the basic
+principle.
+But, Blackstone introduces a
+qualification.
+He says what I just said is true when
+judges are basically confronting the main
+object, the central purpose of a statute,
+which the legislature clearly had in mind.
+But sometimes when it comes to weird,
+peripheral applications that
+the legislature wasn't thinking about when
+they passed the law,
+if the literal words of a statue would
+result in an
+absurd result, a result that no
+legislature really thought about and, and
+intended and contemplated, judges in these
+weird quirky situations are permitted
+indeed they are invited to disregard the
+literal meaning of the statue.
+And, if the literal meaning
+leads to an absurd result.
+Interesting, but
+what's most interesting is Blackstone
+actually gives two specific examples.
+Here's one that he gives that if the Law
+of Bologna says it's a
+crime to spill blood In the streets of
+Bologna, we don't apply that
+law if a surgeon needs to perform some
+emergency operation if
+some pedestrian falls and, and needs some
+emergency medical procedure.
+Even though the surgeon has literally
+spilled blood on
+the streets of, of Bologna, of course the
+legislature wasn't
+thinking about that when it said it's an
+offense, it's
+a crime to spill blood in the streets of
+Bologna.
+Okay, but here's the second one, and
+it's so interesting because it is our
+hypothetical.
+Blackstone says suppose the law says that
+all the cases which
+arise in the manor dale, a certain sort of
+lord's estate.
+Shall, all the, the cases that arise
+within that
+manor shall be tried by the lord of the
+manor.
+If say, you know, when two of the tenants
+in the manor have a, a property dispute or
+some other dispute the lord of the manor
+will try all cases.
+And
+Blackstone says, but of course that law
+would
+not apply if the lord of the manor himself
+were a party to the lawsuit because no man
+can be a judge in his own case.
+That's a first principle.
+Blackstone says it would be absurd to read
+that statute to apply for lord of the
+manor
+himself is actually one of the litigant
+because no
+man can be a judge in his own case.
+That's actually the example Blackstone
+uses for when it's proper for judges to
+deviate from the literal meaning of the
+law in order to avoid an absurd result
+that the legislature actually didn't have
+in mind.
+And remember, Blackstone is the leading
+authority on the
+nature of law and legal interpretation in
+revolutionary era America.
+And a simple straight forward application
+of the absurdity principle.
+No, vice president shouldn't preside over
+his own trial.
+No man should be a judge in his own case.
+I can try to show you that in a couple of
+other ways.
+I could say what's the central idea of the
+Constitution.
+Well, that it is law.
+It is just not just law but the supreme
+law of the land.
+And even though it doesn't say the words
+the rule of
+law, that idea is clearly implicit in the
+spirit of the document
+as a whole.
+The Constitution is law and it must there
+for partake
+of the virtues of the rule of law and here
+is the first principle of the rule of law
+that
+no man can be a judge in his own case.
+The Constitution's Preamble talks about
+its purposes
+and one of the purposes is to establish
+justice and it can not be just for a man
+to preside in his own trial.
+Now if the statue or excuse me in this
+case the Constitution
+had explicitly said the vice president
+shall
+preside comma, even in his own impeachment
+trial then we'd have conclusive evidence
+in the words that actually the, the
+supreme lawmakers of
+America We the People had focused on this
+particular application.
+And had said no, we actually think it's
+okay
+for the vice president to preside at his
+own trial.
+But the words don't say that.
+And in fact no
+one was imagining that the vice president
+would preside at his own impeachment
+trials.
+They just weren't thinking about it
+particularly prominently.
+They were focused on presidential
+impeachments,
+and a couple of things about that.
+and, and, and we can actually tell from
+the text itself
+that they were focusing more on presidents
+than on vice presidents.
+The vice president was kind of
+an afterthought almost at the Philadelphia
+Convention.
+The document
+says, when you read it, that it provides
+for presidential
+salary and congressional salary, House
+salary, and, and Senate salary.
+It doesn't provide explicitly for the vice
+president's
+salary, but of course it would be silly.
+It would be absurd to say, oh we can't pay
+the vice president then.
+It's just, you say, no it doesn't say that
+you can't pay the vice
+president, it just doesn't explicitly
+provide for
+it because they weren't focusing on him.
+And they weren't focusing on his
+impeachment.
+They were focusing, however, on his role
+in presidential impeachments.
+Let's come back to one of those two
+exceptions that we talked about.
+Why is it that the chief justice presides
+at presidential impeachment trials?
+The answer is because who otherwise would
+have presided but for that specific
+exception?
+Well, the ordinary presiding officer is of
+course the vice president.
+And the framers thought that was wrong.
+You shouldn't have vice president
+presiding over the president's impeachment
+trial.
+So, even though the words vice president
+don't appear in that clause talking about
+a
+chief justice presiding over the
+president's impeachment trial,
+that clause is all about vice presidential
+recusal.
+The vice president shouldn't preside over
+the president's impeachment.
+The chief justice should.
+Why shouldn't the vice president preside?
+Because he would have a stake in it.
+Because if the president were convicted
+he'd move up and,
+and that would give him sort of an
+improper bias.
+And and remember at the time of the
+founding the vice president is
+not the president's best buddy, his
+running mate, his teammate, his ticket
+partner.
+He's the guy who came in second in the
+presidential contest.
+He's the rival of the president.
+He's Thomas Jefferson
+when John Adams is president.
+Remember Thomas Jefferson is vice
+president, when the two
+men run against each other, ran against
+each other.
+And if, and if John Adams as president
+were to be impeached and
+tried in the Senate, it would be wrong for
+Thomas Jefferson to preside.
+He's the ordinary presiding officer, the
+vice president, but he'd have too much of
+a stake, a vested interest, too much of a,
+of a bias in the thing.
+Now you might say, oh, well, they saw the
+problem of bias, and they specified that
+in presidential impeachments,
+the vice president couldn't preside, but
+they apparently said,
+well, in vice presidential impeachment
+trials he could preside.
+And that is, that, that's the kind of
+argument
+that gives legal reasoning a bad name this
+argument.
+Because the text doesn't say that the the
+vice
+president shall preside comma even in his
+own impeachment trial.
+And it was preposterous to think that
+even though the vice president must recuse
+himself
+when he stands to gain an office, the
+presidency, he doesn't
+have to recuse himself when he stands to
+lose his office.
+It'd be like saying well, you can't be
+tried twice
+for a single offense but three times, what
+the heck.
+You know or four times.
+It'd be like saying, well Congress can't
+limit free
+speech, but the president acting on its
+own can.
+Sometimes in law, certain things follow.
+Here's a Latin phrase,
+a fortiori.
+Even more strongly.
+You have to read not just the words but
+the spirit, the principle.
+And the principle of the chief justice
+clause, the clause that says
+the chief justice should preside in
+presidential impeachment, is that the vice
+president shouldn't because he would have
+a conflict of interest and, of course he's
+had even more of a conflict of interest
+when he himself
+is on trial.
+You might say, well, why did they then
+specify it for presidential impeachments?
+Well here's one reason why.
+Because strictly, strictly speaking when
+the president is tried, the vice
+president isn't presiding over his own
+case, it's sort of someone else's.
+So, so it went without saying that a
+person couldn't preside in his own case.
+But for someone else's case, the matter is
+a little trickier, arguably.
+now, you might think, well gee, wouldn't
+all
+of these problems have been solved if the
+framers
+had just simply said, as a general
+principle, no
+man can be a judge in his own case.
+And the answer is actually that wouldn't
+have solved it too because you still would
+have had to decide what does it mean to be
+a judge in your own case.
+What happens, for example, if you're
+presiding over
+a trial in which your brother is a
+litigant?
+Which has happened.
+Brockhurst Livingston,
+a justice on the Supreme Court, sat on a
+trial where
+his, his brother, Robert Livingston, had a
+steamboat monopoly patent at issue.
+Roger Tawnee, Chief Justice of the United
+States,
+didn't recuse himself when his
+brother-in-law a man
+named Francis Scott Key, you may have
+heard of him, was the lawyer in the case.
+In the Dred Scott case Benjamin Curtis
+actually dissented and in
+the process sided with the lawyer for Dred
+Scott,
+who happened to be his brother, George
+Ticknor Curtis.
+So, you have a, a rule saying no man can
+be a judge in his own case.
+It's not self defining.
+So, so we're going to often have to go
+back to first
+principles even to to understand specific
+text, but here's the point.
+We have to read the Constitution
+holistically and
+not literally with attention to its larger
+purpose.
+It's adopted, actually as, as one
+whole instrument.
+I'm going to come back to this picture of
+presidential
+impeachment at the end of the, of my next
+lecture.
+But just to, to foreshadow a little bit,
+sometimes certain conflicts of interest
+actually are built into the Constitution,
+and
+the framers basically signed off on them.
+Who is judging Andrew Johnson?
+A bunch of senators, a lot of whom are
+politicos.
+A lot of whom actually might
+want to be president themselves.
+But that's clearly contemplated by the
+Constitution.
+The politicians, ambitious politicians,
+are
+going to be judging other ambitious
+politicians.
+Who presides?
+A chief justice.
+I'm actually going to tell you a story
+about how Solomon P.
+Chase actually, who's the presiding
+officer at this trial, himself wants to be
+president, wants Andrew Johnson's job at
+the very moment he is presiding over that.
+But it's still, that's a conflict
+of interest that the framers actually did
+build into the main
+object, the main purpose, of the clauses
+that they, that they drafted.
+So judges aren't permitted, just anytime
+they want,
+to disregard the main purpose of a statue.
+But when it comes to really weird
+applications that no
+one was thinking about, and no one was
+thinking at
+the founding about a vice president
+presiding over his own
+impeachment trial, then the rule, it's
+called the Rule of Absurdity.
+It's a canon and
+a rule of interpretation, of legal
+interpretation, permits
+us to deviate from the literal meaning of
+a sentence or a clause in order to make
+sense of the document as a whole.
+Which is about the rule of law, and
+establishing justice.
+Now that's just one illustration of this
+idea of the need to read the Constitution
+as a whole.
+Let me give you another one from the most
+famous, one of
+the two or three most famous, cases in all
+of American history.
+If you ask what are the three big Supreme
+Court cases,
+I'd say they're Marbury versus Madison,
+which is about judicial review.
+There's Brown versus Board of Education,
+which we're going to talk about.
+And there's a case called McCulloch versus
+Maryland, in
+which John Marshall and his court uphold
+the power of
+the federal government to have a national
+bank.
+it's, it's an iconic case, and Marshall in
+that case not only upholds
+the power of the bank, but he also makes a
+lot of legal moves.
+He teaches us a lot about the art of
+constitutional interpretation.
+Now if you ask many a lawyer what's the
+basis for the congressional power to
+create a bank?
+They would say
+well, the, you know, if you ask, if you
+ask a layperson, the
+would say oh, well there must be some bank
+clause in the Constitution.
+But there is no bank clause in the
+Constitution.
+The document literally doesn't say
+Congress has power to create a bank.
+Doesn't say that in so many words.
+Lawyers would say oh, Marshall is looking
+at another clause,
+the necessary and proper clause, but
+that's a bad joke.
+Because the necessary and proper clause in
+its own is not some
+free standing power.
+It has to be necessary and proper to
+something else.
+It would be like going into, you know, a
+coffee shop
+and asking how much a coffee is, and they
+say you
+know, $1.50, and you say how much are
+refills, and say
+refills are free, and you say okay, I'll
+have a refill.
+But you don't get the refill unless you
+actually get the, buy for a $1.50.
+You don't get the free refill without
+buying the original cup of coffee.
+And you can't use the necessary and proper
+clause
+unless it's connected to something else in
+the document, and
+here's the kick in the head.
+Marshall never really tells us what
+specific other clause connected
+to the necessary and proper clause really
+is doing the work.
+And in fact, he upholds the power of
+Congress to create
+a national bank even before he starts
+talking about necessary proper clause.
+And here is in fact what he says.
+It's not a necessary in proper clause.
+It's not any other specific clause in the
+document.
+Marshall says it's the whole thing.
+We have
+to read the Constitution as a whole in
+light of its larger purposes and spirit.
+Here is actually what McCulloch says.
+Point one, Americans adopted the
+Constitution for national security
+purposes.
+That's what the document as a whole is all
+about, just as
+I said before it's about the rule of law
+and establishing justice.
+It's about national security and ordinary
+farmers
+aren't paying attention to every word.
+They're just trying to understand the
+document as a whole.
+The document can't have detailed
+provisions about everything.
+It would be too long.
+So it has to be short so it could be read
+by ordinary people.
+We adopted it as a whole.
+So we have to read it as a whole.
+And as a whole, it's about national
+security.
+That's step one.
+Step two, the national bank is pretty
+useful for national security.
+To move money around from east to west,
+north to south.
+You're going to need to borrow money in
+war time on behalf of the United States.
+as, if the army is in one part of the
+country you need to
+get men and, you need to get money, to pay
+them on-site and on time.
+If you've ever had to cash an out-of-state
+check, you know what I mean.
+It's a kind of ATM argument that in order
+for the federal government to
+be able to pay soldiers on-site and on
+time the National Bank is pretty useful.
+So, the Constitution says aye for national
+security.
+The bank is pretty useful for national
+security.
+Step three, pretty useful is good enough
+for government work, we're at the next
+case.
+Because not everything Marshall says can
+be specified.
+This is not a flaw in the document, he
+argues.
+This is, it's not a bug.
+It's a feature, because if you have to
+specify everything
+no person can be a judge in his own case.
+And,
+but only if the main object of,
+of, of, of the Constitution doesn't
+specify otherwise.
+And, and we draw the line between
+brothers-in-law and brothers.
+Or between brothers-in-law and cousins.
+And, and, there has to be a bank clause.
+If we have to have every single
+application specifically identified
+in the Constitution, then Marshall said,
+ordinary people couldn't understand it.
+It would not be understood by the public.
+He says, we must never forget it is a
+Constitution we are
+expounding and he means we have to
+understand the document as a whole.
+We have to read between the lines.
+Okay, those are a couple of examples.
+I am going to give you a few more in the
+next lecture.
+I am going to tell you the second half of
+McCulloch versus Maryland,
+which is how once Congress has created a
+bank, properly, states can't undo it.
+And,
+then I am going to introduce you to a
+hypothetical friend of mine, whose name is
+Lincoln Abraham.
+And after I introduce you to that friend
+we
+are going to talk about the real Abraham
+Lincoln.
+And at the end I'm going to come back to
+this picture.
+As I always do at the end of chapters.
+So, stay tuned.
+[MUSIC]
+

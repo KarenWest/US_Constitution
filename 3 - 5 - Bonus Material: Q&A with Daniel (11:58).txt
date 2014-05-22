@@ -1,0 +1,387 @@
+[BLANK_AUDIO]
+Hi.
+Welcome to the second week of bonus
+materials for Professor Akhil Amar's
+Constitutional Law course.
+My name's Daniel, and I'm one of
+the teaching assistants for Professor
+Amar's course.
+I'm a second year student here at Yale Law
+School.
+Last week we had a discussion forum event
+in which
+a lot of people posted questions and me
+and some of the other TA's had the chance
+to respond to those questions on the
+discussion forum.
+It was a really fantastic time and we were
+really impressed by
+the volume and quality of the questions
+that you guys were asking.
+This week we wanted to take the chance to
+address
+a couple of questions that we didn't get a
+chance to
+respond to last week, and do it in a more
+personal way with with me discussing them
+here on the air.
+so.
+First off, I'd say
+that I'm not going to be able to get to,
+even close to, the
+full volume of quality questions that
+people
+have been asking on the discussion forum.
+But we just wanted to bring up a few that
+kind
+of highlight the sort of high quality
+discussion that's been going on.
+So the first question comes from a post
+originally by Michael Blanco.
+And Michael asks, you know, we're studying
+the Constitution here, but, is the
+Constitution itself
+even legal?
+Which is a interesting question to ask,
+because when the
+Constitution was created the United States
+wasn't the United States.
+There were 13 states, and they were bound
+together in the Articles of Confederation.
+When the Constitutional Convention
+actually convened in 1787, they
+were originally instructed to come up with
+revisions to the
+Articles of Confederation.
+And, as Michael points out, the Articles
+of Confederation claims that in
+order to change anything, you need
+unanimous consent of all the states.
+In fact, here's what the Articles of
+Confederation had to say about its own
+amendment.
+But this is from Professor Amar's book on
+page 30.
+It said, quote
+>> [BLANK_AUDIO]
+>> The Articles of Confederation shall
+be inviolably observed by every state.
+And the Union shall be perpetual, nor
+shall any alteration
+at any time hereafter be made in any of
+them.
+Unless such alteration be agreed to in a
+Congress of the United States.
+And be afterwards confirmed by the
+legislatures of every state.
+So that seems pretty unambiguous.
+It seems that the Articles of
+Confederation said, if you
+want to change anything, you need the
+consent of every state.
+But that's not what the framers at the
+Philadelphia Convention did.
+If you recall in Article Seven of the
+Const,
+of the Constitution that the framers
+created, they said
+that as long as nine states were willing
+to
+ratify the new Constitution, it would go
+into effect.
+So how was it legal for the framers to
+produce a constitution
+like that, that only required 9 of 13
+states to consent to it,
+when the Articles of Confederation, which
+you know, was a
+binding legal document itself, said you
+need every states consent?
+so, here's one potential answer to that
+problem
+that professor Amar talks about in his
+book.
+And that's that, the Articles
+of Confederation wasn't like the
+Constitution.
+It was really a treaty, it was a league,
+it was an agreement between a bunch of
+different sovereign states.
+And according to principles of
+international law prevalent at the
+time, a state wasn't obligated to follow a
+breached treaty.
+So, you know, then, if they entered into a
+compact with another nation, and then that
+nation didn't
+honor its obligations under the compact,
+the first nation
+had no obligation to continue to honor its
+own.
+So the way that the framers understood
+the Constitutional Convention, and,
+possibly the best way for us to
+understand it retrospectively, is that
+they were addressing a breached treaty.
+That the Articles of Confederation was a
+breached treaty.
+That states had failed to honor
+their obligations under the Articles of
+Confederation.
+And, therefore, the founders were every
+were entirely
+justified in saying, we're going to create
+a new agreement.
+We're going to create a new nation.
+yeah, they were a little ambiguous at the
+time about exactly who breached
+about how, and this was understandably a
+delicate question.
+Nobody wanted to be throwing around
+accusations.
+Also, depending on which states agreed to
+ratify
+the new Constitution, it might feel
+different which states
+you had to say had breached the old
+Articles
+of the Confederation in order to make
+things legitimate.
+But, in terms of the way to think about
+how, how was it
+legal for the framers to create the
+Constitution in a way that didn't
+seem to follow the procedures of the
+Articles of the Confederation?
+Think of it as a breached treaty, is a
+good place to start.
+So, another great question, that, that
+wanted to
+address was something originally posted by
+Fernando von Hinke.
+And he asked about the right of
+states to secede, and whether the
+Constitution actually
+explicitly tells us whether states do have
+the right to leave the Union or not.
+And this sparked a really fascinating and
+extensive
+discussion with I think maybe even
+hundreds of posts.
+And it's an important question and one
+that
+we're going to come back to a little later
+in the course when we talk about some
+of the, Constitutional upheavals around
+the Civil War.
+but, it's important to think a little
+about it
+now and, here's an answer that professor
+Amar highlights.
+And that´s the, unlike the Articles of
+Confederation, which we were
+just talking about, the Constitution
+really
+wasn't an agreement between sovereign
+states.
+And there´s several features of the
+Constitution that point us toward that
+conclusion.
+So one is the Preamble itself.
+And the Preamble doesn't say this a
+compact.
+It doesn't say this is a league.
+It doesn't say this is an agreement.
+It says this is a Constitution.
+It is constituting a new nation out of
+constituent parts.
+Rather than a loose confederation of
+sovereign states.
+another, another piece of evidence is
+Article Six, the Supremacy Clause.
+Which says that the Constitution is the
+supreme law of the
+land, and nothing that any State can do
+will supersede the Constitution.
+Which seems to imply that the states
+really aren't
+sovereign anymore.
+If North Carolina decides it doesn't like
+part of the
+Constitution, it wants to do something
+different, it doesn't matter.
+It's, th, you can't, you can't repudiate
+the Constitution.
+Another interesting feature of the
+Constitution
+that suggests a kind of, that does
+not suggest that the sovereign state
+relationship is not what we're talking
+about.
+Is the difference between Article 7, which
+describes ratification,
+and Article 5, which describes
+Constitutional amendment.
+So the Articles of Confederation, as we
+discussed
+earlier, requires unanimity to change the
+agreement, right?
+And that suggests that every state who's a
+party
+to the Articles of Confederation is
+remain, retained its sovereignty.
+It, it, it's not going to be forced to do
+anything new under the Articles of
+Confederation, unless it agrees.
+But that's not how the Constitution works.
+The Constitution says, once you've signed
+up, once you're part of this
+new nation, we have an amendment process
+laid out in Article Five.
+It doesn't require unanimity.
+If three-quarters of the other states and
+then two-thirds of both houses of
+Congress agree to a change, you are
+going to be bound by that change.
+And what that implies is that,
+the individual states are not sovereign
+anymore.
+They're part of a group, and they have to
+follow the
+dictates of that group even if they don't
+like it.
+A final interesting thing that professor
+Amar points
+out is that the antifederalists, the
+people who
+oppose the adoption of the Constitution,
+threw around
+this accusation a lot at the time of
+ratification.
+They said you know, this is, we're
+effectively dissolving the states
+here, the, the, we're not going to have
+sovereign states anymore.
+But the Federalists, the people who were
+promoting the Constitution, they didn't
+try to deny that charge, they didn't
+claim, no, no,
+no, you guys have it wrong they said yeah,
+that's right.
+And that, that's what we're, and that's
+what we should be doing.
+Federalist 11, which is one of the
+Federalist papers
+that, written to support the adoption of
+the Constitution.
+Specifically talks about the need for a
+strong and indissoluble loo union.
+And, so that's what, that's what, both the
+supporters and the
+opponents, actually, of the Constitution
+seem to have thought they were
+doing, and that's what they did.
+So then there's one final point I want to
+bring up, and
+that's a question that was originally
+brought up by JR Sedevi.
+And that's about the Constitution's size
+and scope.
+And JR asks, you know, the Constitution is
+really brief.
+It's only a few thousand words.
+So, how is it that we have such a
+short Constitution, and then you look at
+modern legislation, like,
+the hel, you know, the Affordable Care
+Act,
+which is, or Obamacare as its often known.
+It's hundreds and hundreds of pages long.
+How is it that we need to write these
+extremely extensive
+statutes when we created a Constitution
+that was so brief and succinct?
+So, this brings up a really
+interesting point about American
+Constitutional design, in
+that, a, you, a, a remarkable feature of
+the American Constitution is its brevity.
+So, by contrast, the Indian Constitution
+is 117,000 words long.
+That's 25 times longer than the US
+Constitution.
+So, America's founding fathers seem to
+have made a
+very deliberate choice to go with a
+shorter document.
+So why did they do that, and what can we
+understand about the project as a result?
+Jason Jones actually had a great response
+on
+this thread, and he compared the
+difference between writing
+a constitution, like the framers did in
+1787, and
+passing a statute today, as the difference
+between creating
+a blueprint for a house, and adding a sun
+room.
+And, he pointed out, you know, the levels
+of detail you might want to specify, the
+amount of implementation, and specifics
+that need to
+go on, those two processes, are very
+different.
+And I think that that's really the right
+way to think
+about it.
+To kind of drive this point home, I say
+one of
+the most famous lines in the history of
+the US Supreme Court.
+So this is, this is from a case called
+Marbury
+versus Madison, which is going to come up
+in this course.
+It's from 1803.
+It's it's arguably the most important case
+in the history of the Supreme Court.
+And this is arguably the most famous line
+from this opinion.
+And this is what it is.
+We must never forget that it is
+a Constitution we are expounding.
+Doesn't sound very exciting, right?
+I mean, you might think like if that's the
+big payoff, why am I taking this
+Constitutional Law class?
+But it hits at this idea.
+That we've discussing with this question.
+And that's that the Constitution isn't a
+detailed code.
+It's not like the tax code say, which
+specifies exactly
+what's going to happen in a lot of
+different circumstances.
+It's a blueprint.
+It's a framework.
+It creates the conditions for future
+politics
+that are going to fill out the details.
+And quite possibly, that flexibility that
+the framers built into the system,
+is why our Constitution has been able to
+endure for so long.
+So thanks for posting so many great
+questions.
+I'm sorry we only had the chance to
+discuss a few of them here today.
+But we really look forward to more
+events like this.
+More interactions on the discussion forum.
+And more opportunities to hear what you
+guys are thinking
+about the course, so thanks so much, hope
+you're enjoying it.
+[MUSIC]
+

@@ -1,0 +1,1151 @@
+[BLANK_AUDIO]
+Hi, welcome to the Week Six bonus
+materials
+for Professor Kelm Mars Constitutional Law
+Class on Coursera.
+I'm Daniel, one of your teaching
+assistants.
+And along with me here, is Danny.
+Another one of the teaching assistants.
+Today we're going to talk a little about,
+what
+constitutional law looks like in the
+modern world today.
+And we're going to do that by discussing a
+couple of important court cases that
+involve constitutional law.
+That are being decided this year in the
+United States Supreme Court.
+So just to lead things off, I thought I'd
+talk a little about
+what the Supreme Court is, and how it
+functions in the American legal system.
+So the Supreme Court is the highest court
+in the United States.
+And while it hears some well in some cases
+its a part of original jurisdiction.
+Like here's here's cases for the first
+time.
+In almost every case it hears, its a court
+of appeals.
+So its going to be hearing cases that have
+already been decided in other
+courts and determining whether those
+courts made
+the right decision or the wrong decision.
+And now the way you get into the
+Supreme Court, is by a complicated process
+called certiorari.
+So after you lost a case in a lower court,
+you can petition the Supreme Court and
+say, hey, I think that the lower court got
+it wrong, I want you to review this case.
+And thousands and thousands of people
+every year do this.
+And the Supreme Court only agrees to hear
+about 70 of those cases.
+And they're the cases that present the
+most interesting, the
+most compelling issues, have caused the
+most disagreement in lower courts.
+But with those 70 cases then, it will have
+each party.
+In, in the Supreme Court, the parties are
+called the petitioner,
+who's the person challenging the lower
+court ruling, and the respondent.
+Who's the person responding, and who won
+below.
+Each of them will present briefs, so
+that's written summaries of what their
+arguments are.
+And then each of them will get a chance to
+present
+oral arguments, before the justices in
+which they can make their case.
+After the justices hear oral arguments,
+they will discuss with each other
+what they're going to do and eventually
+come to a ruling and the majority.
+Will get to write an opinion saying what
+the court is doing and why they're doing
+it.
+Other judges who disagree can write either
+concurrences, in which
+they say "I agree with the result you came
+to.
+But I want to get a slightly different
+reasoning for it.
+Or dissents, in which they say, I don't
+agree with the result.
+Here's what I think should happen instead.
+So that process goes on.
+The Supreme Court calendar runs from
+October through June, basically
+and hearing cases and then deciding them
+as they go.
+And so, we're going to talk about a few of
+them today.
+>> Thanks, Daniel.
+So one of the things that's important to
+realize is that, in this
+Supreme Court process, not everything that
+the Supreme Court does is constitutional
+law.
+There are plenty of cases that are about
+things other than the Constitution.
+For instance, statues that are laws passed
+by
+Congress or regulations that are passed by
+federal agencies.
+The Supreme Court will.
+And determine what the authoritarian
+interpretation of
+a statute is, or it will determine whether
+an agency's action or regulation is in
+line with the statutory authority granted
+by congress.
+but, in keeping with their course, we
+decided to take a few
+cases from this term that are about
+specific parts of The Constitution.
+Specific texts within The Constitution,
+and.
+About how those text have been interpreted
+by
+the Supreme Court and other courts over
+time.
+So, today we're going to talk about three
+cases.
+first, the national labor relations board
+versus Noah Canning
+which is a case that deals with article
+two section
+two of the constitution, and then we'll
+talk about
+United States versus Worry, which deals
+with the fourth amendment.
+And finally, the town of Greece versus
+Galloway, which is about the first
+amendment.
+>> So, the first case that were talking
+about today is,
+national labor relations board or NLRB for
+short, versus Noah Canning.
+So as Danny said, this case arises under
+article two section two.
+And now, if you remember, from chapters
+four and
+five, of professor Lamar's book and the
+lectures that.
+Correspond to that.
+Article two is about the President and the
+powers that the President has.
+Now one of the most important powers that
+the President has is the power of
+appointment.
+So this is what the Constitution has to
+say about Presidential appointments.
+This is in article two, section two.
+He, that's the President.
+They weren't really thinking of female
+President's at the time I guess, shall
+have power by and with the advice and
+consent of the Senate, to
+to make Treaties.
+So that part of the clause is not relevant
+here.
+But then also.
+To appoint Ambassadors, other Public
+Ministers and consuls, Judges
+of the Supreme Court, and all other
+officers of
+the United States, whose appointments are
+not herein otherwise
+provided for and which shall be
+established by law.
+And then it says, in the next clause, so
+that's, that's setting up the primary
+mechanism for appointment,
+which says, the President's going to make
+a nomination, but
+then the Senate has to provide advice and
+consent.
+It has to agree with the nomination the
+President's giving.
+But, then there's a catch which is that in
+the next paragraph it says, the President
+shall have power to fill up all vacancies
+that may happen during the recess of the
+Senate.
+By granting commissions which shall expire
+at the end of the next session.
+So this is, this is what, this is called
+the recess appointment clause.
+So and it establishes a recess appointment
+power.
+You may have heard about recess
+appointments
+but basically they're appointments that
+the president makes.
+When Congress, when the Senate is in
+recess.
+When it's not meeting and they last for
+just a year.
+Until the beginning of the next Senate
+session.
+It's a temporary appointments that don't
+require the consent of the Senate.
+So the [SOUND] The case of Noah Kennedy,
+the
+NLRB concerns how far that recess
+appointment power goes.
+specifically, it relates to a few
+appointments that
+President Obama made to the National Labor
+Relations Board.
+And he made them as recess appointments,
+and this was back in January of 2012.
+And you know he said well Congress isn't
+in section.
+I want to point these people to the
+National Labor Relations Board so I'm
+just going to do it and I don't need the
+advising consent of the Senate.
+After he did that some people said wait a
+second.
+We don't think you actually, we don't
+think this was a real recess.
+We, we think, oh sorry.
+They made actually a whole variety of
+claims,
+one in which was, this wasn't a real
+recess.
+But another of which, was, and this is the
+one that we're actually going to actually
+talk about today.
+So if you remember, the text that I read
+to you said, the
+President shall have the power to fill up
+all the vacancies that may happen.
+During the recess of the Senate.
+So one question that arises is, does that
+mean that he has to make the
+appoint, just mean that he has to make
+the appointment during the recess of the
+Senate?
+Or does it mean the vacant seat that he's
+filling, actually has to arise during that
+Senate recess, too?
+And that's one of the questions that's
+being litigated in [UNKNOWN].
+And so what we're going to do here is
+Danny's going to lay out the position of
+one side.
+And then I'm going to respond and lay out
+the position of the other.
+So you get a sense about what both the
+arguments are.
+So Danny will start by telling us about
+the petitioner.
+And that's the government, in this case.
+Says about the racist point in this class.
+>> Right.
+So, the petitioner in this case is the
+National Labor Relations Board.
+That's because they lost in the lower
+court, which in
+this case was the appeals court in D.C.,
+the D.C. Circuit.
+So, the National Labor Relations Board
+cares about this very much because
+it's currently headed up by people who
+were appointed via this method.
+In January 2012, as Daniel said So the
+question is whether the
+actions that these people have taken,
+while in office are valid actions.
+And that's really the underlying cause of
+complaint.
+In, in the case today that we're
+discussing today.
+It was actually argued back in January,
+although we're still
+waiting to hear from the court what the
+decision will be.
+So there's a variety of arguments that are
+on the table, that the government is
+making, a
+lot of which you might recognize in sort
+of
+style or pattern from the discussions
+we've been having.
+In class so far and in Professor Marr's
+lectures.
+Some of these arguments are sort of,
+textual arguments.
+About what the word happen means.
+And to look at the text the government's
+briefs are looking at
+how the word happen was construed and how
+the word recess was construed.
+Back in 17, in the 1780s and the 1790s
+around the time.
+Of the writing and ratification of the
+Constitution.
+So some of the sources that the
+government has used are records from
+British Parliament.
+[SOUND] Or records from state legislatures
+and how they
+use the terms recess or how they handled
+recess appointments.
+The continental Congress or even how
+the constitutional convention handled its
+parliamentary procedure.
+Another set of arguments is related to the
+purpose of the bots, you know, What the
+[UNKNOWN] clause was designed to do and if
+you look at historical historical evidence
+from the time.
+You see people talking about the [UNKNOWN]
+clause as designed to make
+sure that the government was still
+functioning while the Senate was in
+recess.
+And you know, nowadays the recesses
+between sessions of the Senate.
+Not particularly long.
+They may be a month, maybe a few weeks,
+maybe a couple of months.
+But back in the 1790s [INAUDIBLE] during
+the
+first Congresses, often recesses were six
+months long.
+And the recess appointment clause was seen
+as
+a fundamental way to keep the government
+functioning.
+To keep executive offices filled when the
+senate was not in session to confirm it.
+So one of the argument's the government
+makes is that, with this
+purpose in mind think again about what it
+means to have a rule
+that the vacancies that are being filled
+by the President had to
+exist during the recess or they could have
+arisen before the recess commenced.
+And think about, for instance, a vacancy
+that's created because.
+Let's say a military officer dies two days
+before the Senate goes into recess.
+And word doesn't make it to the Senate, or
+the Senate doesn't have the
+time, to confirm a new appointment by the
+President before it goes into recess.
+Now that would be a vacancy that arose
+before the recess happened.
+But it seems like if the purpose of the
+clause is to allow the government
+to keep the, is to allow the President
+to keep the government functioning during
+the recess.
+You would certainly think that, having
+important military positions filled would
+be a necessary thing for the president to
+be able to do.
+So that's sort of an argument based on
+the, the purpose of the clause.
+Then there are arguments about the history
+of how this clause has been interpreted.
+So one thing you might think when you
+read this clause again, that the President
+shall
+have power to fill up all vacancies that
+may happen during the recess of the
+Senate.
+You might think, well, it's not clear what
+the word happen means.
+Does the word happen mean arise?
+Does the word happen mean exist?
+So how should we handle moments when the
+constitutional text is, is unclear?
+And one of the things that the Obama
+administration is arguing is that we
+should look
+to historical practice, to see if this is
+subverting an understanding that has
+existed for centuries.
+And they say no.
+No it's not.
+It's unsurprising that they say that, of
+course.
+They say nearly all Presidents have, have
+made appointments to pre-existing
+vacancies, to vacancies.
+That arose while the Senate was in
+session, but
+the appointment was made while the Senate
+was in recess.
+They also point to letters from
+the Attorney General to the President
+interpreting
+the President's authority to do this
+dating back all the way to 1823.
+And they say, they note how many officers
+have been appointed this
+way, it's hundreds and hundreds of
+officers over history, both civilian
+officers.
+And military officers.
+And so they say, alright, you know?
+Even if this maybe an ambiguous text.
+We should see that this has been, you
+know, worked
+into the fabric of our constitution over
+the last couple centuries.
+This is a kind of argument that we'll see
+a lot as we transition into
+the next half of the course with
+Professor [INAUDIBLE], as he discusses
+American's unwritten constitution.
+You'll get, several lectures dealing with
+what Professor [INAUDIBLE] calls.
+Americans institutional constitution and
+that's the,
+the interpretations of our constitution,
+the
+gloss that's been added onto the text by
+centuries of executive practice.
+>> Thanks.
+So, Noel Canning on the other hand, and
+that's the respondent in this case
+says, look, I know we've been doing things
+this way for a long time.
+I know for, you know, 150 years,
+presidents have been appointing.
+officials, to vacancies that only came
+about before the recess.
+But it doesn't matter, because the text of
+the constitution is clear.
+Now, as I said before, what the text of
+Article one,
+Section two, sorry Article two, Section
+two, Clause three actually says is.
+That the President has the power to fill
+vacancies that happen during the recess.
+Now the most natural meaning of the word
+happen, whether today
+or in fact, back when The Constitution was
+originally written in 1787.
+Is that it refers to a sudden occurrence
+rather than a state of being.
+If you talk about something happening in
+everyday speech.
+You're not really talking about something
+that's been around for months.
+You talking, if, if you say, you know,oh I
+went back home and my mother happened to
+be there.
+Right.
+You know, you're not talking about your
+mother having been there for six months.
+You're saying my mother was there at the
+moment that I got there.
+And the most natural way to read, as
+a result, you know, vacancies that shall
+happen during
+the recess, is that we're talking about
+vacancies
+that come to exist when we're in the
+recess.
+And not vacancies that came about, you
+know, months or even years beforehand.
+And related to this textual argument is.
+Another purpose argument.
+So Danny gave you one purpose argument
+was, which was, well, you know, the
+recess appointments clause is about making
+sure
+that the government can continue to
+function.
+So it's important to give the President
+broad powers to make recess appointments.
+But another response is, well, the recess
+appointments
+clause is really supposed to be a special
+exception.
+For times when the normal appointments
+process,
+with the President nominating and the
+senate confirming.
+Can't work.
+And, you know, if we give the president
+the power to make recess
+appointments for nominations that, I'm
+sorry,
+for vacancies that have existed for
+months.
+Well, then he's really never going to go
+to the Senate at all, right.
+If the President knows, you know, I don't
+have, this vacancy came about in the
+middle
+of the Senate's term but if I just wait a
+few months until the Senate is.
+Out of Washington.
+I can appoint whoever I want to that seat,
+without needing the senate's consent.
+Then why is he ever going to use
+the normal appointment's clause process of
+advising consent.
+And so in a way interpreting the recess
+appointment clause broadly, might actually
+undermine the purpose,
+not just of that clause but of the
+whole appointment scheme that the
+constitution is setting up.
+And then finally with regards to some of
+these history arguments,
+the respondent say, you know it's not
+really all that clear, yet.
+Its true that Presidents were for a long
+time
+have been appointing officials who's
+vacancies came about before recess
+began, but at the very beginning of our
+country's
+history it was unclear that that was the
+accepted practice.
+George Washington for example felt that it
+was really important that you could only
+use the Recess Pointman's Clause to fill
+vacancies that actually arose during the
+recess.
+And so it's unclear whether a historical
+practice
+that only started several decades after
+the founding should
+really carry as much weight, as the one
+that's been continuous since the beginning
+of our history.
+So those are some of the arguments, that
+both sides are laying out, and if you're
+curious
+to learn more, there's tons of material on
+the internet that you can read about this
+case.
+You can look at the briefs and you can
+read the transcripts
+of the argument, but now we can move on to
+some other stuff.
+>> Great.
+So the next case we wanted to talk about
+is United States versus Worry.
+And this is a case about the fourth
+amendment.
+So just as a refresher I'll read the text
+of the fourth amendment.
+And the fourth amendment says, the right
+of the people to be
+secure in their persons, houses, papers,
+and effects against unreasonable searches
+and seizures.
+Shall not be violated and no warrants
+shall
+issue but upon probably cause supported by
+oath or
+affirmation and particularly describing
+the place to be
+searched and the person or things to be
+seized.
+So the fourth amendment is an incredibly
+important part of the Constitution through
+law enforcement.
+And the question before the court in
+United States
+versus Worry is whether when a person is
+being arrested.
+Can the police search that person's cell
+phone if
+they don't have a warrant to search the
+cell phone?
+And can they look at data that they might,
+may gather from, from the cell phone?
+So in this particular case the defendant
+was the defendant was
+observed during what police officers
+believed to be a drug sale.
+And they arrested the man and they
+searched his phone, which led to more
+in, which led to more information for the
+crime, for them to prosecute him.
+United States versus Wurie is also being
+argued the same day as another case,
+United States versus Riley, in which the
+defendant there was driving with expired
+plates.
+And he was pulled over for that crime of
+driving with expired plates.
+And the police searched his phone.
+In one of these cases the phone that was
+searched was a a flip phone.
+A cell phone with, that's you know, got a
+flip and they looked at the call records.
+In another case it was a sma, in the other
+one of the cases it was a smart phone.
+And smart phones, as many of us know, have
+huge amounts of data on them.
+So the question is, you know, this text in
+the fourth, the fourth amendment.
+The persons, houses, papers and effects.
+Does that apply to a cell phone?
+And and it's, it's a tricky question,
+right?
+Because cell phones didn't exist at the
+time the Constitution was written, and so
+this
+is an, an important case for, for the
+Supreme Court to be considering this term.
+>> So, the government in the worry case
+at least is the petitioner.
+They lost.
+In the, in the corbulo.
+The appeals court said this was
+unreasonable
+search of his phone, under the fourth
+amendment.
+But here in the supreme court, they're
+arguing that shouldn't have been the case.
+And what this really turns on is, so, as
+Danny read in the text of the
+fourth amendment, it doesn't say that the
+government
+can't engage in any searches without a
+warrant.
+It says the government can't engage in
+unreasonable searches, without a warrant.
+The question is.
+You know, what, what what's a, what's an
+unreasonable search?
+What's a reasonable search?
+And the way that the court tends to figure
+that out, because the text doesn't really
+say, you know.
+It doesn't really say, oh, and these are
+examples
+of searches the government can do without
+a warrant.
+These are examples of searches the
+government can't do without a warrant.
+So the way that the court kind of fills in
+the details is by looking at precedent.
+By looking at past court opinions on this
+subject.
+This is something that we'll discuss a lot
+more actually when we move to the second
+half
+of the course which we're just getting to
+now
+and Professor [INAUDIBLE] our second book
+America's Unwritten Constitution.
+So anyway, when you look at the precedents
+on you know, searches incident to an
+arrest.
+So what can I, what can I do when I, if
+the police arrest someone.
+What are they allowed to look at, even if
+they don't have a warrant?
+A lot of the courts holdings say, well,
+you
+know what you can do is you can look at
+anything that's on the arrested persons
+body, you can,
+you can, I mean which, which start to make
+sense.
+I mean you can search you make sure they
+don't have any weapons,
+you can see what kind of personal effects
+they have on them when.
+When you're, when you're arresting them.
+So, the government argues, that really
+should apply to people's phones to.
+I mean, the cell phone is something that
+you're
+carrying when you're arrested and so, if,
+if, if our
+doctrine, if our cases say you're allowed
+to search
+what's on a person's, you know, body when
+they're arrested.
+Then that's gotta involve their cell phone
+too.
+Especially because, espec, in the modern
+world cell
+phones are particularly likely to contain
+evidence of criminality.
+Indeed, that's why this case is in court.
+Because the police were able to discover
+valuable evidence, about
+where he's drug dealing when when they
+searched his phone.
+And and as a result the, the government
+claims
+this is, you know, in line with our
+doctrine.
+A totally reasonable search.
+And that it's no more intrusive, really,
+than other
+searches the police might do for stuff
+that you're carrying.
+For example, suppose you had a diary in
+your pocket.
+The police can look at your diary.
+Why is that more intrusive, than the
+police looking through your phone?
+And so, what the government basically says
+is, like, if you want,
+if you want to put someone that's on this,
+you could monitor this.
+Scope of how much we can look at in a
+[UNKNOWN] but it it
+really doesn't make sense to say we have a
+categorical rule that says no phones.
+That's not consistent with all of the
+cases that say its
+okay to search what's on your phone when
+we arrest you.
+>> And I, then of course there's
+there's
+the arguments made by by [UNKNOWN] in his
+defence and its important to note that the
+respondent brief was brief in this case
+was actually.
+Not yet been filed.
+The arguments aren't happening until late
+April of this year
+and so the course, the code, the case is
+still underway.
+You can, you can think about the kinds of
+argument that would like to be made based
+on
+the arguments that have been made below or
+the
+arguments that have been made in certain
+similar cases.
+Which are that you know, yes as Daniel
+said, there are there
+are all sorts of reasonable things for
+police to, to search and take.
+When they're, when they're making an
+arrest.
+You know, a pat-down to see if you have a
+gun or a knife on you is
+certainly a reasonable thing for, for a
+police officer
+to be doing in, in the course of duty.
+But phones are sort of different.
+And, as Daniel noted, this is, this is,
+this isn't something that
+we can get just from the text of, of the
+fourth amendment.
+In part, we have to look to.
+To doctrines that the supreme court has
+developed over
+time, as technology has changed and as
+policing has changed.
+And one of the things about especially a
+smartphone is that it's
+a little bit, there are elements of it
+that are like a diary.
+But there are also elements of it that are
+like, you know,
+your entire computer, all of your business
+transactions, access to your email.
+And then also for instance if police hold
+on to the
+phone for a while, while they're
+questioning you they can see.
+Incoming calls and he's trying to talk to
+you and
+hear the voicemails that they might be
+leaving for you.
+And all of these things are maybe similar
+to phone calls, which the
+Supreme Court has put restrictions on, the
+police's ability to listen in on.
+Or they may be similar to the papers and
+business effects that the [INAUDIBLE]
+seems to be concerned with.
+And, so you know, there really is.
+It's, it's interesting because fourth
+amendment doctrine can
+sort of push and pull on both these areas.
+And as we'll see in the next, in the next
+few weeks.
+Professor Mar will go over it.
+In particular the ruins of the Warren
+Court.
+Which he has, which, many things to say
+about, some good and some bad.
+And worry looks like it will just be the
+latest in a long run of.
+Complicated fourth amendment
+jurisprudence.
+>> So the last case that we wanted
+to discuss today called Town of Greece v
+Galloway.
+And this case arises under the First
+Amendment of the United
+States Constitution, which might be the
+most famous of them all.
+And what it says is, Congress shall make
+no law
+respecting an establishment of religion,
+or prohibiting the free exercise thereof.
+Or abridging the freedom of speech or of
+the press or of the right of
+the people peaceably to assemble and to
+petition the government for redress of
+their grievances.
+So, the first amendment as you can tell,
+contains a lot of really important stuff.
+Freedom of speech, freedom of the press,
+freedom to
+assemble but what we're concerned with in
+this case.
+Is that first part.
+And that said that Congress shall make
+no law concerning the establishment of a
+religion.
+So Congress, Congress is never going to
+say,
+the United States is a Christian country.
+The United States, you know, is a catholic
+country.
+A protestant country.
+A Jewish country.
+Muslim Country.
+You know?
+That is outlawed under the first
+amendment.
+so.
+It's easy to say something like, the
+United
+States could never declare an official
+state religion.
+But there are a lot of situations where it
+seems a little more complicated.
+Where it's not totally is what the United
+States.
+Is what the, not just the federal
+government,
+but the state governments, too, is what
+they're doing.
+Equivalent to saying, well, you know, we
+really
+have an official religion or is it totally
+permissible.
+And one case where this comes up is
+legislative prayer.
+So as you might know, lots of
+legislative bodies in the United States
+have chaplains.
+And have prayers.
+That are given before a session.
+The United States Congress for example,
+has a chaplain, who
+will lead people in a prayer often before
+Congress meets.
+And a lot of state legislatures, like town
+legislatures have the same thing.
+And over the years various people have
+said, you know, this seems
+a little funny that first amendment says
+there's no establishment of religion.
+But here we are, we're using public funds
+to pay ministers, to lead congressmen in
+prayers.
+That seems to, that feels a little like we
+do have an official religion.
+But the court generally said, no, this is
+okay.
+In particular there's a famous case called
+Marsh v Chambers.
+Where, someone challenged legislative
+prayer and the court said.
+You know, this is really acceptable.
+It's acceptable because, you know, the
+prayers
+here aren't really sectarian, it's more
+general.
+We're accepting a lot of kind of general
+faith
+traditions and not clearly promoting or
+denigrating anyone's religion.
+And then also, this is just part of who we
+are.
+We've been doing legislative prayer since
+the beginning of
+our country and, you know, we're religious
+people and
+it's okay to have a reflection of that as
+long as the prayers aren't too kind of
+clearly sectarian.
+So that's been the law for a number of
+years now, but
+town of Greece legality brings up a
+slightly new application of it.
+Town of Greece legality is about not
+state legislature, the national
+legislature of congress.
+It's about a, a local, town board, and at
+their town board meetings,
+they would have, um,various clergy men get
+up to give a prayer at the beginning.
+And.
+You know, a town board meeting is a
+little different than your average
+legislative session, so
+this wasn't just the the minister leading
+people,
+you know, ele, elected officials in a
+prayer.
+He's leading the whole group, the whole
+audience.
+Lots of people come to town meetings.
+In order to in order to you know, bring a
+petition or discuss a permit grant or
+anything like that.
+So the question is, is this like Marching
+chambers?
+Is this like, all the situations of
+legislative prior that the
+court has said are totally acceptable or
+is this somehow different?
+>> So the town of Greece in this case
+is the petitioner.
+And you know, [SOUND] that means they,
+they lost in the court
+below and are getting the supreme court to
+reconsider that decision, and.
+One of the first arguments that they rely
+on
+is essentially saying this is just like
+Marsh B.Chambers.
+It's a, it's an argument about the
+historical tradition of towns across the
+United
+States, which, just like the federal
+legislature,
+have often had prayers that start
+meetings.
+And so the argument is sort of.
+If it's, if it's all right for the
+legislature, the federal legislature
+to do this in large part because of this
+long-standing American tradition.
+Then it should be all right for towns to
+do this.
+And because of this long-standing American
+tradition as well.
+But that doesn't, you know, get
+necessarily to everything
+that, that Daniel raised about the, the
+dissimilarity between.
+Congress and town meetings, which in town
+meetings maybe somewhat more involve
+the people of the town meeting, somewhat
+more involve non elected officials.
+And so there's, then there's worry also
+about those people getting
+a message about the government's
+endorsement of one religion or another.
+And whether that violates the
+establishment clause of the first
+amendment.
+And the town responds, you know, that
+there's not just.
+The phrase of the first amendment that
+says, Congress
+shall make no law respecting an
+establishment of religions.
+There's also the part that says, Congress
+shall
+make no law prohibiting the free exercise,
+thereof.
+And the town of Greece says that the, that
+the, part of the purpose of
+the first amendment is to ensure the
+freedom
+of worship and [INAUDIBLE] in the United
+States.
+And here this prayer session is, is a way
+of, way of doing that.
+And it also says there aren't really the
+same the same worries about an
+establishment of religion.
+Because the, the town allows volunteers
+from
+all kinds of faith or non-faith
+persuasions to.
+To come and lead and lead a [INAUDIBLE]
+at the beginning of, of each ceremony,
+sorry, meeting.
+So for instance, just in the last year,
+they've had members of the Jewish
+faith, Catholic faith, Mormon faith,
+Buddhist faith,
+the High faith, Wicken faith and many
+more.
+And they've never rejected, any request by
+somebody.
+And they also don't look at the text that
+the person chooses to read.
+Beforehand, to approve it.
+So they say, you know, if, if the first
+amendment.
+If you look at the purpose of the first
+amendment,
+worry, the framers were worried about
+establishing a National Church.
+The government saying, this religion is
+the religion of the state.
+And you know, they're saying look at the
+way this is practiced.
+This is practiced as a reflection of the
+diverse states of many Americans.
+We don't reject anyone and we've taken all
+comers
+and we let them say what they want to say.
+And it's resulted in diverse
+presentations.
+And so they say if you look at really
+really the first amendment,
+you shouldn't think of this as
+questionable about the establishment of a
+religion.
+It's not an establishment of religion and
+it's allowing people.
+Moreover, to, express a variety and
+diversity of religious viewpoints.
+>> So, the, the respondents in this
+case, and that's Galilei, he, who was
+a person who, attended some of these town
+meetings, he didn't like the prayer.
+[SOUND] Says first off that all this talk
+about
+including a variety of faith traditions is
+a little fishy.
+Because for the vast majority of prayer
+sessions is Christian
+ministers giving explicitly prayers with
+very kind of sectarian language.
+And then at the end, once some of the
+complaints are heard, once there's the
+threat of litigation.
+All of a sudden the town [LAUGH] men
+offered to bring
+in a Baha'i, to bring in Wiccan, to bring
+in Jewish.
+But, but, but it was clear, at least for
+most of the history of this practice,
+what was going on, and that was that
+the town was engaging in explicitly
+Christian prayers.
+An interesting thing actually, if, if
+you're
+curious to hear some of the content of
+these prayers is go look at the transcript
+for the oral arguments in this case.
+In which Justice Kagan, who's one of the
+justices
+in the Supreme Court, did a really
+fascinating thing.
+And at the very beginning of the oral
+argument, when the Town of Greece's lawyer
+was about
+to start, she cut him off and she
+said, suppose at the beginning of this
+court session.
+The chief justice had said, and then she
+recited one of these prayers, you
+know, which has a lot of references to
+Jesus Christ our Lord and Savior and.
+Christian doctrine, said you know, would
+that have been okay?
+And that's a really though question to
+answer, because its certainly sounds when
+you're hearing
+this, like this isn't necessarily about
+bringing
+in every faith tradition, this is about
+saying.
+We believe in a particular faith
+tradition,
+and that's you know, what our towns
+endorsing.
+[SOUND] And then I, the second they'd
+point that the that the town
+increase some, sorry that the, that the
+respondents are going to make is that.
+What the town of Greece is doing is really
+not like Marsh v.
+Chambers at all.
+It's not like typical legislative prayer,
+and
+that's because it has a coercive effect.
+That, if members of a legislature don't
+like a Prayer,
+don't want to participate, you know, they
+don't have to.
+But when, individual citizens are coming
+before a town board.
+To petition it, to try to get it to
+do something they want, to participate in
+their government.
+When they're sitting next to their friends
+and neighbors and a minister
+gets up and asks the whole town to
+participate in a prayer.
+They're going to feel really uncomfortable
+walking out, or sitting down when everyone
+rises, or refusing to bow their heads in
+prayer when everybody else does.
+And that, that kind of coercion is what
+the establishment clause is about for, for
+protecting against.
+Right?
+The establishment clause is supposed to
+say, government can't force people,
+to adhere to any particular religion or
+participate in any religious ceremony.
+And that's really what's going on in this
+setting in a way
+that's totally different from other
+legislative
+prayer contexts that the Court is
+considering.
+So, I hope you enjoyed hearing about some
+of
+the arguments in three of these Supreme
+Court cases.
+And as Danny mentioned earlier, none of
+the
+opinions from these cases have come down
+yet.
+So it's a, open question what's actually
+going to happen?
+And it'll be really fascinating to, to
+see.
+But so we're excited to see what happens
+and we
+hope you've enjoyed talking about these
+cases with us today.
+Thanks so much.
+>> Have a good time.
+We'll see you at the next Interactive
+Session.
+[MUSIC]
+

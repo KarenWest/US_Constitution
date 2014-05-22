@@ -1,0 +1,893 @@
+Welcome back.
+We're in the middle of a discussion
+of Article III of the constitution, the
+Judiciary
+article, and we've been talking about
+something
+that modern people refer to as judicial
+review.
+The power and indeed the duty of judges to
+refuse
+to enforce laws that they
+in their independent judgement deem
+unconstitutional.
+Even though those laws have been passed by
+the House of
+Representatives and the Senate, signed by
+a President or passed
+over Presidents veto.
+Even though these laws have been duly
+enacted in a procedural sense, judges have
+the power and indeed the duty
+to, to refuse to enforce those laws if
+they deem them unconstitutional.
+We call that judicial review.
+It's not something that's explicitly
+in the Constitution in so many words, but
+I think it's
+a deep part of the Constitution's overall
+text, read holistically, and structure.
+The argument is not that because there's a
+thing called the Supreme Court in
+the Constitution, the supreme law that
+judges
+on the Supreme Court have some unique
+power.
+The ju-, the Justices on the Supreme
+Court are generally supreme over the other
+judges.
+There's a kind of a, a judicial pyramid.
+Supreme Court justices can overturn courts
+of appeals and below them trial courts
+but, the Supreme Court is
+not really supreme over the other
+branches, just over the other courts.
+And this power of, of holding something
+refu-, unconstitutional, of refusing
+to give effect for something that you
+think is unconstitutional, is not
+limited to sup-, the Supreme Court.
+It's true of all other federal judges,
+it's true of state judges.
+We're going to see, to some extent, that
+at
+the founding, people thought it was true
+of jurors.
+The power to refuse to give effect to
+some, something that you deem
+unconstitutional is, is
+a power, as we've seen, shared in some
+ways by other branches of government as
+well.
+The House can just say no and refuse to
+vote for a law
+it thinks is unconstitutional, even if it
+knows the courts
+would uphold it or have upheld a very
+similar law.
+So too would the Senate.
+Presidents can veto laws that say, that
+they believe are unconstitutional.
+Call that even if courts would uphold
+those laws or have upheld them.
+Think of Andrew Jackson refusing to sign a
+new
+bank bill even after John Marshall's
+Supreme Court had,
+had upheld the constitutionality of the
+Federal Bank in McCullough vs Maryland.
+Presidents can even refuse to enforce
+certain bills that they
+think are unconstitutional, at least until
+a court case materializes.
+There's a kind of executive review in the
+Constitution alongside judicial review.
+and, remember Presidents are made
+independent of the Legislature too.
+They're not picked just by the ordinarily,
+just by, by the, the Legislature.
+They're picked to the independent
+Electoral College system.
+They have undiminishable salary and indeed
+their salary can't be increased either.
+Judges can be increased, so they're
+vulnerable to possible congressional
+bribery, but
+presidential salaries within a four-year
+term
+can be neither increased or decreased.
+They've got a term of office independent
+of
+the Legislature, four years rather than
+for life.
+But there is a thing called executive
+review really along side judicial review.
+Remember that Thomas Jefferson is going to
+pardon
+everyone that he that has been convicted
+under a
+sedition act even after Supreme Court
+justices writing
+circuit have upheld this judicial act
+against constitutional challenge.
+So the basic argument for what we
+call judicial review is not necessarily
+something unique
+about the judiciary, it simply follows
+from, from two basic facts.
+One, the constitution is the supreme law
+of the land.
+It trumps an ordinary statute, whether
+congressional statute or state statute.
+Why is it the supreme law of the land?
+because it comes more authentically from
+the people, it's a
+more democratic law than a law passed by
+an ordinary Congress.
+So, the Constitution and its amendments
+come more directly from the people.
+Amendments are much more difficult to
+adopt than ordinary statutes.
+And so, because an amendment was hard to
+adopt, it should
+be hard to change, an ordinary statute
+should not suffice to,
+in affect, undo an amendment that required
+2 3rds of the
+House, 2 3rds of the Senate, 3 4ths of the
+states.
+A much broader process generated the
+constitution itself
+and its amendments and so ordinary
+statutes actually rank
+lower in their democratic pedigree.
+The Constitution is the supreme law of the
+land.
+That's the first step and the second step
+is judges enforce law.
+Judges are supposed to follow law.
+And if the constitution is inconsistent
+with
+the statute, they're supposed to follow
+the Constitution.
+In the same way that if a valid federal
+law is inconsistent with a state
+statute they're supposed to follow the
+valid
+federal law, because the supremacy clause
+actually in,
+of the Constitution, which we'll talk
+about in later lectures.
+It's in Article VI.
+It says the Constitution is the supreme
+law, and then congressional statues, but
+only ones that are consistent with
+the Constitution in pursuance of the
+Constitution.
+And then below that, state constitutions
+and state statutes and so on.
+And that's the democratic hierarchy of
+law, and judicial
+review is basically just a recognition of
+the supremacy of
+the Constitution as the supreme law of the
+land,
+and the fact that judges are supposed to
+enforce law.
+Now that's the basic argument of the
+Federalist No.
+78 in support of what we call judicial
+review.
+It's a basic argument that you see in an
+opinion
+by John Marshall in 1803 for the court
+called Marbury v.
+Madison.
+But exactly how robust a conception a of
+judicial review did the Framers envision?
+I suggest at the founding, it was rather
+modest.
+Here are a few reason for thinking so.
+First, remember that the Constitution
+doesn't
+specify the size of the Supreme Court.
+Now, if the supreme court was going to be
+invalidating acts of Congress,
+right and left it was going to be as
+important as say as the President and
+the veto process or something, you'd think
+that the Framers
+would have specified much more how many
+justices there would be.
+In the same way that they, there was a lot
+of wrangling about the apportionment of
+the House of Representatives,
+apportionment of the Senate,
+how the Electoral College was to be
+structured.
+If the Supreme Court was basically an
+organ of national
+power that was designed to make sure that
+the states
+complied with the Constitution then you
+could
+imagine the fr-, the Framers actually were
+going to
+leave to Congress a lot of power over the
+size and shape of, of the court.
+so, in the same way that Congress would
+decide
+how to structure a post office, how to
+structure
+the Treasury Department, Congress could
+structure the judiciary as
+an organ of national power to monitor the
+states.
+And by the way
+that idea of monitoring, of the judicial
+monitoring the states
+is an idea that went back to the colonial
+era.
+When colonists passed laws in their
+assemblies judges
+in privy counsel could judges and other
+officials o the central government could
+invalidate Congressional
+excuse me colonial laws.
+And, and the Framers of the Constitution
+thought that the state
+legislatures actually sort of needed a
+little bit of checking and monitoring.
+A little bit of oversight from the new
+central government that they were trying
+to create.
+They were trying to create, in effect,
+that little bit of a
+substitute for the review of colonial
+statutes embodied in, in the privy
+council.
+And, indeed, early on John Marshall's
+court
+strikes down lots and lots of state laws.
+He's, he's siding with the federal
+government, his, he and his Supreme Court.
+John Marshall, invalidating state laws as
+violative
+of federal statutes and the federal
+Constitution.
+So lots of invalidations of state laws.
+Basically on Marshall's watch only one
+invalidation
+of a congressional statute, that's in
+Marbury v.
+Madison.
+I think that's consistent with the idea
+that the Supreme Court's size isn't
+specified.
+Now by the way, precisely because its size
+isn't
+specified, it's a portion that rules, it's
+going to be
+vulnerable eventually to a pro-slavery
+tilt are because of
+the 3 5ths clause, the Congress tilts
+towards the South.
+Because of the 3 5ths
+clause, the Presidency tilts towards the
+South.
+Pro-slavery Presidents like Andrew Jackson
+eventually
+become sort of dominant and they
+can appoint pro-slavery judges and they
+can sign into law pro-slavery
+apportionment rules.
+By the time of the Dred Scott case in the
+1850s, the
+Supreme Court is apportioned, but even
+though the slave holding south has less
+than a third of America's free population,
+it has more than the,
+it has a majority on the Supreme Court, so
+it's kind of malapportioned.
+And, and that's going to create some
+problems, that
+when that malapportioned court gives us
+the Dred Scott case.
+The original Supreme Court had six
+members, an even number.
+How odd.
+Because you see if it's supposed
+to be deciding all the important
+constitutional issues,
+you would imagine that you'd want an odd
+number so that four could be three or
+five could, could trump four, but
+originally it's six.
+That's another sign that they're not
+imagining, the Framers are, the Supreme
+Court as a kind of massive force it's
+become in American history.
+Here's another little clue.
+When Presidents veto bills, they are
+supposed to
+actually give a written statement of
+reasons for
+vetoing the bill, send a message back to
+Congress, and the Constitution prescribes
+all of that.
+And many of the early veto messages are,
+are in fact
+based on constitutional objections, as we
+talked about in earlier lectures.
+About half of the early vetoes, roughly
+two dozen out of 50 say
+in the antebellum, in the Pre-Civil War
+period,
+roughly half of them are constitutional
+vetoes and
+the Constitution is imagining, the Framers
+were imagining
+the veto as an important mechanism of
+constitutional oversight.
+A check and balance of the legislature,
+but judicial opinions not so much.
+There's nothing in the written
+Constitution that says that judicial
+opinions
+even have to be written in the way that
+the veto messages.
+There's nothing that says there has to be
+an opinion of the court and indeed,
+before John Marshall comes along, there
+isn't
+actually an opinion of the court as such.
+Individual justices kind of give their
+opinions from
+the bench randomly and sometimes there's
+someone to
+write it down, not always the, the, their
+opinions, so are not collective, they're
+not immediately published.
+John Marshall is going to change all
+of that.
+But that's yet another signal that early
+ju-, that, that the Framers
+did not quite imagine judicial review to
+be as robust as it becomes.
+In all of Marshall's time on the court, he
+strikes down one federal statute.
+It's in a case called, Marbury v.
+Madison.
+He strikes down lots of state statutes,
+but only one federal statute.
+And that federal statute is regulating the
+judiciary itself
+the flaw in the statute, as Marshall saw
+it,
+was that the statute improperly expanded
+the original jurisdiction of
+the Supreme Court, giving them cases to
+hear at
+trial that they should instead have been
+hearing on appeal.
+So a very technical issue involving the
+judiciary itself.
+That's, the only time before 1850 that the
+Supreme Court invalidates an act of
+Congress even though, it's invalidating
+lots and lots of state laws, as I said.
+And even though Presidents are vetoing all
+sorts of bills on constitutional
+grounds, and they're vetoing bills that
+courts have upheld or would uphold.
+See, for example Jackson's veto of the
+bank.
+Presidents are pardoning people that
+courts have
+actually said don't have a good defense.
+Thomas Jefferson's pardon of people who
+were accused of violating the sedition
+act.
+So if all of that is so, the judiciary
+originally
+is sort of more a branch of the central
+government
+monitoring states, making sure that states
+comply with the Constitution,
+and with valid federal laws, by the way
+that's McCulloch v.
+Maryland.
+Upholding a congressional scheme and
+invalidating federal bank, a state
+effort to tax that bank and undo it, so
+that's paradigmatic of the Martial Court.
+John Martial, a former congress person
+himself, siding with Congress
+against the states, and in so doing kind
+of carrying forward
+a theme from the Colonial experience of,
+of, of members of the central government
+monitoring local compliance with
+Empire-wide, continent-wide rules.
+So, if,
+if that's early style judicial review with
+only
+one important invalidation of an act of
+Congress by the Supreme Court, and that
+enact involves the judiciary itself, how
+is it...
+And by the way state courts in the early
+Revolutionary
+Period had exercised judicial review ag-,
+by invalidating state
+statutes, which are seen as violating,
+that were seen as violating state
+constitutions.
+But most of those early examples of state
+style judicial review involved
+judiciary specific laws, laws about juries
+for example.
+So how is it then you might ask that this
+founding judiciary, the least dangerous
+branch, third out of three,
+pretty modest doesn't get to pick it's own
+subordinates?
+Supreme Court Justices can't pick lower
+court judges.
+Doesn't get to pick his own leaders.
+Justices can't pick the, the chief justice
+doesn't get to
+some absolute right to regulate his own
+procedures or evidence.
+It's, it's shape can be manipulated by
+Congress.
+You, Congress can add to it, or subtract
+from
+the size of the justices if they don't
+like the,
+the rulings of the current justices.
+If all of that is so, how is it
+that the judiciary has become much more
+powerful over time?
+Supreme in some sense arguably.
+Even over other branches, or at least
+some supreme court justices think that,
+and ordinary
+people think that, that there's a unique
+power
+and duty of courts and among them, the
+Supreme Court, and court judges more than
+juries to
+say what the law is and enforce the
+Constitution.
+Well, I think a few factors are at play.
+And let's just talk about them and their
+post-founding factors.
+One, a lot more judges today.
+At the founding, there are only 15 lower
+court judges.
+And there, there soon become 105 or so
+members of the House of Representatives.
+Seven congresspeople
+for every, seven representatives for every
+judge.
+Today there are about two federal judges
+for every member of the House of
+Representatives.
+That’s a a 15-fold increase in the, the
+ratio of judges to members of Congress.
+Today lawyers, young lawyers are much more
+likely to start their
+careers clerking for a judge than
+interning for a member of Congress.
+So one thing, the judiciaries become
+powerful just
+because there are a lot more of them.
+You know, the old joke, friends come and
+go, but enemies accumulate.
+Well, judges accumulate.
+And the Supreme Court sits atop this even
+increasing pyramid where we have
+more laws, more complex laws, we meed
+mor-, need more judges to implement them.
+A huge, judicial pyramid, with all with
+radiating power in various districts.
+You may be more likely to know a Federal
+Judge than than your own member
+of the House of Representatives.
+Congress can't expand infinitely.
+Congress has about 500 people now, 435 in
+the house.
+If it were 4,000, it would be even more
+dysfunctional than at 400.
+And if it were 40,000, you know all the
+more.
+Judges you can keep expanding that
+pyramid.
+So that's one thing that happened.
+Second thing that happened is judges got
+control over their docket.
+A thing called certiorari, the justices
+could decide which cases that were
+going to here, and, and that gives
+them the power, the effect to define a
+kind of legislative agenda.
+In the early period, almost all the
+important issues, actually, are resolved
+outside the judiciary.
+Should there should there, can Presidents
+fire cabinet officers at will?
+Can the federal government assume state
+war debts?
+Is a bank of the United States
+Constitution.
+And that doesn't reach the Supreme Court
+until 30
+years after the founding debates about all
+of this.
+Can Presidents negotiate treaties
+secretly?
+Can they issue neutrality proclamations?
+Is the Sedition Act unconstitutional?
+Issue after issue after issue the, the big
+ones don't
+come before the Supreme Court.
+On the Sedition Act for example, the
+Supreme Court doesn't
+have, as such, appellate jurisdiction over
+all federal criminal cases.
+And it only gets that late in the 19th
+Century.
+Justices are riding circuit and and
+deciding cases individually,
+but not quite as a Supreme Court.
+So, more judges, that's one answer.
+Second they have, they get to hear more
+cases,
+these restrictions on their jurisdiction
+are gradually, gradually fall away, they
+have more, the Supreme Court has more
+control over its docket.
+It now sits atop a huge pyramid of, of
+federal judges so all, all who
+can be seen as just so many lieutenants
+enforcing Supreme Court mandates.
+We have a series of amendments that are
+designed with judicial review in mind.
+To, to create judicially enforceable
+rights.
+Especially after the Civil War.
+Rights against states and the federal
+government.
+And the courts were very vigilant in
+enforcing rights against states, as we've
+seen.
+That's going to be the story of the
+reconstruction amendments.
+We have the emergence of divided
+government in the 20th century.
+So, when the Congress is controlled by
+different party than the President they
+are at loggerheads, and
+so courts can do lots more stuff, and no
+matter
+what they do they're not going to get
+invalidated because either
+the President will like it, or the
+Congress will like it.
+And either the president or the Congress
+can stop any law that
+would try to retaliate against the
+justices, or overturn their controversial
+decision.
+So in a world of unified government, where
+the House, the
+Senate, and the Presidency, are all
+dominated by the same party,
+judges have less ability to sort of smack
+down political actions.
+Because they can, in turn, be retaliated
+against by a unified House,
+Senate, Presidency, but in the modern era,
+we don't have that so much.
+We have post-Watergate and Vietnam, a
+sense
+that our political branches have lied to
+us.
+And the courts actually have been part of
+the,
+the solution, the, the Nixon tapes case,
+the Pentagon papers case.
+So Presidents are seen now as partisan
+officials and that wasn't true of George
+Washington.
+Whereas justices have positioned
+themselves as,
+as sort of more above party.
+Whether that's true or not that's actually
+the, the, the, the persona.
+so, so a
+whole bunch of reasons, I think, why
+judges today are much
+more powerful than before and many, many
+more acts of judicial review.
+In the modern era the Supreme Court, about
+twice a year,
+is invalidating, three times a year, is
+invalidating Act of Congress.
+The entire period, before 1850, there was
+one invalidation
+of an act of congress, that's called
+Marbury v.
+Madison, it was
+a judiciary specific law.
+So so today, as I said, in the modern era
+the court every year is, is
+as robust against Congress or more than in
+the entire period before 1850.
+So we've talked a bit about judges.
+Let me tell you a couple more things about
+Article III.
+It gives judges power to hear all federal
+cases, and it's not at all clear
+that Congress can take that power away
+from federal courts.
+It may be able to reallocate, give power
+to
+one federal court or another court, but
+Congress is
+limited in its ability to take away all
+federal
+cases of a certain sort from the federal
+judiciary.
+So said John Marshall's court in an
+important case called Martin v.
+Hunter's Lessee.
+And let
+me just say a word or two, about juries
+and then
+I'm going to come back to the picture of
+John Marshall.
+I've been talking about judges a lot,
+cause today, judges are the main event.
+When we say Article III, we think judges,
+but for
+the Framers juries were a lower house of a
+bicameral judiciary.
+They were an important part of the
+process.
+They are mentioned in Article III.
+Criminal cases have to be tried under a
+jury in Article III.
+The anti-federalists
+said that's not enough, we want more
+protections for juries.
+What about civil juries, you're not
+specifying that the jury for
+example has to come from a certain
+district or, or vicinage so
+we need more protections for juries than
+you are recognizing.
+Even Marbury v.
+Madison, by the way, can be thought of as
+involving jury rights.
+Why would not want the original
+jurisdiction
+of the Supreme Court to be expanded?
+Because the Supreme Court's going to be
+sitting in Washington, DC and and
+if it gets to hear a case, then a local
+jury isn't participating.
+But if instead the Supreme Court doesn't
+hear the case and some other lower
+federal court hears it in the hinterlands,
+there's going to be a local jury involved.
+So, the whole debate about
+the Bill of Rights in the ratification
+process, when that, when critics say hey,
+you forgot the rights, is precipitated in
+part by a criticism of Article III.
+Saying you know, it mentions juries but
+not robustly enough.
+Not civil juries, not enough protection
+for jurors.
+It mentions criminal procedure, it says an
+impeachment.
+Excuse me, in for treason it says that
+things have to
+happen in open court and there have to be
+two witnesses
+to a treason.
+But what about all the other rights of, of
+criminal defendants?
+What about rights of council, and against
+double jeopardy,
+and the right not to be compelled to
+incriminate yourself?
+And so on.
+It says treason can only will consist only
+of levying war against the United States.
+Its kind of a protection therefor of free
+speech.
+You can't be prosecuted for treason merely
+for
+criticizing the government, but you did
+say that explicitly.
+Why isn't there more protection of free
+speech and free expression?
+So, this treason clause which can be seen
+as a kind of proto Bill
+of Rights, the jury provisions of Article
+III, which can be seen of as
+a seed crystal of a Bill of
+Rights precipitated conversation saying,
+you know we
+need a lot more rights and, and that's
+going to lead to a Bill of Rights.
+So Article III is in some
+ways a gateway to the early amendments.
+Now before I conclude, I just
+wanted to come back, because I promised I
+would, to this picture that, that's begins
+chapter six of of America's
+Constitutional: A Biography.
+Every chapter begins with a picture, and
+if you understand the picture, you'll
+understand election.
+This is John Marshall, he is the great
+early Chief Justice, and before he comes
+along
+the Supreme Court actually is practically
+impotent.
+And he makes it, the Supreme Court.
+After Marshall the Justices are going to
+speak
+actually with an opinion of the Court,
+which
+the constitution doesn't require, and
+they're going to
+issue written opinions which the
+constitution doesn't require.
+So his kind of counterpart to the
+President's veto message.
+And he is going to invalidate all sorts of
+state laws that
+are inconsistent with the federal scheme.
+But he's not going to pick too many
+fights with congress, because he's
+going to lose that.
+His branch isn't as powerful.
+It is the least dangerous to begin with.
+He's himself a former congressperson, a
+former diplomat, very
+popular, and he helps establish judicial
+review in Marbury v.
+Madison, but he doesn't push it too far.
+In general he's, his court is going to be
+upholding
+federal exercises of power, like the
+federal bank,
+and invalidating state laws that interfere
+with that.
+He is going to give us the idea of a
+modern Supreme Court.
+He's going to stick around for a very long
+time,
+showing you that life tenure, this good
+behavior, means something.
+Before him Chief Justices left early.
+They didn't have to, but they chose to
+leave early.
+So just as Washington establishes a
+tradition, that the
+presidency, although he can be re-elected
+again and again, Presidency should
+end after two terms, so kind of a gloss on
+Article II.
+Marshall establishes a gloss on Article
+III.
+No life tenure means that judges shouldn't
+leave early.
+They should stick around to the end.
+So, in earlier
+lectures, I said well, if you understand
+George Washington, you see a lot
+about the early presidency.
+If you understand Andrew Jackson, you see
+what the presidency became.
+If you see Henry Clay, you see congress as
+a great speechifying body.
+So, three, three big themes about the
+constitution have emerged early on.
+And if you see John Marshall, he embodies
+the, the power of the early of
+the supreme court, that, that, that he
+helps actualize.
+It's not as clear in the text, but he
+makes it real.
+What are the three big themes of our story
+so far?
+The constitution is more democratic than
+we've been told, more
+pro-slavery than we've been told, and more
+about national security.
+Who's John Marshall?
+He's a very before he was on the Supreme
+Court,
+he's a very popular politician.
+A man of the people.
+Probably the most popular member of his
+party, the Federalist Party
+in America.
+Especially after Hamilton's death.
+So a former politician, becoming a judge.
+So you see its sort writing for ordinary
+people, writing opinions that
+ordinary people can understand, so a
+master practitioner of a kind of of,
+of, of democratic politics.
+He's from Virginia.
+A slave holding regime and but he's a
+critic of slavery.
+And we're going to come back to that in,
+in a minute.
+he, he doesn't think that slavery is this
+great thing, and in that
+way he's like Washington, like Thomas
+Jefferson, who's his cousin by the way.
+He's also one of America's leading
+diplomats.
+He understands national security.
+He comes to national prominence in part as
+a diplomat in France.
+And he is a hero of the American
+Revolution.
+He's there with George Washington, he's
+there at Valley Forge.
+He writes famous opinions upholding nation
+security powers of the federal government,
+a national bank.
+So democracy, slavery, national security
+all embodied in the person of John
+Marshall.
+Now, just as George Washington, who was a
+slaveholder but who frees his
+slaves and thinks slavery is basically
+going to to be the death of the republic.
+It ultimately succeeded by Andrew Jackson,
+who was much more pro-slavery
+and, in fact at least as a constitutional
+matter and will support
+the slave power.
+So John Marshall is going to be succeeded
+by
+Roger Taney, whose constitutional vision
+is much more pro-slavery.
+Who puts Taney on the court?
+Andrew Jackson.
+How does Andrew Jackson become President?
+The 3 5ths clause.
+So, Marshall is a Virginian who is a
+critic of slavery, doesn't want this to be
+a slave-holding republic forever.
+He is succeeded, though, by Taney,
+whose Constitutional vision is much
+more enthusiastically pro-slavery, a
+Jackson appointee.
+And because of that, the Dred Scott case
+a man named Lincoln will arise and say the
+Constitution is, is
+skewing far too much in a pro-slavery
+direction, we have to stop this.
+And the confrontation between Lincoln's
+vision and Taney's
+vision will eventually culminate in the
+Civil War.
+And the Constitution will be transformed
+in the process.
+But that's basically the story for, for
+later lectures.
+I promise I'll tell that story to you.
+So stay tuned.
+[MUSIC]
+

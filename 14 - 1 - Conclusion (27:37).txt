@@ -1,0 +1,751 @@
+[BLANK_AUDIO]
+Welcome back.
+I've begun most of the lectures in
+this MOOC series with those words, welcome
+back.
+And I say them now and, and it's a
+little bit bittersweet because I think
+this is the
+last time I will be able to say those
+words to you, because this is our final
+concluding lecture.
+And in this lecture, I'd like to do
+several things.
+I'd like to thank you, I'd like to remind
+you,
+I'd like to advise you and I'd like to
+challenge you.
+So, first, my thank you, is
+if, if you've made it this far, you've
+gone through an awful lot,
+we've many, many hours of of this MOOC
+series, this massive open on-line course,
+series.
+And at one level this is a free course.
+It's designed to be accessible to, to you
+all.
+There are no required texts, there's no
+tuition, no property qualifications, as it
+were.
+But at another level, it's of course a
+very expensive course.
+Because your time is valuable, it's
+precious.
+It's the most precious thing to you and
+you've chosen to spend a lot of that time
+to be part of this experience and, and I
+personally am very grateful to you.
+And, and I actually think that your,
+your fellow citizens are, and should be
+grateful.
+The constitutional project does not work
+unless every, in every generations,
+thousands,
+millions frankly, of Americans buy into
+the project and participate in it.
+They, they have to show up to vote.
+To serve on juries when called to, to do
+public service when, when summoned by
+their fellow citizens.
+To pay their taxes and ultimately their
+obligation in, involves not merely
+speaking but, but listening, not just
+freedom of speech but a duty to listen.
+Not just voting but deliberating and
+thinking, learning,
+understanding our constitutional system,
+and that does take effort.
+And that's the effort that you've all put
+into
+this course, and so again, I thank you for
+that.
+Now, I want to give you all, I want,
+having thanked you, I
+want to remind you of that about what the
+course has been about.
+It's organized around two books, America's
+Constitution: A Biography,
+and America's Unwritten Constitution: The
+Precedents and Principles We Live By.
+And just by way of reminder, here's what
+we did.
+We started with a very careful and
+comprehensive
+tour through this tourist text, the
+written constitution.
+And I hope we learned several things,
+from,
+from that tool, which aimed to be
+comprehensive.
+We saw how well organized the text was, it
+begins with this idea
+of popular sovereignty, we the people,
+then
+it talks about the legislature, article
+one
+the executive, article two the judicial,
+article three the states, article four the
+constitutional supremacy principals of of
+amendment and
+ordainment in articles five, six, and
+seven.
+So its we saw the, the general
+organization of, of the thing as a whole.
+And then we went through the amendments,
+and I hope you saw a second feature of
+the constitution is inter-generational
+equality because the amendments
+of course are added as so many post
+scripts,
+and post post scripts, PPSes in
+chronological order,
+and so at the end of, toward the end of
+those lectures in the
+first half of the course, we carried the
+story forward in time.
+We began with a kind of a funcitional
+organization.
+A legislative power, executive power, a
+judicial power,
+federalism, horizontally, and vertically.
+But then we move from that functional
+organization story to a chronological
+story, through
+the Bill of Rights, and then the
+Reconstruction Amendments adopted after
+the Civil War.
+The Progressive Era Amendments in the 19
+teens.
+The 1960s amendments kind of a second
+reconstruction constitutionally ending
+poll-tax disfranchisement, opening up the
+vote still further to, to young adults.
+So that was the first book a, a guided
+tour of the, and I hope
+a comprehensive one of the written
+constitution,
+seeing its organization and its
+inter-generational chronological, flow.
+And then, in the second half of the
+course,
+we focused on the fact that the
+constitution is more.
+Our constitutional culture, our
+constitutional experience,
+constitutional law goes beyond this terse
+text.
+It encompass it, to be sure.
+We would never want to lose a connection
+to the written constitution.
+But we talked about things beyond the
+written constitution.
+And in particular, we, by the end of, of,
+of that experience, I hope
+we came to see that the constitution,
+America's constitution really combines at
+least four elements.
+Let me summarize them.
+There's the terse text, the written
+constitution.
+That's one way in which we talk about a
+constitution.
+There are unwritten principles of, of
+higher law, limiting government
+that are not all textual specified but are
+still part of our constitutional system.
+Many of these unwritten rules and
+principles are judicially enforceable.
+Others, even though they're not in the
+text explicitly, others may not be
+judiciously enforceable, but they still
+are
+binding in legal conscience upon
+non-judicial actors.
+And 225 years ago when the constitution
+is being launched, that idea, the
+constitution has
+higher principles that are really binding
+even if not set forth in the terse text.
+That idea would have been very
+recognizable, by both Americans and
+Englishmen.
+Englishmen, of course, don't have, Britons
+don't have a written constitution in
+this way, but they do have unwritten
+principles that are understood to bind.
+Sometimes judicially, other times extra
+judicially outside the judiciary.
+A third idea of a constitution.
+A constitution are, is how the government,
+how the society, the polity is
+constituted.
+The procedures and protocols and processes
+by
+which the government is organized and, and
+constituted.
+That, idea, as well, would have been a
+well-understood by the
+British because that is the British
+constitution, how the government is
+organized.
+We pave, we paid particular attention to
+some of the features, of some of the
+institutional features, and constitutive
+features
+of our system that a somehow entrenched,
+made difficult to change.
+Some of these entrenchments are highly
+formal and legal,
+even if not textually specified, they're
+enforceable in court.
+Principles of separation of powers and
+federalism that a court might
+enforce against ordinary legislative
+change
+even though they're not written down.
+So some of these are judicially
+enforceable, others
+of them might operate, not so much by
+court order but
+the more informal mechanisms of
+entrenchment, for example America's
+two party system is a practical matter we
+have duopoly.
+They're two big parties, that's part of
+our basic system of government.
+And that maybe not judicially forced all
+the time,
+but it's a fundamental and entrenched
+feature of the constitution.
+So these first three ideas of that
+constitution is,
+I think would have been well understood at
+the founding.
+The terse test unwritten rules and, and
+principles of
+higher law that constrain, and the way in
+which
+the government is basically organized and
+constituted the basical,
+the basic institutional procedures and
+protocols and principles and processes.
+Now to those three elements I've
+encouraged us to think about a fourth.
+The constitution also encompasses the
+tools and techniques by
+which we make constitutional arguments,
+and read the constitution.
+This doesn't come, this little document
+here doesn't come with a
+specific and comprehensive set of rules
+about how its to be interpreted.
+These rules are themselves part of
+America's constitutional system,
+and and so what I hope we, we we've seen
+through the course is how these different
+elements that terse text, the unwritten,
+higher law principles, the organization of
+the
+system as a whole, and the tools
+and techniques of interpretation all fit
+together.
+because, even though the first half
+focused more on the terse text and
+the second half went beyond it, I hope in
+the second half we always kept the text in
+mind, because the text is connected to the
+implicit principles, the
+enacting and ordaining and amending deeds,
+the lived constitutional
+experiences the landmark cases, the iconic
+symbols of, of national unity, the basic
+structures and institutions of
+government power, the state constitutional
+counterparts.
+The written constitution is intermittently
+intertwined with all
+of those other elements of our
+constitutional culture.
+And so, I hope you see that even though
+we've had to go beyond the
+terse text, we've always tried to, to
+connect to it and keep it in mind.
+So that was by way of reminder.
+I started, with, I will thank you and I
+want to
+remind you, two things left to advise you
+and to challenge you.
+On advice you might say, okay, well,
+professor, reaching the end of this
+experience, what next if we're interested
+in learning more, what should we do?
+Well, one thing of course it's not at all
+a course requirement I hope it hasn't been
+but
+if you do want to have a, get a
+lot more detailed understanding of the
+constitution in general
+and, and of these lectures in particular
+feel free
+to go to a local library or a local
+bookstore or go online and get copies of
+America's
+Constitution: A Biography or America's
+Unwritten Constitution: The Precedents and
+Principles We Live By.
+These are, not expensive textbooks.
+You can get a used copy on Amazon for, I
+think,
+maybe 5 or $6, for the first book which is
+in paperback.
+And the second one isn't in paperback yet,
+but I hope
+it will be soon, and I think is $20 on
+Amazon.
+And again remind, to remind you bookstores
+have them, but so do libraries.
+So you do, you do not need to, to pay a
+penny in
+order to experience the, the more detailed
+information that you'll find in those
+books.
+And you say okay, well professor, now even
+after I've read those books, what next?
+Well, each of those books, and they're
+pretty hefty here, each
+is about 500 pages of, of text, has 100
+pages of end
+notes that have all sorts of references to
+other books and
+articles that you might read, depending on
+what's of interest to you.
+I tried to write these to guide, the
+reader and, to other, I think, interesting
+accounts.
+And, and if you wanted one recommendation
+right now, you're not going to
+be surprised, but you, that you can
+probably predict what I'm going to
+say if you, the first thing probably to,
+to, to read in
+addition to these books that I, I'd be
+delighted if you experienced.
+The first thing of course is the
+Federalists Papers.
+The which are again they're available
+actually online, for free,
+you can get paperback copy for five or six
+bucks.
+All libraries have them, most book stores
+have them.
+And if you've read the books you've read
+my
+two books, and you've looked at the end
+notes,
+and you've read the Federalist Papers, and
+you still
+want more, just Google my name, email me,
+tell me
+what you've read, tell me what you liked
+about
+what you read, tell me what you didn't
+like,
+and I'll be happy to give you more reading
+suggestions depending on your particular
+tastes and interests So there
+are, there's a vast literature out there
+and depending on
+your interests, you can go in all sorts of
+different directions
+and I have tried to give you literally
+hundreds of
+suggestions, reading suggestions, in the
+end notes, to these two books.
+Okay, so I thanked you, and I reminded
+you, and I've
+advised you.
+I wana, I wana end by challenging you.
+Remember how we began this, course.
+We talked about how the constitution's
+preamble.
+We the People of the United States.
+And remember, I'm going to have to say
+something about this image here cause
+I, I always do that, that's part of the
+course, so I will.
+And this is the image that we started
+with.
+But this preamble, we the people of the
+United
+States, dot dot dot, do ordain and
+establish this constitution.
+That was an epically democratic deed.
+It was the hinge of human history.
+It changed everything.
+Never had so many people gotten together
+to
+decide how they and their posterity would
+be governed.
+The world would never be the same.
+And it was also, a massive corporate
+merger of sorts.
+13 different colonies forming one
+genuinely united system.
+It was nothing less, really than world
+government for the new world.
+Democratic world government for a new
+world
+new continent, separated by vast oceanic
+moats from
+the ancient, the, the monarchies, and, and
+oligarchies and tyrannies of, of the
+ancient world.
+So, it was democratic world government for
+a new world.
+And it was premised on the idea that the
+new world was basically isolated
+kind of an island continent separated from
+the old world and and the, the question
+is whether that makes sense today, that
+vision
+because here are two things that are, two
+big fundamental things that have changed.
+The rest of the world is democratic in a
+way that it wasn't before.
+Much of it is.
+At the time of the founding there were
+only
+a couple of, of self-governing societies
+outside the New World.
+Switzerland and Great Britain.
+Now, half the planet is democratic.
+On the con, on the model of the American
+Constitution, written constitutions, free
+elections, free speech, religious
+tolerance a peaceful
+transfers of powers between competing
+political parties.
+For example, a billion people in India,
+that's where my parents
+came from, are now self governing on the
+American constitutional model.
+And so, so, the rest of the world is much
+more American than before.
+And so maybe we, you know, the question,
+the challenge is, should we be
+as isolationist in our thinking, and
+constitutional
+thinking, as, as we have been thus far?
+So, the rest of the world is more
+democratic, and, it's a smaller planet.
+The framers idea was that, that these vast
+oceanic moats would protect us.
+That the key is that we wouldn't need a
+big standing army, in, in peace time.
+Because, we had the Atlantic Ocean to keep
+the bad guys away
+and, and for 150 years, there is no major
+standing army in peace
+time in America, and that was a huge part
+of America's success is
+that it didn't have to have a big standing
+army in peace time.
+But the world has changed and and the
+question is
+whether constitutional thinking needs to,
+to change along side it.
+When the constitution was being proposed,
+it was a, as
+I said, it was as if there was world
+government.
+And, and there's nothing, and, and it was
+designed to protect us
+against the British, the constitution was
+as a continental defense system, common
+defense.
+We the people of the United States in
+order to,
+dot, dot, dot, provide for the common
+defense, and it
+was about protecting us against the Brits,
+and the Spanish,
+and the French and, and, and others who
+would tyrannize.
+But, and today if I said well we need to
+think about, your
+generation needs to think seriously about
+world government on the democratic scale.
+We haven't talked about that very much in
+this course.
+But, but the challenge is for you to begin
+to think about that.
+You might say, well, you know, there's,
+you know, what do you mean professor?
+Do you mean we have to think seriously
+about whether we should
+ever have a legislature, elected
+legislature of the world that could actual
+pass laws, and impose taxes, and have an
+army, and, and you
+say, there's nothing imaginable that would
+make me ever vote for that professor.
+You might pause and say, well, unless the
+Martians came.
+And if the Martians were coming say, well,
+you know, maybe
+we have our disagreements with the
+Chinese, or, or the, the Russians.
+But, but they are homo sapiens, so we're
+in.
+That's actually what motivated Americans
+225 years ago.
+The Virginians have their disagreements
+with the Massachusetts
+people who have their disagreements with
+the New Yorkers.
+But the Martians were coming, the British
+threat
+was a real one and an ongoing one, and
+the Spanish and frankly the French too,
+and and
+so common a continental defense
+arrangement was agreed to.
+But the question is today whether really
+actually
+is it really true that the Martians aren't
+coming?
+Think about all the things that maybe
+require, not just continental
+coordination, but, global coordination.
+Climate change.
+Pandemic viruses.
+International terrorism.
+Nuclear proliferation.
+Maybe the Martians are coming in all these
+ways.
+Maybe the Martians are carbon dioxide
+molecules that
+are heating up the planet and will and
+whose solution will require not just
+continental governance systems, but global
+governance systems.
+And the same is true, as I said for,
+arguably, for nuclear proliferation and
+international terrorism and, and pandemic
+viruses, and global opportunities.
+We now have the internet and supersonic
+travel.
+And, because of nuclear submarines and
+intercontinental missiles, we
+are no longer separated from the rest of
+the world.
+We might try to imagine we could build
+some
+sort of, of protective bubble around this
+hemisphere or something.
+But it's not going to be so easy when
+you've got nuclear submarines just right
+off your coast.
+So I end the postscript of the second book
+with a challenge.
+And I want to, sort of end this this
+little section with a, with a challenge.
+About creating genuinely democratic,
+global
+constitutional systems, global governance
+systems.
+Systems in which the American idea of, of
+democracy
+on a broad scale is extended possibly even
+further.
+Here's how I end, I say, you know, gee,
+this is I, I,
+I don't know how that would work, and, and
+frankly I think I'm,
+I think I'm probably to old to figure it
+out, because, I say, here's a quote,
+the best ideas may well come from the
+young, that's you.
+Madison and Hamilton were both in their
+mid 30s when they composed the
+lion's share of the Federalist Essays,
+championing world government for the new
+world.
+Whereas Publius was a joint product of
+three men, John Jay rounded out the
+trio, today's technology makes it possible
+for
+many minds across the planet to
+collaborate.
+If the blessings of liberty are to be
+secured for posterity, not
+just for Americans, but for all God's
+children, young visionaries must speak up.
+Publius II, Publius Jr., Publius the
+Second, that's you.
+Where are you?
+The world awaits your proposals.
+So, I ended that second book and then I
+end on this
+section of the, of the including lecture
+with a challenge to you.
+And, and the challenge is to start to
+think not just about
+the future of American constitutionalism,
+but
+frankly of the future of world
+constitutionalism.
+[BLANK_AUDIO]
+Now, there's one last thing to do, of
+course, before we, say goodbye.
+We have to talk about the image on
+the screen, that's been the tradition in
+this course.
+I end where I started.
+with, this montage put together by my
+friends, here at,
+at, at Yale, it's a montage that as I told
+you
+at the beginning, blends text, text of the
+preamble
+with embodied actions in full living
+color, actual individuals who did things.
+George Washington plays a particularly
+important role.
+I hope this MOOC has combined actually a
+focus on the text, with also the focus on
+embodied deeds of, of, a colorful
+individuals, and, groups.
+This montage is partly taken from the
+facade, this,
+the side of the National Constitution
+center in Philadelphia.
+So one other thing, by way of advice, if
+you want to get,
+experience more about the constitution, go
+visit the National Constitution Center in
+Philadelphia.
+They've got lots of amazing stuff.
+So I wanted to sort of remind you of the,
+the
+image that, that we began this MOOC, this
+massive online course with.
+But I can't resist the temptation to show
+you one other image.
+So let's see if this works here.
+So, that's Hilary Clinton and that's Bill
+Clinton, and they're right here in this
+studio.
+And they are, and some of the other folks
+in the screen are the
+crew, that are here at Yale that have
+helped put this together, Doug and Rick.
+And so I want to, first of all, and
+they're
+talking about MOOC's, Massive Open Online
+Courses, actually, in this studio.
+This is a Massive Online Open Course.
+And so this is a reminder to me and,
+I hope, to you that, that thanks also are,
+are
+very much due to the, to the good folks
+who, on, on the crew who made this MOOC
+possible.
+And why are they talking about MOOCs?
+I mean, by the way, if you look
+really, really carefully, there's a little
+book there.
+It's this book.
+It's America's Constitution: a Biography.
+And believe it or not, it was hard for me
+to believe.
+They're actually talking about this book
+and this
+MOOC in particular and here's why they
+are.
+Because America's
+Constitution was designed to be accessible
+to ordinary people.
+That's why it was short, so people could
+read it.
+No property qualifications, is to see and
+to read the thing.
+And, and this has been a course that's
+been
+at one level, designed to be accessible to
+ordinary people.
+No property qualifications, no, no
+tuition.
+and, and here's why the Clinton's are
+interested in,
+in that, and I hope all our fellow
+citizens are.
+The constitution's project doesn't work
+without popular education.
+This document itself was designed so
+ordinary people could
+read it and learn about first principles
+of government.
+The Bill of Rights was so short that
+people could
+memorize it the way you memorize scripture
+or some favorite song.
+So the challenge is to make the
+constitution,
+and to make education, public education
+more generally accessible.
+Inexpensive.
+Free.
+Open to all.
+You know, I have the great good fortune of
+being here at, at Yale.
+President Clinton went to, Yale Law
+School.
+Secretary of State, Clinton went here,
+Yale Law School.
+We all feel very privileged that we were
+able to come here, and study the
+constitution.
+But it was expensive to do so.
+And information wants to be free.
+This is education is too expensive, and
+this MOOC is part
+of an experiment, a project to try to see
+if we can open up education and open up
+some of the teachings in, in places
+like Yale universities to a much broader
+audience.
+To ideally bring down the cost of public
+education, to, to make it accessible more
+broadly,
+and this MOOC, you know if it worked at
+all, it worked because of, of the crew.
+And I'd like to thank them, and they, and
+so
+that's why I wanted to partly end with
+this picture.
+But of course, this MOOC also, it doesn't
+work at
+all unless there are folks at the other
+end, participating.
+That's, that's you.
+That's, that's we the people.
+That's the only way which this MOOC idea,
+the idea of
+public education, more generally, the
+idea ultimately of constitutional self
+government.
+Only way it works is if all sorts of
+people buy in.
+Just take their not necessarily with money
+but with their time.
+Take the time to actually, be at the other
+end of the educational experience.
+So I end this lecture where I began with
+a, a very big thank you to
+each and everyone of you for spending so
+much of your precious time, in this MOOC.
+And and we've come to the end.
+Thank you and farewell.
+>> [MUSIC]
+

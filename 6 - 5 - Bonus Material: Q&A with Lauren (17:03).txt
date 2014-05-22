@@ -1,0 +1,466 @@
+[BLANK_AUDIO]
+Hello again, everyone.
+My name is Lauren Bizacki and I'm one of
+your teaching assistants for this Coursera
+course entitled Constitutional Law.
+Now, you've had two bonus features so far,
+where my other teaching
+assistants, Daniel and Danny, have
+answered
+some of your questions from the forum.
+And I've taken the opportunity to do the
+exact same thing.
+I combed through this most recent
+week's forums, discussing the lecture
+material, and
+I chose a few questions that I thought
+were particularly important to address in
+this office hour's bonus material.
+So I'll go to the first question.
+One of your classmates, Johan Keering,
+asks, what
+is supreme, state constitution, or federal
+law?
+What is supreme, state constitution, or
+federal treaties?
+So, really, he's asking two questions.
+First, whether federal law and federal.
+First, whether federal law would trump a
+state constitution.
+And second, whether a federal treaty would
+trump a state constitution.
+And the answer to both is the same.
+The federal law and federal treaty will
+always
+trump a state constitution, so that's the
+short answer.
+But now I'm going to take a few minutes to
+walk you through why,
+and to explain some of the issues and
+exciting
+features of our system of legal hierarchy
+of laws.
+So I've prepared a slide that outlines the
+different
+types of laws that we have in our country.
+And if you take a look at this slide,
+you'll see at the very top, is the
+Constitution.
+The Constitution is the supreme law of the
+land.
+And as such, it will always trump any of
+the other types of laws that you see below
+it.
+And I'm going to go into a little bit more
+detail later on, explaining why.
+But I want you to notice, that it's at the
+top,
+and that no one disagrees about the
+supremacy of this document.
+So next, below the Constitution, you'll
+see federal statutes.
+And what federal statutes are, are laws
+that are
+passed by the Federal Congress, the House
+of Representatives, and
+the Senate, and then signed into law by
+the President.
+Below federal statutes, you'll see
+treaties.
+Treaties are unique, in that it does not
+require both houses to pass a treaty.
+Treaties cut out the House
+of Representatives from the treaty-making
+process.
+And so, that is where the federal type of
+laws end, and the next two we see are
+related to states.
+And that's state constitutions, followed
+by state laws.
+Now what you'll notice on the side, the
+right side of
+that slide, is that there's an arrow
+pointing up saying more democratic.
+And what that means is that these laws,
+the supremacy of these laws that is, are
+arranged based on how democratic they are.
+So you'll see at the top
+the Constitution, that is the most
+democratic law that we have on any,
+in any of our books, whether it's state or
+federal, in our nation.
+And why is that?
+Well it's for the exact same reasons that
+we've
+been discussing throughout this course,
+and the earlier lectures.
+The Constitution was ordained by the
+people.
+That is, it was ratified by the states,
+and in those state ratifying
+conventions, we had even lower property
+requirements
+than we did to vote for other laws.
+The Constitution was not established by a
+small
+number of legislators, but rather, the
+entire nation.
+So as such, it's the most democratic form
+of law.
+And as you go down, the laws become less
+democratic.
+And what I mean by less democratic is,
+that they're less representative
+of the people.
+So for instance, I just discussed how
+treaties cut out the House of
+Representatives,
+and it's commonly noted that the House
+of Representatives is the people's branch
+of government.
+And then all the way down at the bottom,
+state laws cut out
+all the people in those other 49
+states, and they're established by state
+legislatures.
+And so, as you can see, at the very top,
+we have a more democratic law, and
+we go down from there.
+Now, this hierarchy of democracy is
+important to the supremacy of these laws.
+And Professor Amar, in his chapter about
+the law of
+the land, the lecture that you just
+watched, outlines in
+great detail in his America's
+Constitution, A Biography book, all
+of the arguments for why this hierarchy of
+laws is true.
+And one of those being this gradient of
+democracy.
+I did just want to highlight for you, that
+there is debate about whether
+federal statutes or federal treaties,
+trump one another.
+That is, what happens when a statute on
+one
+hand, and a federal treaty on the other
+hand, conflict.
+Now, under this,
+under this slide, under this gradient we
+see, Professor Amar
+would answer, that indeed the federal
+statute would trump the treaty.
+However, there is scholarly debate as well
+as
+judicial indecisiveness, about what would
+happen in that case.
+Now the, the majority of the judicial
+branch doesn't have a
+clear consensus about whether a statute or
+a treaty, would trump one
+another based on those distinctions.
+And professor Amar argues in his chapter
+in this book,
+that the judicial branch thus is being
+unfaithful to the Constitution.
+And professor Amar outlines a number of
+arguments, for why this hierarchy
+specifically statutes
+trumping treaties, should be followed by
+the
+courts, and is true to our Constitution.
+And I'm not going to go into all of those
+arguments.
+But I just wanted to take time to
+highlight
+a few of those, so you understand some of
+the
+the, the points that are in dispute, and
+some of
+the working parts behind this question of
+the supremacy clause.
+So if we take a look at this supremacy
+clause itself in the Constitution,
+which is found in article six, it states,
+this Constitution,
+so, it's stating the constitution first.
+And the laws of the United States, which
+shall be made in pursuance thereof.
+So, second, it mentions these federal
+laws.
+And all treaties made, or which shall be
+made, under the authority of the United
+States.
+So next it mentions treaties.
+Shall be the supreme law of
+the land.
+And the judges in every state shall be
+bound thereby.
+Anything in the constitution or laws of
+any state to the contrary notwithstanding.
+So the last part of article six, of
+this paragraph of article six, then
+mentions the state.
+Now what Professor Amar argues is that
+this order,
+that is outlined in the Constitution, the
+Constitution, federal statutes, treaties,
+and then state law, is important for our
+understanding of supremacy.
+That is, the supremacy clause itself
+outlines
+the order of the supremacy of the laws.
+And he makes a doctrinal point, about why
+we should obsect, accept this argument.
+And I'm going
+to read now from his chapter.
+For those of you that are following along,
+it's page 303.
+And Professor Amar argues, in Marbury v
+Madison,
+Chief Justice Marshall, in emphasizing the
+legal priority of
+the constitution, deemed it not entirely
+unworthy of observation,
+that article six supremacy clause listed
+the Constitution first.
+Isn't it likewise worthy of notice that
+this very
+same clause listed federal statutes ahead
+of federal treaties?
+Thereby implying a rank order between the
+two.
+So that's just a little introduction to
+some of the arguments surrounding the
+supremacy clause.
+And, and the debate about whether statutes
+or
+treaties trump one another, when they're
+in direct conflict.
+I'd like now to move on to a second
+question
+I found in the discussion forums for this
+week's lectures.
+And this comes from someone named Dominic.
+Dominic asks, in the lecture, the
+professor mentioned that if enough
+states decide, they can request Congress
+to call a proposing convention.
+I don't think the professor explained how
+many states constitute enough states,
+please explain.
+So the amendment process for the
+Constitution
+is outlined in article five of the
+Constitution, right next to article six
+that
+we were just discussing about the
+supremacy clause.
+And article five of the Constitution, I'm
+not going to read it
+out loud, it's kind of long and there's a
+lot of or's.
+There's a lot of different clauses.
+There's a lot going on there, and so I
+prepared a slide to help kind of break
+it down and explain the amendment process
+a little bit better.
+So, the amendment process is a two-step
+process.
+And, any amendment requires that both of
+these
+steps be met, before the Constitution can
+be amended.
+So, the first step, is that amendments may
+be adopted and
+sent to the states for ratification by one
+of two mechanisms.
+So, either of these two mechanisms would
+allow the
+amendment to be adopted and then sent to
+the states.
+So the first mechanism, is that two thirds
+of
+the Senate and the House of
+Representatives must propose
+to adopt this amendment.
+And that's known as a super majority.
+So it requires both houses of the
+legislature, two- thirds.
+Not the normal 50% or the normal majority
+required, but a super
+majority, which is much more difficult to
+achieve and often requires
+the help of both parties and the support
+of both parties.
+Or,
+now this is an or, not an and, or a
+national convention, assembled at
+the request of the legislature of at least
+two thirds of the states.
+And now this is what Dominic was asking
+about.
+So currently, two thirds of the states
+would be 34 states.
+And 34 states, would have to request this
+national convention.
+The last
+national convention we had, was the
+ratification convention for the initial
+Constitution itself.
+It has been hundreds of years before we've
+had a national convention.
+Now just because states aren't requiring
+this national convention to propose
+amendments, doesn't
+mean that it's not a powerful clause of
+this article of the Constitution.
+Just the threat that
+states have the power, to make Congress do
+something, has had
+effects in Congress proposing amendments
+that they knew the state wanted.
+That is, if a lot of states were
+threatening this huge national convention,
+to create an amendment
+for the Constitution, Congress can heed
+those threats and
+can themselves instead, under a two thirds
+super majority,
+propose these amendments.
+And so we haven't seen
+any of these national Constitutions yet.
+None of the 27 amendments that we have now
+have taken that path, it is a possibility.
+Okay, so after we clear step one, of the
+two
+stop process for constitutional amendment,
+then there is a second step.
+So the second step is, that the amendment
+must be ratified.
+And it must be ratified again,
+in one of two different ways.
+In the Constitution, article five actually
+outlines that Congress can
+decide which of these two ways the
+amendment must be ratified.
+So it gives Congress that authority.
+So the first way the amendment
+can be ratified, is if the legislatures of
+three fourths of the state,
+which is again, thir excuse me.
+Three fourths of the states, which is 38
+states, can ratify the amendment.
+Or the second, is that state ratifying
+conventions in three fourths
+of the state, which is again 38 states,
+can ratify the amendment.
+And so you see a difference there
+between the legislature and the state
+ratifying conventions.
+Now the legislature being a group of
+elected officials much like
+our federal House of Representatives and
+Senate, but at the state level.
+Now, we only have one instance where
+Congress mandated that the
+state ratifying convention of three
+fourths
+of the states ratify the amendment.
+And in this case, that's the 21st
+Amendment, which became part of the
+Constitution
+in 1933.
+To date, that is the only amendment that
+we have, that would required the state
+ratifying conventions.
+So as you can see by this two step
+process, article
+five mandates, a process that is not
+entirely left to Congress.
+That is, we don't want to give Congress
+the
+ability to change the Constitution
+entirely on its own.
+And people have wondered, why wouldn't we
+want to do that?
+Well, one hypothetical that really
+illustrates this point,
+is that Congress could amend the
+Constitution on
+their own to say that we're not going to
+have an, another election in four years.
+Or we're not going to give up our seats in
+congress, we are the perpetual congress.
+And they could take out the republican
+form
+of government clause and do all these
+things.
+And sure, there would be a public outcry.
+But if we allowed Congress to amend the
+Constitution on its own, we
+would be giving a significant amount of
+authority to that law making body.
+And so as you can see, the two
+step process for constitutional amendments
+requires, the help,
+really, of people in the states, whether
+it
+be the legislatures, or the state
+ratifying conventions.
+And without that consensus, amendments
+don't happen in America.
+Some scholars have said that the amendment
+process is too difficult, while
+others have actually rejoiced in this
+difficulty of amendment.
+These two third requirements, and the
+Congress and the states.
+Because we have we have a document and
+it's difficult to
+change, and some argue that many of the
+great things of our document then, are
+difficult to change, and they are not
+exposed to the political pressures of
+existing congresses.
+So, those were the two questions from the
+recent material that I thought
+were really interesting to consider and
+that a lot of you were wondering about.
+I encourage you to find the original
+posts.
+Maybe we can even link to them from
+this video.
+If you have further thoughts on the
+issues, as I said, this was really just a
+brief, cursory overview of the supremacy
+clause, and
+some of the debates and arguments
+surrounding it.
+And the article five procedure for
+Constitutional amendment.
+And there are certainly many more aspects
+of each of
+these articles to explore between each
+other on the discussion board.
+And, I know that, in all the posts I've
+seen so far many of you have
+a great handle on the Constitution
+already, and
+have been really invaluable help for your
+fellow classmates.
+In helping outline some of the issues that
+we've talked about today, and other issues
+as well.
+So, this ends our office hours for today.
+If you have questions, make sure to keep
+posting them.
+We will be going through the discussion
+boards and replying, as well as taking
+some of the questions
+and answering them on screen for you like,
+like I did today.
+Thank you, and have a great day.
+[MUSIC]
+

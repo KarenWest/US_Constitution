@@ -1,0 +1,763 @@
+Welcome back.
+In our last couple lectures, we talked
+about one of
+the most iconic courts in American
+history, the, the Warren court.
+Which sat in the mid 50s and through out
+the 1960s.
+Today we are going to talk and in our next
+lecture, we are going to talk about the
+role of the
+judiciary more generally because, of
+course, when lot of
+people think about the Constitution they
+think about The court,
+the case line.
+Not just the war in court, but courts
+generally.
+And the Constitution says a little bit
+about courts, the written Constitution.
+It talks about the judicial power of the
+United States, but it doesn't give us a
+full
+account of all the different components of
+that judicial
+power and what judicial power is really
+all about.
+To some extent, if these unspecified,
+unwritten, if you will, all the components
+of judicial power, so we're going to
+talk in today's lecture and the next one
+about the components of judicial power.
+and, in particular, we're going to end
+with a
+discussion about how to think about
+judicial precedent.
+What happens when the precedent seems to
+say
+x, but the written Constitution seems to
+say y?
+Which should trump, and why?
+What does the written Constitution say
+about precedent?
+What does precedent say about the written
+Constitution,
+and that's what we're, we're going to end
+with.
+We're going to try to bring these two into
+some harmony
+some alignment in the spirit of, of these
+lectures, which
+is to try to have an account of the
+unwritten
+Constitution and, and precedent is part of
+that unwritten Constition.
+It exists outside the terse text
+of the written Constitution.
+How to bring that body of precedent into
+that aspect of
+the unwritten Constitution into some
+proper alignment with the written
+Constitution.
+How to have an unwritten Constitution that
+adheres with that
+fits with, that serves rather than
+subverts the written Constitution.
+So, and I'm going to tell you at the end
+about these two interesting characters.
+Do you recognize either one?
+They're, they're maybe not, household
+names or or icons,
+but at the end of our next lecture, I'll
+tell you a little bit about these two.
+So, one of the most interesting aspects of
+the Constitution
+is that it features multiple references to
+itself,
+and sentences that refer to themselves can
+often be very interesting sometimes
+paradoxical, the sentence, you know, you
+know, this sentence is a lie.
+[INAUDIBLE] if it were a lie, it would be
+true,
+but if it were true, it would be a lie.
+So, self-referential sentences are very
+interesting, the Constitution
+refers to itself in a whole bunch of ways.
+The Preamble talks about this Constitution
+being
+ordained and established.
+This constitution, it's referring to
+itself.
+And that's why we've talked about, for
+example, how to take seriously
+the active ordainment to self and what we
+could deduce from it.
+Other provisions of the Constitution talk
+about how all the amendments are parts of
+the Constitution and that, and parts of a
+larger whole, parts of this Constitution,
+valid as parts of this constitution.
+And, and we've talked about how that means
+that we should have to read the
+Constitution holistically
+and, and and in Article Three, the
+Constitution
+also refers to itself in connection with
+the judiciary.
+And in Article Six, it refers to judges in
+connection with this Constitution.
+The Constitution is Supreme law and judges
+are supposed to
+enforce that Supreme law and take oaths of
+office to it.
+And Article Three says the judicial power
+of the United
+States shall extend to all cases arising
+under this constitution.
+So there's some linkages between the
+judicial power and this Constitution.
+So, let's, let's talk about a couple of
+those linkages,
+and in particular, let's focus on this
+idea of judicial
+power which it, the Constitution itself is
+basically setting up
+a judiciary and giving it a certain role
+not fully
+specifying all the components of that
+role, to some extent leaving them
+unwritten.
+I want to suggest that there are at
+least five different components of
+judicial power.
+And today I'll give you the five
+components
+and I'll apply those five components to
+some of
+the case studies, the war in court case
+studies that we briefly discussed in our
+previous lectures.
+And then in the next lecture, I'll talk
+more about one specific component, the
+component of precedent.
+So, judicial power.
+Well, one aspect of judicial power is
+simply the power to interpret the
+Constitution, to say what the law means.
+This is even implicit in the, the word's
+jurisdiction, that Article Three talks
+about jurisdiction of courts.
+And what is jurisdiction?
+Etymologically it's two words.
+Juris
+law.
+Juris doctors.
+There are doctors of law JDs.
+And diction speaking.
+So jurisdiction is a speaking of the law.
+And John Marshall phrased the power to say
+what the law is.
+And that is just a pure interpretive
+power.
+Now, a second and distinct idea is not
+merely
+the power to interpret the words but to
+implement them.
+To make them real in the world.
+To go beyond the text of the
+Constitution and to make it work in court.
+So we, we've got a case.
+Smith against Jones.
+And it's about two parties, and they're
+haggling over a piece of property,
+but wherein courts are going to need to
+come up with judicial tests for, doctrine.
+It's what we call them, formula's for who
+has the burden of proving what, and
+what's, what's the
+three prong test for implementing this
+provision of the Constitution?
+And what evidence would count in favor of
+certain propositions?
+And what is the rule that lower courts,
+and lawyers
+should sort of understand growing out of
+this area of law?
+So not just the power to interpret.
+Second component, the power to implement
+to
+make the Constitution work as in court
+law, as justiciable law.
+A third idea of judicial power is the the
+power to decide the case.
+Smith against Jones, well does Smith win,
+or Jones win?
+Sent to a issue of binding judgment.
+And even if other people think the court
+is wrong, they don't go beyond the
+judgment.
+The judgment of the case settles the
+issue definitively between the parties.
+If the court rules for Smith, Smith wins
+even
+if you think that Smith got a raw deal,
+you're
+a President or, or some other government
+actor, it's
+not that the court decided it, it is Res
+judicata.
+Res is R-E-S.
+It means, a thing.
+Judicata, adjudicated.
+An adjudicated thing.
+A done deal.
+Res judicata is the power to decide
+definitively the judicial case as between
+the parties.
+It, too, is a component of judicial power.
+The power to interpret, power to
+implement, power
+to issue a binding judgment, binding on
+the parties.
+The judgement power one scholar has
+refereed to it
+as Res judicata.
+Relatedly a court in
+the course of ruling, they give reasons.
+And those reasons can be
+appealed to by later courts.
+Those reasons have certain precedential
+weight.
+This is sometimes called by judges Stare
+decisis.
+It's about standing by a previous decison.
+Letting an eariler logic stand in in
+subsequent cases.
+So the question that, and this is much
+less absolute than Res judicata.
+The power to lay down a precedent of a
+certain weight but the question is, how
+much weight, and what kind of weight, and
+what would outweigh a precedent?
+The logic of a precedent when it’s decided
+when it comes to
+a later case, not involving Smith versus
+Jones but involving White versus Green.
+so, power to interpret, the power to
+implement.
+The power to decide the case in a, in a
+judgement, Res judicata, to lay down
+precedent of a certain weight.
+Finally, the power to remedy a violation
+of rights.
+Sometimes the Constitution, often the
+Constitution will
+say you may not do this, but
+it doesn't say what happens if government
+does do what its not supposed to do.
+John Marshall, building on Blackstone,
+basically said
+it's a, you know, ours is a system
+of, a rule of law, and the rule of law
+means that of every right there should be
+a remedy.
+And Blackstone had said this as well, and
+for
+him, it was like obvious, in the first
+principle in
+the same way, that it was obvious to him
+that
+a person couldn't be a judge in his own
+case.
+These are basic albeit, unwritten
+principles
+that that framed the entire Constitutional
+project.
+We, we encountered earlier, Blackstone
+saying judges, peo,
+persons can't be judges in their own case.
+Now, we're talking about another
+Blackstonian precept that
+John Marshall in a case called Marbury
+versus Madison,
+featured front and center, that for every
+right,
+there should be a legal remedy in a court.
+That the power of, the judicial power,
+encompasses not merely the power
+to say what the law is, but to remedy
+violations of law.
+So now, let's take those five components
+and apply them to a couple
+of a few of the case studies that we, we
+just canvassed involving the
+Warren court.
+The power, remember, these components of
+interpretation and
+implementation and Res judicata and Stare
+decisis and remediation.
+So let's take Brown versus Board of
+Education.
+As a case about the meaning of the
+Constitution, you might think Brown is
+just crystal clear.
+The Constitution says equal, segregation
+wasn't really.
+in fact.
+equal.
+Equal means equal, there's no textual
+exceptions
+saying equal means equal except when it
+comes to segregation, or except when it
+comes to schools or whatever, or buses.
+Equal means equal, this ain't equal, next
+case, pure interpretation.
+Okay, so far that's um; uh; um; good, but
+here's where
+Brown, Brown said two other things.
+It said that um;
+it implied in the field of education.
+And so it said, equality, equality,
+equality,
+but it also said education, education,
+education,
+and apparently didn't, it, we did that
+Brown over-ruled Plessy, it actually
+didn't say so.
+It said, Plessy was a transportation case;
+this is a case involving education.
+We hold that in the field of education.
+Separate but equal has no place, so what's
+up with that?
+If equal means equal, why did they somehow
+say in the field of education?
+And why did they say separate is
+inherently unequal?
+because, I mean, the word separate doesn't
+mean
+unequal, and it's not logically and
+obviously unequal.
+The framers of the 14th Amendment didn't
+think that separation always everywhere be
+unequal.
+And in fact, we believe in separate but
+equal.
+We believe that separate can be equal in
+certain areas.
+When it comes, for example, to certain
+kinds of sex discrimination.
+We can say the boys have their hardball
+team, and the girls have their softball
+team.
+And boy's gymnastics, it's separate and
+has slightly different rules.
+And girl's gymnastics, you know,
+different, uneven parallel
+bars versus even parallel bars and the
+rest.
+It separates boy's restrooms and, and,
+and locker rooms and girl's restrooms and
+locker rooms.
+So separate can be unequal.
+So what's going on here?
+If you think that Brown was saying
+separate was unequal as matter of
+interpretation.
+It's kind of confused.
+If you think instead Brown is saying as a
+matter of implementation.
+Look here's, here's the thing.
+Separate can be equal; it can be unequal.
+Who has the burden of proof?
+Before Brown was aside and the fact,
+plaintiffs every time had to
+prove that the separation and the
+segregation, the formal race
+classification was unequal.
+And that put a lot of because, because
+courts
+have to come up with rules of proof for
+court.
+Who has to prove what, how what, what are
+sort of the prongs of the doctrine?
+What things do you have to prove in order
+to make that your ultimate case of
+Constitutional inequality?
+What are the little steps
+that you have to, to go through in the
+court?
+And, and before Brown, in effect,
+plaintiffs have to show the inequality.
+Well, here's the unequal
+drinking fountains, and here's, you know,
+the
+unequal class sizes, and here's the
+unequal funding.
+After Brown, the presumption is different.
+We're going to presume that separate is
+unequal.
+Separate is not so much that it's
+inherently unequal.
+It's that we think it's inevitably unequal
+as a matter of history.
+We've seen now enough Jim Crow cases to
+know that almost always
+when we look carefully we find inequality.
+So now, we're going to change the burden
+of proof.
+The burden of proof is not going to be in
+effect
+on the government to show that there's
+nothing unequal about this.
+We're going to presume inequality.
+That's in the domain of implementation.
+Because the Constitution can't in the
+nature of things, specify all the burdens
+of proof and all the rest, but if the
+court had done anything else.
+It really
+would to vindicated that the idea of
+equality.
+Made it real on the ground.
+It would put all sorts of burdens on
+discriminating against
+blacks and their lawyers to prove it case
+by case.
+That would have been very expensive, but
+it would have encouraged shaming and
+winking
+by state judges, who were under pressure
+by state legislatures to uphold Jim Crow.
+This was a nice clean rule, a clean
+implementation rule.
+Separate is basically inevitably unequal.
+Why though limit it to education?
+You know, if it's unequal in education
+isn't also unequal in public beaches and
+in
+golf courses and in marriage laws, that
+said
+blacks can only marry blacks and whites
+whites.
+Well, the court didn't say that in Brown.
+It said that in education we hold that
+separate is unequal, and Plessy has no
+place.
+So what's going on with that?
+Remember precedent plays a role here, and
+it would
+have been awkward for the court in the
+same day
+that it's invalidating all sorts of Jim
+Crow laws
+and the federal government in Washington
+D.C. and the states.
+At the same time is throwing out hundreds
+if not thousands of, of, of educational
+segregation policies.
+It also has to formally overrule Plessy,
+so it didn't quite.
+Today, we understand Plessy to have been
+overruled,
+but only in retrospect.
+At the time, the court said education,
+education, education.
+And only later said, oh by the way, that's
+true in transportation, too.
+And it didn't give a lot of reasons when
+it said oh by the
+way; it just cited Brown which had
+said education, but said oh, yeah,
+transportation too.
+Oh, in the 1967 said, oh yeah, marriage
+laws also.
+Marriage laws can't be segregative.
+The marriage laws
+in some states had said, whites can marry
+whites,
+and blacks can marry blacks, but blacks
+can't marry whites.
+And, and the deep logic of Brown, that
+separate is inherently unequal, suggests
+that that's unconstitutional.
+But they limited to education, why did
+they do that?
+because if they said in 1954 that, that
+they
+didn't in the end invalidate what we call
+miscegenation laws.
+It's usually segregation of marriage laws
+that, that people
+could marry peop, those only of their own
+race.
+They didn't hold, the Warren court didn't
+invalidate that until 1967.
+And Earl Warren was there, he's an
+important, he writes that
+opinion, but in 1954 he doesn't say that,
+and why not?
+Because he's not, judicial power is not to
+just
+merely say what equality means, but to
+make it real
+in the world and if he announces in 1954
+that
+miscegenation laws are unconstitutional,
+he's going to make it harder to implement.
+Brown's going to create even more of a
+backlash.
+Because, the resistance to Brown versus
+the Board of Education, much of it,
+involved issues of interracial dating,
+socialization involved miscegenation.
+A lot of parents of fair skinned white
+girls were really traumatized by the
+prospect that their white
+girls would be in the same classrooms in
+school as
+black boys and might socialize with them
+and maybe become
+romantically involved with them and had
+the war in court said.
+Yes, actually.
+Miscegenation laws are unconstitutional
+too.
+In 1954, the same day it announced Brown
+versus
+Board of Education and Bowling versus
+Sharp, it
+would have made the implementation task of
+Brown and
+the remedial task of actually making these
+equality
+rights real on the ground, all the more
+difficult.
+And so maybe and, and by the, and it
+waited until 1967, and by 1967 the world
+had caught up to the Warren court to some
+extent summer of love lots blacks
+are now voting thanks to the Voting Rights
+Act of 1965.
+They're Congress has weighed in in support
+of
+Brown with the Civil Rights Act of 1964.
+So the President is on board
+enthusiastically, Lyndon Johnson.
+And, and so was the Congress, with its
+iconic statutes.
+Dr. King has given his, his speech talking
+about people holding hands together,
+and singing together the words of the
+Negro Spiritual, free at last,
+free at last.
+Thank God almighty we're free at last.
+That was an integrationist moment that
+had, had, hadn't happened in 1954.
+It had happened by 1967, so when the court
+announces
+that in Loving verses Virginia, that's the
+case in 1967.
+It has a much better prospect of making
+that, that stick.
+And only few, a few states really were
+trying to very emphatically prohibit
+miscegenation by 1967.
+1954, a different world.
+And if you think the Judicial task is
+merely one
+of interpretation, you'll miss some of
+those elements of Brown, how
+it has to deal with the precedent of
+Pleissy, how
+it had to deal with implementation and
+remedial issues as well.
+Well, let's take a couple more examples
+and then we'll
+start talking about precedence and in the
+next lecture.
+Let's take the example of prayer in the
+public schools.
+The court announces these precept that
+there have to be
+religious liberty and equality.
+And there's massive backlash.
+States are still trying to sneak organized
+prayer into the schools, and the court
+reacts to that by pushing back and maybe
+overreacting.
+A later case, after the Warren court, said
+a state can't
+have a law in it's schools simply allowing
+a moment of silence.
+And what's wrong with a moment of silence?
+The, the government isn't composing the
+prayer.
+People are free to think what they want in
+that moment.
+Some people are free to pray; other people
+are free to think about baseball.
+Atheists are think, are free to think,
+atheist students, heretical thoughts.
+The court after the Warren started to move
+away from equality as the idea toward
+this idea of separation of church and
+state,
+and that phrase doesn't appear in the
+Constitution.
+That doesn't mean it's wrong,
+all sorts of other phrases don't appear,
+like the rule of law.
+But separation, I think, was not, so
+separation could be permissible if it's a
+sensible implementation of, of the idea of
+equality, but was it a sensible
+implementation?
+Because separation can sometimes actually
+work to undercut religious equality.
+Let's take a system, for example, where
+everyone gets a computer.
+Every kid in public school and in private
+school,
+that doesn't have religion gets a computer
+to do work.
+Now, what happens if a kid wants to use
+the computer at a religious school?
+If you think the idea of equality is the
+key, well, you say, well everyone gets a
+computer.
+It doesn't matter whether you pray or not,
+whether you're a religious
+school or not.
+If the schools teach reading, writing,
+arithmetic, you get the computer.
+We don't discriminate in favor of
+religion; we don't discriminate against
+it.
+That's the apogee of the idea.
+If you can think, it's the separation
+idea,
+you say, oh, no, we can't allow that.
+We can't have kids in religious schools
+using computers, because
+then, the government wouldn't be
+completely separate from the religious
+schools.
+Separation taken
+to the extreme can actually to
+discrimination against religion, and the
+core idea is equality for all faiths and
+the absence of faiths.
+The core idea is not separate but
+equal.
+So, getting in our minds what
+the key Constitution concept is and when
+implementation actually starts to undercut
+that concept, religion cases are, I think,
+a useful reminder.
+And in recent years, the court has moved
+away
+from separation as the metaphor and
+focused more on equality.
+Give you one final example, of how these
+concepts, let's think about voting,
+So if the equal protection clause were the
+basis of voting rights, well
+then of course, all votes have to count
+equally because the word says equal.
+It says equal protection.
+But the equal protection clause probably
+isn't the proper
+basis; that's about persons not citizens,
+it wasn't about voting.
+The proper basis is probably the
+republican government clause.
+and, and the idea that that and, and the
+14th Amendment, Section Two that says the
+right to vote shall not be abridged.
+And maybe it's possible to imagine a
+certain societies that
+are tolerably Republican that have some
+unequal weighting of votes.
+So maybe in the domain purely of
+interpretation,
+Republican government doesn't mean that
+every vote has
+to be counted exactly the same, that every
+district has to be exactly the same size.
+Maybe you could have some inequality of
+district size and
+still be a genuinely republican
+government, okay.
+So, the domain of interpretation,
+republican government
+doesn't equal, automatically equal
+districts, you know.
+Unequal districts are not inherently
+unrepublican
+as a matter of, of interpretation.
+But now think about implementation.
+Okay, so some inequalities are permissible
+but how much?
+Is 10% variation between the districts
+okay?
+What about
+20%, 30%?
+At some point, let's go back to the
+earlier hypothetical, suppose legislator
+the fifty-one most senior members of
+legislature, their household are
+themselves districts.
+So they in their households vote in these
+fifty-one
+districts, the rest of the state,
+forty-nine other districts.
+And that means that these fifty-one people
+have a permanent lock on power.
+Well that goes too far, obviously.
+That's not republican, that's an
+aristocracy.
+That's an oligarchy.
+That's,
+that's, that's ridiculous.
+But if that goes too far, how do you
+implement, you know, in a judicially
+enforceable, clean way the principle, and
+here's
+one thing that equality has going for it.
+It's a nice, clean, bright line rule as a
+matter of implementation.
+And when you understand that judicial
+power
+involves, not just interpretation, but
+implementing things
+in the real world in a way that judges
+can, can enforce, and lower
+courts can understand.
+Appellate judges can enforce.
+Lower course can understand, attorneys can
+understand,
+the rest of the government can understand.
+One person, one vote has a
+certain implementational cleanness that's
+really quite striking.
+Okay we've talked about some of these
+aspects of, of judicial power.
+Interpretation, implementation.
+I'm actually in the next lecture going to
+talk a little about the remedy component,
+say a little bit more about the
+exclusionary
+rule, maybe that will illustrate the
+remedy component.
+But we're mainly going to focus on the
+role of precedent on
+Stare decisis and try to figure out when
+we should go with precedent.
+And where we should go with the written
+Constitution or when
+precedent and in the written Constitution
+seemed to point in different directions.
+Stay tuned.
+[MUSIC]
+

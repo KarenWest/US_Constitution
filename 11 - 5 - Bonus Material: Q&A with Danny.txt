@@ -1,0 +1,605 @@
+[BLANK_AUDIO]
+Hi, I'm Danny Townson, one of the TAs for
+Professor Lamar's Constitutional Law
+class, and I'm back with the
+latest in our series of answers to
+questions from our
+Q and A session just a couple of weeks
+ago.
+So, first off, we've got a question from
+Greg Wilson.
+Greg asks, since the Affordable Care Act
+has been determined to be
+a tax by the Supreme Court, don't we have
+a constitutional problem?
+The ACA originated in the Senate and the
+constitution states, all
+bills for raising revenue shall originate
+in the House of Representatives.
+That's Article one, section seven.
+Greg is referring, I think, to an issue
+that has been raised in a lawsuit
+by Pacific legal foundation called Sissel
+versus the
+United States department of health and
+human services.
+That's actually going to be heard by the
+DC circuit, which
+is a court in DC, in May eighth, on May
+eighth.
+So just a few weeks from today.
+It's a really interesting question.
+Article one, section seven, the, part of
+the constitution that reads all bills for
+raising
+revenue shall originate in the House of
+Representatives,
+is appropriately, appropriately enough,
+called the origination clause.
+The second half of the clause, raises
+some, questions about, about Greg's
+question, which
+is the phrase, the Senate may propose or
+concur with amendments as on other bills.
+So within this framework what, what does,
+what, what
+does this framework mean for the
+affordable care act?
+And the for, for an answer I think one of
+the.
+[UNKNOWN] Ryan?
+>> Yep
+>> Can we start over?
+>> Yeah, you want, you want to go back all
+the way to the beginning.
+>> Yeah, totally, I think I just needed a
+little warming up.
+>> Yeah, no problem.
+We're still rolling so.
+>> Okay great.
+[BLANK_AUDIO]
+Hi, I'm Danny, one of the TA's for
+Professor Amar's Constitutional Law class
+here on Coursera.
+I'm back this week with more answers from
+our most recent Q and A session.
+And first up we've got a question from
+Greg Wilson.
+Greg asks since the Affordable Care Act
+had been determined to be
+a tax by the Supreme Court, Don't we have
+a constitutional problem?
+The ACA originated in the Senate, and the
+constitution states that
+all bills for raising revenue shall
+originate in the House of Representatives.
+Grey's question is a really interesting
+one and
+is a question that's actually at the
+center of
+a recent case that's going to be heard by
+the DC Circuit in just a couple of weeks.
+That case was brought by the Pacific Legal
+Foundation and it's called, and
+it's titled, Sissel vs The United States
+Department of Health and Human Services.
+To answer this question I looked at some
+of the writings from
+another professor here at Yale, one of
+professor Arts colleges Jack Balkin.
+Professor Balkin has written about this
+case in the Atlantic Monthly
+if you want to look at the article for
+yourself but also provide
+some of the analysis of what Professor
+Belkin said in response to
+Greg Wilson's question and, in response to
+other questions along those lines.
+So, just to provide some background from
+Greg's question,
+the Affordable Care Act, which is
+sometimes referred to as
+ObamaCare is the large healthcare reform
+bill that was passed,
+in 2009 and 2010, by the House and the
+Senate.
+There have been a number of constitutional
+challenges to this bill.
+And in one of the most high profile ones,
+which was called
+NFIB versus Seballius, the Supreme Court
+determined that one of the reasons the
+bill was constitutional in that case, was
+that it was enacted under
+the con, under Congress's taxing power
+rather than under the commerce clause
+power.
+So Greg's question brings up sort of a
+next follow-up question, which is okay,
+well, if
+it is a tax, the constitution says that
+taxes have to originate in the House of
+Representatives.
+So, since this originated in the Senate,
+isn't it unconstitutional for that reason
+then?
+Didn't the Supreme Court sort of put us in
+a, a catch-22 in terms of the bill's
+constitutionality?
+Now, in order to answer this question,
+it's,
+I'll go over a little bit of the timeline.
+Which is that, on November seventh, 2009,
+the House passed a version of
+healthcare reform, a bill with many of the
+provisions in the Affordable Care Act.
+The Senate in response then amended
+another recently
+passed tax bill, which was referred to as
+HR3590.
+That bill which had been passed by the
+House, was
+a, a bill that was completely separate
+from healthcare reform.
+It was a bill that provided for changes in
+the taxation
+rules for those in the armed services who
+are buying new homes.
+So an important issue, but it's very
+distinct from, from healthcare reform.
+So on December, so the Senate amended that
+bill
+and deleted all of the texts that had to
+do
+with service members taxation provisions,
+and instead inserted a wholly
+new set of texts that was about health
+care reform.
+On December 24, 2009, the Senate then
+passed that newly amended bill.
+What's interesting then is that in January
+of 2010 after the Senate had
+passed that amended bill Scott Brown was
+elected the Senator from Massachusetts and
+that changed the political configuration
+of
+the Senate where the Democratic Party,
+which
+had had a 60 vote majority, then only had
+a 59 vote majority.
+This meant that the passing bills in the
+Senate could not longer occur
+as easily because of the possibility that
+bills and debate would be filibustered.
+So the Seante and the House then passed
+healthcare reform with the process now
+known as reconciliation.
+And one of the things that reconciliation
+required was that
+that original Senate bill which had even
+before the Healthcare
+reform, been the Senate or been the
+Taxation for Service
+Members Provision, was then the bill that
+ultimately became Healthcare Reform.
+So, in terms of analysis from the
+origination cause, this is a
+process that's known as creating a Shell
+Bill or using a Shell Bill.
+Where, a bill from the House of
+Representative that has been passed by the
+House
+is completely amended so that the old text
+is extricated and new text is put in.
+So, from a procedural standpoint, the tie,
+that bill, in this case HR3590,
+technically originated in the House but
+all of the contents of that bill came from
+the Senate, and this is important because
+the second half of the origination clause
+States that the Senate may propose or
+concur with amendments, as on other bills.
+So, the constitutional structure is that,
+The
+House has to originate bills, that are for
+raising revenue, but the Senate can amend
+them just like it can any other bills.
+So, what we see with shell bills is that
+the
+senate amends the bill essentially 100%
+everything but the title.
+Takes a way all of the texts and replaces
+it with new texts of potentially a
+completely different topic.
+Now so that's one of the reason that the
+Pacific Legal Foundation
+has brought this suit, and one of the
+sources for Greg's question.
+But what interesting is that under Supreme
+Court precedent, this
+is relatively, it seems to be a relatively
+OK procedure.
+So shell bills have been used by by
+different
+administrations and different Congresses
+over the past several decades,
+including the 1986 Tax Reform Act, which
+was an
+incredibly important tax reform bill
+passed under President Reagan.
+Supreme Court precedents about the
+origination
+clause cover all sorts of territory.
+In 1911 in a case called Flint
+versus Stone Tracy Company, the Supreme
+Court upheld
+a bill where an inheritance tax was
+replaced with the nation's first corporate
+income tax.
+That was again a situation where the House
+passed one form of
+revenue raising and the Senate changed
+it complete, to be something completely
+different.
+The Supreme Court then said, well since
+they both were raising revenue, they were
+similar
+enough that, the Senate's version was
+still
+germane and was allowed under the
+originations clause.
+In 1914 then, in a case Rainy vs The
+United States, the Supreme
+Court said that it wouldn't look into the
+germaneness of, of duly passed bills.
+It sort of placed a limit on its ability
+to sort of interrogate the contents of
+these bills.
+If the Senate has amended a bill, no
+matter how much
+it's amended it, if that bill was then
+passed by the House
+and the Senate and sign by the President,
+and is a dully
+enrolled bill, the Supreme Court said it
+would limit its germaneness inquiries.
+So for those reasons it may be that the
+affordable,
+that this challenge, the Affordable Care
+Act would fall under the
+nor, that the procedural mechanism of a
+shell bill would
+be totally fine for the passage of the
+Affordable Care Act.
+There's also the fact that during
+reconciliation,
+the process by which the bill was
+ultimately passed, the house did amend the
+bill, and the house did pass it.
+So the house's imprimatur is on the bill,
+it's not as
+if the senate is acting in some sort of
+rogue capacity.
+And finally there's the considerations
+that were ruled upon in the trial court.
+So this case is being heard by the DC
+Circuit, a court of appeals
+on May eighth which means that it's
+already been heard by, by a trial court.
+The trial court ruled under a different
+set of Supreme Court precedents, that this
+bill is actually not to be interpreted as
+primarily a bill for raising a revenue.
+Since the major purpose of the bill was
+healthcare reform, it's an
+incidental effect that the bill then will
+tend to raise revenue by,
+imposing fines or taxes on people who do
+not, do not pursue health, health
+insurance on the exchanges or through
+their employer or elsewhere, elsewhere.
+So, under the trial court's analysis and
+under
+Supreme Court precedent, bills whose
+primary purpose is something
+else and just have happen to raise revenue
+as
+an incidental effect actually can
+originate in the Senate.
+So those are two different mechanisms that
+you could see to uphold
+the constitutionality of the Affordable
+Care
+Act against an Originations Clause
+challenge anyway.
+One is that, because of this shell bill
+mechanism, technically the, technically
+the bill formally originated in the House,
+and the Supreme Court has historically
+been a little unwilling to determine
+exactly what the limits are toward the
+amendibility of the text of bills that do
+originate in the House procedurally.
+A second possibility is that even if the
+bill, if even if
+the courts INAUDIBLE] originate in the
+Senate, because it's primary purpose is
+something other than raising revenue, the
+fact that it has an incidental
+revenue raising function would mean that
+the bill would still be constitutional.
+But it's a very interesting question,
+because
+as you can tell, you know the shell
+bill mechanism seems a little strange,
+it's just
+that the Supreme Court precedent over the
+last
+century or so has indicated an
+unwillingness
+by the courts to probe too far into
+what is and is not allowable under
+Congressional
+procedure for the Senate to amend, amend
+bills.
+It's a very interesting question.
+Next up we have a question by Paula Dryer,
+who asks about the House Judiciary
+Committee and holding a, a hearing in
+December to consider the impeachment of
+President Obama.
+Paul asks what the founder's intent was
+with the words
+treason, bribery, and other high crimes
+and misdemeanors, which are
+the standards for which the House and the
+Senate hold
+impeachments, and, and convict the
+President or other, other high officers.
+Paul says that to me this seems to be a
+political act.
+A, a policy difference, and he, Paul
+wonders
+is this what the framers had in mind.
+So, just to make sure we go over the, the
+mechanisms under the Constitution.
+Under the Constitution impeachment
+provisions, the House indicts a
+President or other high officer by a
+majority vote.
+But, two thirds of the Senate is then
+needed to convict the President or other
+officer
+under The House's indictment, at which
+point the
+president for instance would be removed
+from office.
+So it requires bicameralism in some sense,
+and a majority
+vote in the house and 2/3 votes in the
+senate.
+So it's important to note that and there
+was some
+confusion of this in the comments that The
+House Judiciary Committee
+holding a hearing to consider the
+impeachment is not the same
+as the house impeaching the president,
+it's very far from it.
+But it's still an interesting questions as
+to, as to what the original intent of the
+founders was regarding impeachment, and
+whether impeachment for
+political differences was cognizable
+under, under this original intention.
+And interestingly enough the founders
+actually
+did inter, did seem to construe
+impeachment
+to be not just a criminal process, but
+actually an actively a political process.
+Early discussions in the federalist papers
+and around the timing of the ratification
+of the constitution show that high
+misdemeanors,
+this phrase in the constitution, could be
+not just actions that are technically
+criminal,
+for instance, murder or bribery, but could
+actually be other, other actions that are,
+sort of, could be considered grievous
+misconduct.
+Things that the president should not be
+doing,
+even if, even if they're not technically
+criminal.
+Professor Amargo's into this a little bit,
+in America's Constitution, A Biography.
+What he writes on page 202, that America's
+Constitution transformed
+impeachment into a more precise
+and proportionate system of political
+punishment.
+While the English high court of Parliament
+claimed jurisdiction to impeach even
+private citizens.
+In America only federal officers would be
+subject to impeachment.
+America's impeachment tribunal would
+itself be politically
+accountable, structured to permit
+judgements of state, of
+statecraft to percolate into the process
+and
+thereby enhance the public legitimacy of
+the verdict.
+Professor Amar gives a contrast to the
+system of impeachment in, under the
+British monarchy
+wherein Parliament would only impeach
+Imperial Ministers, or
+the, the King's Ministers, under a
+criminal process.
+So they would come up with criminal
+sanctions possibly ginned up
+or possibly accurate, and impose criminal
+penalties, including the death penalty.
+And so the the advantages of the political
+process of impeachment are that by
+separating it somewhat from this
+quintessentially criminal
+process, you allow the punishment to be
+simply
+removal from office, as opposed to these
+criminal sanctions, and then allow
+ordinary criminal courts
+who have expertise in handling criminal
+matters
+to impose the actual punishments for
+criminal behavior.
+Of course there's you know, a potential
+objection
+to this consideration in that if
+impeachment is
+only supposed to be for high misdemeanors,
+and
+you make it this explicitly political
+process, couldn't
+you just have impeachment of a president
+by
+a Senator or a House who simply disagree
+with the President's politics, don't like
+the way
+he or she is, is running the country.
+And there're some clues in, in the
+Constitution that suggest that such
+low level political disagreement would not
+be an appropriate excuse for impeachment.
+First of all, you look at the overall
+phrases in the Constitution which suggest
+that impeachment is not just for high
+misdemeanors, but also for treason or
+bribery.
+Now treason and bribery are pretty extreme
+cases of misconduct
+and they suggest a relatively high bar as
+appropriate for mis,
+for impeachment as just does the phrase
+high crimes and
+misdemeanors itself, the word high is
+right there in the text.
+Finally if you look at the fact that the
+impeachment is a, is a tool,
+is a bicameral process where both the
+House
+and the Senate have to concur, you see
+that there's actually,uh, that's a
+relatively high
+bar to set for the removal of the
+president from office, especially because
+the actual conviction
+in the senate is by a 2/3 majority.
+So this suggests that, politically, while,
+you know, it is feasible for the
+congress, for congress to impeach the
+president
+simply because of political disagreement,
+you'd really
+need a truly national constituency that
+viewed this, that viewed the president's
+actions
+as sufficient to warrant, impeachment and
+that, that's a really high bar to set.
+One of the most obvious examples of this
+is, is Andrew Johnson's impeachment,
+where in the the House did succeed in, in
+indicting President Johnson, but
+he was acquitted by the Senate, for any
+actual conviction or misconduct, and
+that's particularly noticeable because
+President Johnson was
+not popular in the Senate at all.
+The Senate in fact that acquitted
+President Johnson of impeachment, had
+overridden President
+Johnson's veto's, which also requires a
+two
+thirds majority it's a very high power.
+15 out of 21 times that had the chance to.
+This is a Senate that did not think that
+it owed President Johnson any favors.
+Yet, none the less, because of a high bar
+set historically and in
+the text of the constitution and
+also procedurally by the constitution,
+they're, it
+seems unlikely that pure politics would be
+able to override to remove a
+president from office at least as we've
+seen so far in constitutional history.
+That's it for the questions that I wanted
+to
+answer but I also thought I would flag
+another comment
+and suggestion made by someone in the
+forums which I
+thought was very interesting, and that's
+by Robert Harrison Lane.
+Robert writes that Robert suggests the
+possibility of a
+constitutional amendment that would answer
+questions of interpretive methodology.
+You know in the forum as well as in the
+law more generally.
+There's been lots of conversation about
+what tools of interpretation
+we should use for the constitution, apart
+from the text itself.
+So, you know, history, original intent
+ideas of more, more of a living
+constitution mechanism, oh, or, other
+rules like
+the, the rule of lenity for, for
+assuming that criminal, criminal
+misconduct is or
+criminal punishment is particularly harsh
+and so
+we should construe the Constitution in
+favor
+of less, less harshness in criminal
+contexts.
+So, Rob suggests that we could actually
+have a
+constitutional amendment, which would
+resolve some of these issues.
+Saying, which tools of interpretation we
+should use
+in interpreting the Constitution itself
+after the text itself.
+He also suggests that an amendment could
+prioritize among different tools and say,
+you know,
+first courts should look to this, second
+courts
+should look to that, and third, the
+following.
+I thought this was a really interesting
+idea.
+So, I just wanted to, to bring it up to
+everyone's attention just so you guys
+know where, we, we think the conversations
+that
+are going on in the forums are very
+interesting.
+And I thought this was a particularly
+interesting suggestion that I would
+bring to Professor Amar's attention as
+well, if he hasn't already seen it.
+So, thanks Rob, and thanks for everyone
+else who's been asking questions.
+And we look forward to seeing you next
+week.
+[MUSIC]
+[MUSIC]
+[BLANK_AUDIO]
+
